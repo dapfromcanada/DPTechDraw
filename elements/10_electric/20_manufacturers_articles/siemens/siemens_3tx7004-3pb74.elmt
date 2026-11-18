@@ -1,0 +1,48 @@
+<definition version="0.100.0" type="element" link_type="simple" width="100" height="80" hotspot_x="50" hotspot_y="40">
+    <uuid uuid="{61096b06-52e6-0ddf-f9ce-a509ce4fc746}"/>
+    <names>
+        <name lang="ca">3TX7004-3PB74</name>
+        <name lang="cs">3TX7004-3PB74</name>
+        <name lang="en">3TX7004-3PB74</name>
+        <name lang="pt_BR">Rele de interfaceamento Siemens 3TX7004-3PB74 (24-240VAC/VDC, 6A, 1NA)</name>
+        <name lang="zh">西门子 3TX7004-3PB74 接触器</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x1="9" y1="12" x2="7" y2="7" x3="4" y3="10" antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <polygon x1="-11" y1="1" x2="-13" y2="0" x3="-13" y3="2" antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <text text="14" x="5" y="25" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="27.5" y="27.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-32.5" y="27.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="7.5" y="27.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="+13" x="3" y="-19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="A2" x="-35" y="25" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-21" y1="1" x2="-13" y2="1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="7.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="0V" x="25" y="25" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-11" y1="-2" x2="-13" y2="-3" x3="-13" y3="-1" antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <line x1="-21" y1="-2" x2="-13" y2="-2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-5" x2="0" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-35" y1="5" x2="-25" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-80" y="-33.5" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ca8e0107-f343-41dd-950c-2aad5f2a01c4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-35" y1="-5" x2="-25" y2="-5" x3="-30" y3="5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line x1="-30" y1="-17" x2="-30" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-32.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="A1" x="-35" y="-19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="10" y1="-17" x2="10" y2="-13" x3="0" y3="-3" x4="0" y4="3" x5="10" y5="13" x6="10" y6="17" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line x1="-27" y1="-30" x2="7" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-27" y1="30" x2="7" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="13" y1="30" x2="27" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-33" y1="-30" x2="-45" y2="-30" x3="-45" y3="30" x4="-33" y4="30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="33" y1="30" x2="45" y2="30" x3="45" y3="-30" x4="13" y4="-30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{37001d8d-851a-4600-931a-9f8d34f116cd}" name="" x="-30" y="-33" orientation="n" type="Generic"/>
+        <terminal uuid="{e2c20b1a-9854-40f5-bba0-392614e86c56}" name="" x="-30" y="33" orientation="s" type="Generic"/>
+        <terminal uuid="{93425c37-decb-44e6-b04c-1e6635bfac21}" name="" x="10" y="-33" orientation="n" type="Generic"/>
+        <terminal uuid="{252bb721-5d4d-4f46-bfa5-343482dc3e10}" name="" x="10" y="33" orientation="s" type="Generic"/>
+        <terminal uuid="{826eb66b-4467-44b9-9b80-9998c8ab8800}" name="" x="30" y="33" orientation="s" type="Generic"/>
+    </description>
+</definition>

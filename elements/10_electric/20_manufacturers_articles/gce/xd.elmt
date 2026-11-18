@@ -1,0 +1,31 @@
+<definition version="0.100.0" type="element" link_type="simple" width="100" height="100" hotspot_x="50" hotspot_y="86">
+    <uuid uuid="{30d7f4a3-6b94-3bcc-160b-580793311527}"/>
+    <names>
+        <name lang="ca">GCE-Xdisplay</name>
+        <name lang="cs">GCE-Xdisplay</name>
+        <name lang="fr">GCE-Xdisplay</name>
+        <name lang="pt_BR">Painel touch-screen de controle IHM GCE X-Display</name>
+        <name lang="zh">XD 数字量输入模块</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-45" y="-84" width="90" height="95" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="-" x="17" y="-60" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="-" x="17" y="-40" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="16" y="-26" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="17" y="-46" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="4" y="-64" width="10" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="4" y="-44" width="10" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="12 V" x="22" y="-50" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Bus" x="21" y="-31" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-23" y1="-73" x2="27" y2="-73" x3="27" y3="-0.8" x4="-23" y4="-0.8" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="GCE Electronics" x="26" y="-2" rotation="270" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-22" y="-20" z="12" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{a61d9150-b50e-47a2-b7e5-7d22eb5805fa}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>X-XD</text>
+        </dynamic_text>
+        <terminal uuid="{c2b07130-5872-499e-b536-c8d6405df766}" name="" x="14" y="-30" orientation="e" type="Generic"/>
+        <terminal uuid="{196cfb66-3745-4e5c-89a8-0cd57d7e9073}" name="" x="14" y="-50" orientation="e" type="Generic"/>
+        <terminal uuid="{85a58fc5-256a-4609-8947-f892e58ec789}" name="" x="14" y="-60" orientation="e" type="Generic"/>
+        <terminal uuid="{689cb729-79f3-4b22-9f87-1ceb2a773e43}" name="" x="14" y="-40" orientation="e" type="Generic"/>
+    </description>
+</definition>

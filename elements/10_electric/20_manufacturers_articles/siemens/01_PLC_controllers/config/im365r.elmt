@@ -1,0 +1,37 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="270" hotspot_x="15" hotspot_y="43">
+    <uuid uuid="{3b014885-40c4-626a-c8e2-0ae2420c244d}"/>
+    <names>
+        <name lang="ar">IM365 RECEIVE 365-0BA01-0AA0</name>
+        <name lang="ca">IM365 RECEPCIÓ 365-0BA01-0AA0</name>
+        <name lang="cs">IM365 RECEIVE 365-0BA01-0AA0</name>
+        <name lang="el">IM365 RECEIVE 365-0BA01-0AA0</name>
+        <name lang="en">IM365 RECEIVE 365-0BA01-0AA0</name>
+        <name lang="es">IM365 Receptor 365-0BA01-0AA0</name>
+        <name lang="fr">IM365 RECEIVE 365-0BA01-0AA0</name>
+        <name lang="it">IM365 Ricevitore 365-0BA01-0AA0</name>
+        <name lang="nl">IM365 Ontvanger 365-0BA01-0AA0</name>
+        <name lang="pl">IM365 RECEIVE 365-0BA01-0AA0</name>
+        <name lang="pt">6ES7 365-0BA01-0AA0</name>
+        <name lang="pt_BR">Modulo de interface Siemens IM365 Recepcao (6ES7 365-0BA01-0AA0, rack escravo S7-300)</name>
+        <name lang="zh">IM365 R 接口模块</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="-7" y="-51.95" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{10bf35cd-8435-4c4a-9a8a-0bb527cf2038}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-10" y="-30" width="80" height="250" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="29" y="-24" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{829be1e1-cf76-4488-aae9-e706c4f5893c}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>RECEIVE</text>
+        </dynamic_text>
+        <dynamic_text x="32" y="-33" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{e0e7cb8e-6dc0-40d9-b8cc-ab717f287877}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>IM 365</text>
+        </dynamic_text>
+        <ellipse x="-4" y="206" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-8" y="202" width="12" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="120" x2="69" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{a785a7f0-f786-4225-8a64-9daf3d0d0dcc}" name="" x="36" y="217" orientation="n" type="Generic"/>
+    </description>
+</definition>

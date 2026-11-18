@@ -1,0 +1,122 @@
+<definition version="0.100.0" type="element" link_type="simple" width="390" height="160" hotspot_x="26" hotspot_y="25">
+    <uuid uuid="{5d915e0b-f82d-2338-1f66-1ca61896fd41}"/>
+    <names>
+        <name lang="ar">TWDLCDA10DRF</name>
+        <name lang="ca">TWDLCDA10DRF</name>
+        <name lang="cs">TWDLCDA10DRF</name>
+        <name lang="el">TWDLCDA10DRF</name>
+        <name lang="en">TWDLCDA10DRF</name>
+        <name lang="es">TWDLCDA10DRF</name>
+        <name lang="fr">TWDLCDA10DRF</name>
+        <name lang="it">TWDLCDA10DRF</name>
+        <name lang="nl">TWDLCDA10DRF</name>
+        <name lang="pl">TWDLCDA10DRF</name>
+        <name lang="pt_BR">TWDLCDA10DRF</name>
+        <name lang="zh">TWDL CDA 10DRF</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-21" y="-21" width="380" height="152" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="0" y1="131" x2="0" y2="100" x3="60" y3="100" x4="60" y4="131" x5="60" y5="130" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="28" y1="118" x2="32" y2="118" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="290" y1="99" x2="290" y2="84" x3="350" y3="84" x4="350" y4="99" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="270" y1="99" x2="270" y2="84" x3="90" y3="84" x4="90" y4="99" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-12" y1="-14" x2="-12" y2="1" x3="350" y3="1" x4="350" y4="-14" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="200" y1="100" x2="260" y2="100" x3="260" y3="110" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="Ry.OUT&#10;COM 1" x="292" y="90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="340" y1="125" x2="340" y2="119" x3="336" y3="111" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="246" y="21" width="75" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <ellipse x="28" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="8" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="48" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="261" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <ellipse x="258" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="269" y="39" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="285" y="39" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="277" y="39" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="301" y="39" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="309" y="39" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="293" y="39" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <ellipse x="98" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="218" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="158" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="38" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="298" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-2" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="309" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <ellipse x="338" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="338" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="198" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="278" y="-20" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="98" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="200" y1="126" x2="200" y2="120" x3="196" y3="112" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="260" y1="125" x2="260" y2="119" x3="256" y3="111" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="269" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="301" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="277" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <ellipse x="138" y="126" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="140" y1="126" x2="140" y2="120" x3="136" y3="112" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="293" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="285" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <rect x="253" y="49" width="2" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <text text="0" x="268" y="36" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="0" x="284" y="60" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="PWR" x="256" y="68" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="RUN" x="264" y="68" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="ERR" x="273" y="68" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="STAT" x="281" y="68" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="IN" x="307" y="29" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="OUT" x="301" y="67" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="DC IN&#10; COM" x="-10" y="-9" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24 VDC" x="7" y="111" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="48" y1="118" x2="52" y2="118" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="46" y1="116" x2="54" y2="116" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="44" y1="114" x2="56" y2="114" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="50" y1="113" x2="50" y2="109" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Ry.OUT&#10;COM 0" x="92" y="90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="337" y="97" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="140" y1="100" x2="200" y2="100" x3="200" y3="110" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="100" y1="126" x2="100" y2="100" x3="140" y3="100" x4="140" y4="110" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="300" y1="126" x2="300" y2="100" x3="340" y3="100" x4="340" y4="110" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text x="135" y="35.5" z="63" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{115d5905-2306-4b94-a299-9242af8b2c33}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="0" x="38" y="-7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="98" y="-7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="158" y="-7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="218" y="-7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="278" y="-7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="338" y="-7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0" x="138" y="97" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="198" y="97" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="258" y="97" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="276" y="36" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="2" x="284" y="36" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="3" x="292" y="36" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="4" x="300" y="36" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="5" x="308" y="36" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="1" x="293" y="60" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="2" x="301" y="60" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="3" x="309" y="60" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <line x1="8" y1="118" x2="12" y2="118" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="120" x2="10" y2="116" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{9835d835-207e-4dd7-8c8c-3a9dd5079240}" name="" x="0" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{0aead37b-58a9-4993-b2dd-158523bb1f8c}" name="" x="40" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{9fb7c511-d590-4afa-a76a-08f064b9211b}" name="" x="100" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{59f04209-c2cf-4430-970b-122d5d21563d}" name="" x="160" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{532ef85d-e642-4ffe-b331-2a84ce49c186}" name="" x="220" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{1a947595-c12d-464a-8278-9daf1a2bfe0c}" name="" x="280" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{76eb3c90-4ef8-42c5-be3a-f3929795e699}" name="" x="340" y="-18" orientation="n" type="Generic"/>
+        <terminal uuid="{be030b91-d83f-49f7-b560-a0fdbb19a7ba}" name="" x="340" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{d61c07bd-00f8-459f-817d-9d268f4b2a26}" name="" x="300" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{5260c278-5bb3-4bed-b136-f63709a43493}" name="" x="260" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{e78e501c-b295-4f41-80c6-a650df6b7dac}" name="" x="200" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{f1993f89-6727-4066-b2dd-acff9d4e8f5d}" name="" x="140" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{1a69bea0-5b91-4922-8f99-aa9e9a642403}" name="" x="100" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{49320898-3f7b-4ecf-95f2-9796ebf37eec}" name="" x="10" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{c6fc37d6-69b2-448a-b7d1-3210e35e3f7e}" name="" x="30" y="128" orientation="s" type="Generic"/>
+        <terminal uuid="{1235eed4-eac8-47c4-970b-119edf9bb2fa}" name="" x="50" y="128" orientation="s" type="Generic"/>
+    </description>
+</definition>

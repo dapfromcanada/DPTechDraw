@@ -1,0 +1,75 @@
+<definition version="0.80" type="element" link_type="master" width="100" height="110" hotspot_x="45" hotspot_y="54">
+    <uuid uuid="{7a7d68d8-9883-b168-b5e3-edc2cac4e620}"/>
+    <names>
+        <name lang="ca">AIO-0210V.01 (UP)</name>
+        <name lang="de">AIO-0210V.01 (UP)</name>
+        <name lang="en">AIO-0210V.01 (UP)</name>
+        <name lang="pt_BR">Módulo analógico de embutir MDT AIO-0210V.01 (2 E/S 0-10V UP)</name>
+        <name lang="zh">模拟量输入输出模块 0-210.0 向上</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">Analog Ein-/Ausgang 2fach UP</elementInformation>
+        <elementInformation show="1" name="designation">AIO-0210V.01</elementInformation>
+        <elementInformation show="1" name="label">-AE</elementInformation>
+        <elementInformation show="1" name="manufacturer">MDT</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations>Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB</informations>
+    <description>
+        <rect x="-39" y="-42" width="80" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="false"/>
+        <ellipse x="14" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="29" y="-22" width="4" height="4" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <ellipse x="-10" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="2" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="10" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="-2" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="-6" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="6" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <polygon x1="-29" y1="-42" x2="31" y2="-42" x3="41" y3="-32" x4="41" y4="28" x5="31" y5="38" x6="-29" y6="38" x7="-39" y7="28" x8="-39" y8="-32" x9="-29" y9="-42" x10="31" y10="-42" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+        <text text="KNX" x="21" y="3" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="MDT" x="17" y="-6" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="-9" y="-46" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="1" y="-46" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" antialias="false"/>
+        <text text="AIO-0410V.01" x="-34" y="-17" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="A = black&#10;GND = brown&#10;B = red&#10;GND = orange" x="-34" y="7" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <dynamic_text x="40" y="-32" z="17" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="CompositeText" uuid="{4a09f995-3be6-471f-9a1c-8daa331b05bb}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>-AE</text>
+            <info_name>plant</info_name>
+            <composite_text>%{plant}%{label}</composite_text>
+        </dynamic_text>
+        <rect x="-34" y="-15" width="45" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:yellow;color:HTMLBlueDarkBlue" antialias="false"/>
+        <dynamic_text x="-27" y="-19" z="19" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" rotation="0" text_from="UserText" uuid="{60bee164-d6ab-4c7f-9bb9-9b662558c325}" font="Liberation Sans,8,-1,5,0,0,0,0,0,0,Regular">
+            <text>1.1.2</text>
+            <info_name>plant</info_name>
+            <color>#00008b</color>
+        </dynamic_text>
+        <ellipse x="7" y="-44" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="7" y="-41" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="7" y="-38" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="7" y="-35" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="2" y="-40" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="-3" y="-44" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="-3" y="-41" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="-3" y="-38" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="-3" y="-35" width="2" height="2" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="-8" y="-40" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="-16" y="25" width="34" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-14" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <ellipse x="24" y="-34" width="4" height="4" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <line x1="-13" y1="28" x2="-13" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="28" x2="-9" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:brun" antialias="false"/>
+        <line x1="-5" y1="28" x2="-5" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:red" antialias="false"/>
+        <line x1="-1" y1="28" x2="-1" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:orange" antialias="false"/>
+        <terminal uuid="{acbf835c-402e-48c1-94c5-2f2d73a5d3b6}" name="" x="-1" y="48" orientation="s" type="Generic"/>
+        <terminal uuid="{8cc1aa72-6520-4972-a62a-773bc448a734}" name="" x="-13" y="48" orientation="s" type="Generic"/>
+        <terminal uuid="{6186200d-4a19-4a7d-8d5f-3392fa115004}" name="" x="-5" y="48" orientation="s" type="Generic"/>
+        <terminal uuid="{5bec702b-839d-4ded-a0b9-9da59eaab0de}" name="" x="-9" y="48" orientation="s" type="Generic"/>
+        <terminal uuid="{f215a24f-4476-46ec-a5e6-42f278f17346}" name="KNX_+" x="6" y="-46" orientation="n" type="Generic"/>
+        <terminal uuid="{f9194d95-7297-4f0b-8a3b-f8468d459b86}" name="KNX_-" x="-4" y="-46" orientation="n" type="Generic"/>
+    </description>
+</definition>

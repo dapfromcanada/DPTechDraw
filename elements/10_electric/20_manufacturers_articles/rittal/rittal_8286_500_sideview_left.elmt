@@ -1,0 +1,45 @@
+<definition version="0.100.0" type="element" link_type="simple" width="630" height="1850" hotspot_x="24" hotspot_y="1847">
+    <uuid uuid="{3f8502e5-723c-16cc-f55e-8b9e56851b8e}"/>
+    <names>
+        <name lang="ca">Rittal 8286.500 (vista lateral: esquerra)</name>
+        <name lang="cs">Rittal 8286.500 (bokorys)</name>
+        <name lang="en">Rittal 8286.500 (side view: left)</name>
+        <name lang="pt_BR">Rittal 8286.500 (side view: esquerda)</name>
+        <name lang="zh">威图8286_500左视图</name>
+    </names>
+    <informations>Author convertor: Ronny Desmedt
+      ELMT created by dxfTOelmt converter V1.0</informations>
+    <description>
+        <line x1="20.5" y1="-1789" x2="8.5" y2="-1789" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="556.5" y1="-1789" x2="544.5" y2="-1789" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8.5" y1="-1788.9" x2="8.5" y2="-1785" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="20.5" y1="-1785" x2="20.5" y2="-1788.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-13.5" y="-1845" width="56" height="56" start="292" angle="316" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="2.5" y1="-1791" x2="2.5" y2="-1788.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="26.5" y1="-1788.9" x2="26.5" y2="-1791" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="26.5" y1="-1788.9" x2="2.5" y2="-1788.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="26.5" y1="-1791" x2="2.5" y2="-1791" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="20.5" y1="-1789" x2="8.5" y2="-1789" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-0.5" y="-1832" width="30" height="30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="544.5" y1="-1788.9" x2="544.5" y2="-1785" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="556.5" y1="-1785" x2="556.5" y2="-1788.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="522.5" y="-1845" width="56" height="56" start="292" angle="316" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="538.5" y1="-1791" x2="538.5" y2="-1788.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="562.5" y1="-1788.9" x2="562.5" y2="-1791" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="562.5" y1="-1788.9" x2="538.5" y2="-1788.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="562.5" y1="-1791" x2="538.5" y2="-1791" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="556.5" y1="-1789" x2="544.5" y2="-1789" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="535.5" y="-1832" width="30" height="30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-1.75" y1="-1785" x2="-1.75" y2="-1772" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="566.75" y1="-1785" x2="566.75" y2="-1772" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-2" y="-1772" width="572" height="1772" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="157" y="-1348" z="24" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{4316f6ce-e73d-45ac-8015-dd02bbe9b953}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-1" y1="-1785" x2="566" y2="-1785" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="585" y1="-957" x2="598" y2="-957" x3="602" y3="-909" x4="602" y4="-879" x5="598" y5="-832" x6="585" y6="-832" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="570" y="-1782" width="15" height="1777" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-21" y="-1782" width="19" height="1779" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

@@ -1,0 +1,19 @@
+<qet-directory>
+    <names>
+        <name lang="ar">مفاتيح حدّ</name>
+        <name lang="cs">Koncové spínače</name>
+        <name lang="de">Endschalter</name>
+        <name lang="el">Τερματικά</name>
+        <name lang="en">Limits</name>
+        <name lang="es">Finales de carrera</name>
+        <name lang="fr">Fins de course</name>
+        <name lang="it">Finecorsa</name>
+        <name lang="ko">리밋 스위치</name>
+        <name lang="nl">mechanische contacten</name>
+        <name lang="pl">Łączniki krańcowe</name>
+        <name lang="pt">Fins de curso</name>
+        <name lang="pt_BR">Fins de curso</name>
+        <name lang="ru">Концевые выключатели</name>
+        <name lang="zh">限位开关</name>
+    </names>
+</qet-directory>

@@ -1,0 +1,51 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="50" height="230" hotspot_x="6" hotspot_y="7">
+    <uuid uuid="{15e1123f-da9c-e40e-f464-dec132670d94}"/>
+    <names>
+        <name lang="ca">412015 - Comptador d'energia Netatmo</name>
+        <name lang="cs">412015 - Netatmo měřič spotřeby</name>
+        <name lang="de">412015 - Netatmo Energiezähler 1ph.</name>
+        <name lang="fr">412015 - Netatmo Compteur d'énergie</name>
+        <name lang="pt_BR">412015 - Netatmo medidor de energia</name>
+        <name lang="zh">412015-网能-能量计</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Compteur d'énergie connecté DRIVIA with Netatmo - livré avec 1 transformateur de courant fermé 63A - 1 module</elementInformation>
+        <elementInformation show="1" name="designation">4 120 15</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud VALMARY</informations>
+    <description>
+        <rect x="0" y="0" width="40" height="200" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <dynamic_text x="0" y="-19" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{58b7ce38-810c-4865-8f14-ee41cd829a36}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="0" y1="150" x2="40" y2="150" end1="none" end2="none" length1="1" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="50" width="40" height="30" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:cyan;color:black" antialias="false"/>
+        <dynamic_text x="0" y="50" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="UserText" uuid="{64bd90f5-9227-4c8a-b9af-0c89d568a812}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>_</text>
+        </dynamic_text>
+        <rect x="10" y="125" width="17" height="10" rx="1" ry="1.5" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false"/>
+        <polygon x1="4" y1="121" x2="4" y2="146" x3="9" y3="146" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:red"/>
+        <line x1="26" y1="146" x2="31" y2="146" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:red" antialias="false"/>
+        <rect x="32" y="122" width="2" height="12" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="32.5" y="131.5" width="1" height="1" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <ellipse x="10" y="113" width="4" height="4" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="13" y="127" width="11" height="6" rx="1" ry="1.5" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <dynamic_text x="6" y="139.5" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{12f92c49-51df-46d1-9487-6330b21ab387}" font="Liberation Sans,2,-1,5,25,0,0,0,0,0,Regular">
+            <text>Legrand</text>
+            <info_name>manufacturer</info_name>
+        </dynamic_text>
+        <dynamic_text x="30" y="138" z="14" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" text_from="ElementInfo" uuid="{e9015d33-dac1-4928-9c1a-0b9dc300e5da}" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular">
+            <text>4 120 15</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <text text="N" x="3" y="213.3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L" x="32" y="213.3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="0" y="200" width="38" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="COIL" x="15" y="10" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{57783ce2-da70-4328-9910-7a641f69010e}" name="" x="30" y="215" orientation="s" type="Generic"/>
+        <terminal uuid="{3ae789b1-0875-45ed-9a60-69be170a98c4}" name="" x="20" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{bf386073-2258-4f4b-a19d-f3b742b7abd3}" name="" x="10" y="215" orientation="s" type="Generic"/>
+    </description>
+</definition>

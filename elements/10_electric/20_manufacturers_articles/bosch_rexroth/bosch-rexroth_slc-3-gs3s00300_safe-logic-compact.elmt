@@ -1,0 +1,59 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="270" hotspot_x="38" hotspot_y="135">
+    <uuid uuid="{250545a1-c353-0e34-0682-f540c7ac4d49}"/>
+    <names>
+        <name lang="ca">Bosch Rexroth SLC-3-GS3S00300 Safe Logic Compact, mòdul de passarel·la amb 2 interfícies Sercos RJ45</name>
+        <name lang="cs">Bosch Rexroth SLC-3-GS3S00300 Safe Logic Compact, Gateway modul s 2x rozhraním Sercos RJ45</name>
+        <name lang="de">Bosch Rexroth SLC-3-GS3S00300 Safe Logic Compact, Gateway Modul mit 2x Sercos RJ45 Schnittstellen</name>
+        <name lang="en">Bosch Rexroth SLC-3-GS3S00300 Safe Logic Compact, Gateway module with 2x Sercos RJ45 interfaces</name>
+        <name lang="fr">Bosch Rexroth SLC-3-GS3S00300 Safe Logic Compact, module Gateway avec 2x interfaces Sercos RJ45</name>
+        <name lang="pt_BR">Módulo gateway Sercos Safe Logic Compact Bosch Rexroth SLC-3-GS3S00300</name>
+        <name lang="zh">博世力士乐SLC-3-GS3S00300安全逻辑紧凑型</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="18" y="6" width="5" height="9" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="XFE2" x="-10" y="65" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-28" y="-105" width="56" height="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="18" y="-16" width="5" height="9" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LINK/ACT1" x="-8" y="-51" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-13" y="82" width="26" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LINK/ACT2" x="-8" y="54" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="18" y="57" width="5" height="9" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="18" y="28" width="5" height="9" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="NET" x="13" y="3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S3" x="16" y="25" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-28" y="-127" width="56" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="18" y="-66" width="5" height="9" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-27" y1="75" x2="-27" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="sercos" x="-27" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="27" y1="70" x2="27" y2="75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="MOD" x="12" y="-19" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="25" y1="68" x2="-25" y2="68" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-26" y="-50.5" z="19" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0e55489d-7fa2-4302-80ef-6b2462ff2299}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="18" y="-38" width="5" height="9" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="MS" x="16" y="-41" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-30" y1="75" x2="30" y2="75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="XFE1" x="-10" y="-60" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IndraControl" x="-21" y="32" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-30" y1="-75" x2="30" y2="-75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="-27" y="-72" width="4" height="4" start="180" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line x1="-27" y1="-70" x2="-27" y2="-75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="27" y1="-75" x2="27" y2="-70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="23" y="-72" width="4" height="4" start="270" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line x1="25" y1="-68" x2="-25" y2="-68" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-28" y="78" width="56" height="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-28" y="105" width="56" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-13" y="-105" width="26" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-11" y1="-103" x2="-11" y2="-89" x3="-7" y3="-89" x4="-7" y4="-86" x5="-4" y5="-86" x6="-4" y6="-84" x7="4" y7="-84" x8="4" y8="-86" x9="7" y9="-86" x10="7" y10="-89" x11="11" y11="-89" x12="11" y12="-103" x13="-10" y13="-103" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="11" y1="103" x2="-11" y2="103" x3="-11" y3="89" x4="-7" y4="89" x5="-7" y5="86" x6="-4" y6="86" x7="-4" y7="84" x8="4" y8="84" x9="4" y9="86" x10="7" y10="86" x11="7" y11="89" x12="11" y12="89" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-30" y="-130" width="60" height="260" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-27" y="68" width="4" height="4" start="90" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="23" y="68" width="4" height="4" start="0" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{c5b42e6d-3e9d-4bf3-b06b-10bfa0b01ba1}" name="" x="0" y="100" orientation="s" type="Generic"/>
+        <terminal uuid="{b40ef1ab-ace7-40b0-8497-34c0b9286e06}" name="" x="0" y="-100" orientation="n" type="Generic"/>
+    </description>
+</definition>

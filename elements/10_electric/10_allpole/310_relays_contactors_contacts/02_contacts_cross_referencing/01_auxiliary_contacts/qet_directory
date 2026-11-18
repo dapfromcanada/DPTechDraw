@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Pomocné kontakty</name>
+        <name lang="da">Hjælpe kontakter</name>
+        <name lang="de">Hilfsglieder</name>
+        <name lang="el">Βοηθητικές επαφές</name>
+        <name lang="en">Auxiliary</name>
+        <name lang="es">Contactos auxiliares</name>
+        <name lang="fr">Auxilliaires</name>
+        <name lang="it">Contatti ausiliari</name>
+        <name lang="nl">Hulpcontacten</name>
+        <name lang="ko">보조 접점</name>
+        <name lang="pl">Zestyki pomocnicze</name>
+        <name lang="pt_BR">Auxiliares</name>
+        <name lang="ru">Внешние</name>
+        <name lang="zh">辅助触点</name>
+    </names>
+</qet-directory>

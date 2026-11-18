@@ -1,0 +1,58 @@
+<definition version="0.100.0" type="element" link_type="simple" width="170" height="130" hotspot_x="106" hotspot_y="45">
+    <uuid uuid="{1d2e45c3-b9e7-2f52-fba4-d3f105d8e4b2}"/>
+    <names>
+        <name lang="ca">Zumtobel LM-4UAS</name>
+        <name lang="cs">Zumtobel LM-4UAS</name>
+        <name lang="fr">Zumtobel LM-4UAS</name>
+        <name lang="pt_BR">Zumtobel LM-4UAS</name>
+        <name lang="zh">zumtobellm4uas</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="7.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-31.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L" x="-31" y="55" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-12.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="27.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-62.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="47.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-72.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-100" y1="-40" x2="60" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-82.5" y="57.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-100" y1="-40" x2="-100" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-100" y1="80" x2="60" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="80" x2="60" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-92.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-86" y="42.5" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{d17ef128-097f-467a-9199-d39ec871922a}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>N</text>
+        </dynamic_text>
+        <dynamic_text x="-66" y="42.5" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{b1dd079d-e041-4d36-b630-a0e7cc403a49}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>L</text>
+        </dynamic_text>
+        <dynamic_text x="-98" y="-31.5" z="17" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{0aa8e047-7919-4ddc-b974-e4777e07f68d}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>B1</text>
+        </dynamic_text>
+        <dynamic_text x="-78" y="-31.5" z="18" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{b0bede70-e280-4f85-9505-df20869bf2ed}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>B2</text>
+        </dynamic_text>
+        <text text="ZUMTOBEL" x="-90" y="10" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LM-4UAS" x="-90" y="30" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-3" y="7.5" z="21" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5d8dd1d5-1a87-4cc4-85db-2583c25c4016}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="S4" x="-14" y="55" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S3" x="6" y="55" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S2" x="26" y="55" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S1" x="46" y="55" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{6452c3ce-1919-46b4-b94b-6cc4257f7f9f}" name="" x="30" y="64" orientation="s" type="Generic"/>
+        <terminal uuid="{f051b712-03ca-42ce-85eb-8fda449545ec}" name="" x="-90" y="-34" orientation="n" type="Generic"/>
+        <terminal uuid="{348f00ff-b247-4ee0-b9dd-6d078a71e5f2}" name="" x="-60" y="64" orientation="s" type="Generic"/>
+        <terminal uuid="{90b89f36-3790-4a14-b015-7c7f8fb5513c}" name="" x="50" y="64" orientation="s" type="Generic"/>
+        <terminal uuid="{85ec9f90-99e4-4e74-8ad8-c53bb525758b}" name="" x="-70" y="-34" orientation="n" type="Generic"/>
+        <terminal uuid="{34ce670d-0043-47ce-88fb-b3584dcd071f}" name="" x="-80" y="64" orientation="s" type="Generic"/>
+        <terminal uuid="{70545a2b-8a2b-469a-ba95-886c1c6338f8}" name="" x="10" y="64" orientation="s" type="Generic"/>
+        <terminal uuid="{a9e104c1-135a-43d6-a831-cd4614dcf33a}" name="" x="-10" y="64" orientation="s" type="Generic"/>
+        <terminal uuid="{a62b0fd3-45d4-4c66-86db-25303c645047}" name="" x="-29" y="64" orientation="s" type="Generic"/>
+    </description>
+</definition>

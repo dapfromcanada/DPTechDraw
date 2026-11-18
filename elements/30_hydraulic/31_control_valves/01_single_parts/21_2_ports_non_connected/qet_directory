@@ -1,0 +1,15 @@
+<qet-directory>
+    <names>
+        <name lang="cs">2 cesty nespojené</name>
+        <name lang="de">2 Anschlüsse (nicht verbunden)</name>
+        <name lang="en">2 ports no connected</name>
+        <name lang="es">2 puertos no conectados</name>
+        <name lang="fr">2 voies non reliées</name>
+        <name lang="it">2 vie senza connessioni</name>
+        <name lang="ko">2 포트 연결되지 않음</name>
+        <name lang="nl">2 aansluitingen binnen</name>
+        <name lang="pl">Dwudrogowe bez przyłączy</name>
+        <name lang="pt_BR">2 vias não conectadas</name>
+        <name lang="zh">21_2口常闭</name>
+    </names>
+</qet-directory>

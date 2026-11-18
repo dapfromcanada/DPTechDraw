@@ -1,0 +1,38 @@
+<definition version="0.80" type="element" link_type="simple" width="140" height="90" hotspot_x="76" hotspot_y="76">
+    <uuid uuid="{b6a15426-8608-1bcf-5451-20f4b14ea532}"/>
+    <names>
+        <name lang="ca">Endressu0026Hauser Condumax CLS21</name>
+        <name lang="cs">Endress&amp;Hauser Condumax CLS21</name>
+        <name lang="en">Endress&amp;Hauser Condumax CLS21</name>
+        <name lang="fr">Endress&amp;Hauser Condumax CLS21</name>
+        <name lang="pt_BR">Sensor de condutividade condutiva Endress+Hauser Condumax CLS21</name>
+        <name lang="zh">恩德斯豪斯-电导率传感器CLS21</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <arc x="-70" y="-70" width="127" height="140" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-15.5" y1="0" x2="-3.5" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="3" x="-23" y="-6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="E&amp;H" x="-19" y="-55" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-2" y="-6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-42" y="-6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-36.5" y1="0" x2="-24.5" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="3.76" y1="0" x2="56.93" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-63.61" y="-3.61" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-23.61" y="-3.61" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3.61" y="-3.61" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-43.61" y="-3.61" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-70" y1="0" x2="-64" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-56" y1="0" x2="-44" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="1" x="-62" y="-6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CLS21" x="-26" y="-38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="0" y1="-17.71" x2="0" y2="-15.24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-4" y1="-18" x2="5" y2="-18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-3" y1="-20" x2="4" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-1.34" y1="-22" x2="2.36" y2="-22" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{8c828804-04f8-43f3-9297-17e922cd8563}" name="" x="-40" y="3" orientation="s" type="Generic"/>
+        <terminal uuid="{13cba366-0279-4ef8-8192-e8ab307c24c5}" name="" x="-20" y="3" orientation="s" type="Generic"/>
+        <terminal uuid="{b51daac3-6fec-4454-b77a-d9b22c955a8f}" name="" x="0" y="3" orientation="s" type="Generic"/>
+        <terminal uuid="{1914770d-58a3-4c6e-92e9-2b955d613539}" name="" x="-60" y="3" orientation="s" type="Generic"/>
+    </description>
+</definition>

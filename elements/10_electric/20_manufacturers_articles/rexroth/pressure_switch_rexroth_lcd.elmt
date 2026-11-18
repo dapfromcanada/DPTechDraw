@@ -1,0 +1,50 @@
+<definition version="0.80" type="element" link_type="simple" width="160" height="100" hotspot_x="76" hotspot_y="43">
+    <uuid uuid="{9304dd71-0c12-8223-2df3-6a4d7cb4cb05}"/>
+    <names>
+        <name lang="ca">commutador de pressió_rexroth_lcd</name>
+        <name lang="cs">Tlakový spínač s LCD Rexroth</name>
+        <name lang="en">pressure_switch_rexroth_lcd</name>
+        <name lang="hu">Rexroth nyomáskapcsoló LDC</name>
+        <name lang="pt_BR">pressure_switch_rexroth_lcd</name>
+        <name lang="zh">LCD压力开关力士乐</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Rexroth</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="2" x="8" y="37.2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-42" y="37.2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="48" y="37.2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L-" x="-41" y="23.2" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="68" y1="28" x2="68" y2="33" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="74" y1="43.2" x2="80" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-36.5" y1="43.2" x2="-24.5" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="13.5" y1="43.2" x2="25.5" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="34.5" y1="43.2" x2="46.5" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="54" y1="43.2" x2="66" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-63.61" y="39.59" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="46.39" y="39.59" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="6.39" y="39.59" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-43.61" y="39.59" width="7.21" height="7.21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-70" y1="43.2" x2="-64" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-56" y1="43.2" x2="-44" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-16" y1="43.2" x2="6" y2="43.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L+" x="-65" y="23.2" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-62" y="37.2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="REXROTH 0821 100 103" x="-60" y="-25" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-70" y="-12" z="21" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{d44f7d12-081c-45e3-a38b-6a74b0059c0a}" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-3" y1="28" x2="68" y2="28" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-3" y1="28" x2="-3" y2="33" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="-11.8" width="85" height="35" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <text text="LCD display" x="8" y="7.2" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-70" y="-36.8" width="150" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{e2ca0933-a39f-4f21-9cce-4046d77d1ec6}" name="" x="50" y="46" orientation="s" type="Generic"/>
+        <terminal uuid="{c3c5436a-be09-470c-844f-c87ef6016409}" name="" x="-40" y="46" orientation="s" type="Generic"/>
+        <terminal uuid="{64da56e9-5f6a-4f49-876e-51b740ecd9ac}" name="" x="10" y="46" orientation="s" type="Generic"/>
+        <terminal uuid="{1f003657-b38a-4d02-813e-70e99261cc0d}" name="" x="-60" y="46" orientation="s" type="Generic"/>
+    </description>
+</definition>

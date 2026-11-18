@@ -1,0 +1,49 @@
+<definition version="0.90" type="element" link_type="simple" width="130" height="80" hotspot_x="7" hotspot_y="7">
+    <uuid uuid="{7eca12c3-6d8b-473b-22a0-2fabac34df23}"/>
+    <names>
+        <name lang="ca">Mòdul IF 0-10V- SBM</name>
+        <name lang="fr">Module IF 0-10V- SBM</name>
+        <name lang="pt_BR">modulo IF 0-10V- SBM</name>
+        <name lang="zh">模块_0-10V脉宽调制</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Module IF 0-10V- SBM</elementInformation>
+        <elementInformation show="1" name="manufacturer">Wilo</elementInformation>
+    </elementInformations>
+    <informations>S.DEFFAUX</informations>
+    <description>
+        <text text="10V" x="65" y="15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="90" y1="0" x2="90" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="50" y1="0.25" x2="50" y2="2.25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="110" y1="0" x2="110" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="30" y1="0.25" x2="30" y2="2.25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="0.25" x2="70" y2="2.25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="27.5" y="2.75" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="100" y="0" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="87.5" y="2.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="107.5" y="2.25" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="67.5" y="2.75" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="47.5" y="2.75" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="80" y="0" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="40" y="0" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="60" y="0" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="20" y="0" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="0" width="120" height="70" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="DP" x="27" y="15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="  0 " x="45" y="15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="SBM" x="85" y="15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="SBM" x="105" y="15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DP" x="7" y="15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="0" y="0" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="60" x2="120" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="SBM:contact sec pour report état demarche&#10;(contact normalement ouvert,&#10;fermé si état de marche)" x="0" y="45" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="10" y1="0" x2="10" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="7.5" y="2.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{df545b3c-1c59-4f20-b93a-ce3ea40e6317}" name="10V " x="70" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{c1e92912-a369-4356-8509-5ba8093183a4}" name="DP" x="30" y="1" orientation="n" type="Generic"/>
+        <terminal uuid="{e565da01-3da3-41ac-9b72-487134129f5f}" name="DP" x="10" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{0ca58caa-38ad-4397-b32c-51819c4ca5c4}" name="SBM" x="90" y="1" orientation="n" type="Generic"/>
+        <terminal uuid="{593c7baa-5fdf-44d8-b557-8472d4c12911}" name="SBM" x="110" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{c7d4b215-3105-4ddc-84e1-75ca79175853}" name="0" x="50" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

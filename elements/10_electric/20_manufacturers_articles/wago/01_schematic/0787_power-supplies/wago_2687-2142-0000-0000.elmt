@@ -1,0 +1,63 @@
+<definition version="0.100.0" type="element" link_type="simple" width="110" height="90" hotspot_x="60" hotspot_y="43">
+    <uuid uuid="{898277e4-7691-7840-72c2-e2acec7ead7c}"/>
+    <names>
+        <name lang="ar">2687-2142</name>
+        <name lang="ca">2687-2142</name>
+        <name lang="cs">2687-2142</name>
+        <name lang="de">2687-2142</name>
+        <name lang="el">2687-2142</name>
+        <name lang="en">2687-2142</name>
+        <name lang="es">2687-2142</name>
+        <name lang="fr">2687-2142</name>
+        <name lang="it">2687-2142</name>
+        <name lang="nl">2687-2142</name>
+        <name lang="nl_BE">2687-2142</name>
+        <name lang="pl">2687-2142</name>
+        <name lang="pt_BR">2687-2142</name>
+        <name lang="zh">WAGO 2687-2142 电源模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Eco2 1ph DC24V 1.25A</elementInformation>
+        <elementInformation show="1" name="designation">2687-2142</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-40" y="-40" width="80" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="37.5" y="-2.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="WAGO" x="-2.9" y="27" rotation="270" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2687-2142" x="10" y="37" rotation="270" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-42.5" y="-12.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-42.5" y="7.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="1" x="-27" y="-28" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="37.5" y="-22.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line x1="0" y1="-40" x2="0" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L" x="-37" y="-13" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="N" x="-37" y="7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <arc x="-16.5" y="-33" width="5" height="3.33" start="185" angle="175" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="20" y1="-32" x2="21.5" y2="-32" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="17" y1="-32" x2="18.5" y2="-32" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-5" y="-29" z="17" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{7887e1bf-7914-4463-9f3a-9d4e58ed52ff}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="14" y1="-32" x2="15.5" y2="-32" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="14" y1="-30" x2="21.5" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-21.5" y="-32.83" width="5" height="3.83" start="5" angle="175" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="+" x="32" y="-23" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="−" x="32" y="-3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="−" x="32" y="17" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X1.1" x="-52" y="-14" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X1.2" x="-52" y="6" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X2.1" x="41" y="-24" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X2.2" x="41" y="-4" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X2.3" x="41" y="16" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{1d52a5dd-308f-4974-8cdb-70f6b41561ca}" name="X2.2" x="40" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{e79010e7-c884-4524-b2ab-27c57cfdee78}" name="X1.1" x="-40" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{696e79d9-5c17-4be3-a675-2ca0fa15f538}" name="X2.3" x="40" y="20" orientation="e" type="Generic"/>
+        <terminal uuid="{84e31fb0-5847-4ee4-8cf3-b146b6192bd5}" name="X2.1" x="40" y="-20" orientation="e" type="Generic"/>
+        <terminal uuid="{229db6b9-350c-466b-8fbc-ef22717ec56a}" name="X1.2" x="-40" y="10" orientation="w" type="Generic"/>
+    </description>
+</definition>

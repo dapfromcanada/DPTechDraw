@@ -1,0 +1,25 @@
+<definition version="0.90" type="element" link_type="simple" width="110" height="270" hotspot_x="21" hotspot_y="135">
+    <uuid uuid="{a94b6b43-119f-0c78-080d-6a2fd4bc27de}"/>
+    <names>
+        <name lang="ca">709-153 Coberta per a 709-167 (50 mm)</name>
+        <name lang="cs">709-153 Kryt pro 709-167 (50mm)</name>
+        <name lang="de">709-153 Abdeckung für 709-167 (50mm)</name>
+        <name lang="en">709-153 Cover for 709-167 (50mm)</name>
+        <name lang="fr">709-153 Couverture pour 709-167 (50mm)</name>
+        <name lang="pt_BR">709-153 Cover fou 709-167 (50mm)</name>
+        <name lang="zh">万可 0709-0153-0050-0000 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">max. length: 1000mm</elementInformation>
+        <elementInformation show="1" name="designation">709-153</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-16" y="-127.5" width="100" height="255" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-16" y="-133" width="100" height="266" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-16" y="-92.5" width="100" height="185" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-16" y="-87" width="100" height="174" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

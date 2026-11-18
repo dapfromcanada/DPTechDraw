@@ -1,0 +1,55 @@
+<definition version="0.90" type="element" link_type="simple" width="550" height="90" hotspot_x="272" hotspot_y="41">
+    <uuid uuid="{f0e8364d-a41b-eb4f-7bad-ea8bd55c5020}"/>
+    <names>
+        <name lang="ca">TM262L10MESE8T: sortida tor integrada</name>
+        <name lang="en">TM262L10MESE8T: integreted tor output</name>
+        <name lang="fr">TM262L10MESE8T: sorties tor intégrées</name>
+        <name lang="pt_BR">TM262L10MESE8T: integreted tou Saída</name>
+        <name lang="zh">tm262l10mese8t 晶体管输出</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <arc x="-243" y="15" width="8" height="10" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="Q3" x="205" y="2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <arc x="117" y="15" width="8" height="10" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="27" y="15" width="8" height="10" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-153" y="15" width="8" height="10" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="207" y="15" width="8" height="10" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-63" y="15" width="8" height="10" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="0V" x="-243" y="1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Q1" x="25" y="1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="211" y1="11" x2="211" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="121" y1="11" x2="121" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-59" y1="11" x2="-59" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-149" y1="11" x2="-149" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-239" y1="11" x2="-239" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="31" y1="11" x2="31" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-244" y="31" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="206" y="31" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="26" y="31" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="116" y="31" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-64" y="31" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-154" y="31" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="31" y1="31" x2="31" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-239" y1="31" x2="-239" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-149" y1="31" x2="-149" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-59" y1="31" x2="-59" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="211" y1="31" x2="211" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="121" y1="31" x2="121" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Q2" x="114.82" y="1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-154" y="1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Q0" x="-64" y="0" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-269" y="-39" width="543" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-269" y1="-19" x2="273" y2="-19" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-240" y="-36.5" z="57" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{10eccbbb-90f1-4f73-aa39-b00bb36a9aec}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{e3f3c12b-f71e-4c19-b8c6-e0cc40e5f759}" name="" x="-239" y="41" orientation="s" type="Generic"/>
+        <terminal uuid="{528aa20e-f06c-4eb6-963c-ad786cff7394}" name="" x="121" y="41" orientation="s" type="Generic"/>
+        <terminal uuid="{0a582c1d-f966-43a3-a6b4-892ee988bf36}" name="" x="211" y="41" orientation="s" type="Generic"/>
+        <terminal uuid="{a9779824-f7dc-4827-bbf5-d19d6178b4da}" name="" x="31" y="41" orientation="s" type="Generic"/>
+        <terminal uuid="{6cc2f9ad-f6a8-4b36-973f-749089214b5d}" name="" x="-149" y="41" orientation="s" type="Generic"/>
+        <terminal uuid="{536b64ae-e963-472f-a3b5-e489f8919885}" name="" x="-59" y="41" orientation="s" type="Generic"/>
+    </description>
+</definition>

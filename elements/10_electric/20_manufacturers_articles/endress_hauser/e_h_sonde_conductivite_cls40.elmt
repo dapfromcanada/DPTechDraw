@@ -1,0 +1,73 @@
+<definition version="0.100.0" type="element" link_type="simple" width="180" height="80" hotspot_x="16" hotspot_y="40">
+    <uuid uuid="{d5aabe30-0c34-636b-bc43-a49f4f7fe15b}"/>
+    <names>
+        <name lang="ar">مجس موصليّة  CLS40</name>
+        <name lang="ca">sensor de conductivitat CLS40</name>
+        <name lang="cs">Čidlo vodivosti  CLS40</name>
+        <name lang="el">Αισθητήρας αγωγιμότητας CLS40</name>
+        <name lang="en">conductivity sensor CLS40</name>
+        <name lang="es">CLS40 Sensor de conductividad</name>
+        <name lang="fr">Sonde conductivité CLS40</name>
+        <name lang="it">sensore conduttività CLS40</name>
+        <name lang="nl">Geleidbaarheids sensor CLS40</name>
+        <name lang="pl">Czujnik przewodności CLS40</name>
+        <name lang="pt_BR">Sensor de condutividade indutiva Endress+Hauser Condumax CLS40</name>
+        <name lang="zh">E+H电导率探头CLS40</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="108" y="-28.5" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{25fdf0a7-3538-407a-926b-da0e952d8b87}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>CLS40</text>
+        </dynamic_text>
+        <text text="Endress+Hauser " x="-6" y="-16" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="160" y1="-29" x2="160" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-30" x2="-10" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-30" x2="160" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Marron" x="149.1" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="80" y1="24" x2="80" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="143" y1="21" x2="160" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="63" y1="21" x2="77" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Jaune" x="131" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Gris" x="69" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="123" y1="21" x2="137" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="43" y1="21" x2="57" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="140" y1="24" x2="140" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="24" x2="60" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="137.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="57.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="Vert" x="91" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Orange" x="9" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="103" y1="21" x2="117" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="24" x2="0" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="83" y1="21" x2="97" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="23" y1="21" x2="37" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Blanc" x="111" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="3" y1="21" x2="17" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="21" x2="-3" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="120" y1="24" x2="120" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Rouge" x="50" y="20" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="100" y1="24" x2="100" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Rose" x="29" y="19" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="117.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="40" y1="24" x2="40" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="97.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="20" y1="24" x2="20" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="77.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="37.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="17.17" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-2.83" y="18.17" width="5.66" height="5.66" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-5" y="-52.5" z="39" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f276cba8-5ad2-4c98-9606-b726be21d696}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{8531149c-d733-40dd-bdda-679028222dbf}" name="" x="0" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{728e359c-b02c-42c4-9b0b-222bc07aecf4}" name="" x="20" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{29977228-d3ca-41b7-9df0-addfa0f332f7}" name="" x="80" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{cfa48d72-34e1-4e1f-a5e7-e59709f8e189}" name="" x="40" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{57fe6630-b436-43f6-867b-85357068fd64}" name="" x="60" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{7e9c85b6-63aa-4ef2-b9eb-b5e75307e754}" name="" x="100" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{4a17482f-c272-471c-856c-24ab55994835}" name="" x="120" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{4a872e6a-eee7-43c7-be53-ec86f5506bcb}" name="" x="140" y="30" orientation="s" type="Generic"/>
+    </description>
+</definition>

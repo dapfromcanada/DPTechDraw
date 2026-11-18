@@ -1,0 +1,38 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="410" height="370" hotspot_x="5" hotspot_y="5">
+    <uuid uuid="{0d850914-705f-87f4-36ba-e25339f2e10f}"/>
+    <names>
+        <name lang="ca">001308 - Caixa de mini capacitat de 8 a 9 mòduls</name>
+        <name lang="cs">001308 - Rozvodnice plast mini 8 - 9 modulů</name>
+        <name lang="fr">001308 - Coffret capacité mini 8 à 9 modules</name>
+        <name lang="pt_BR">001308 - Coffret capacité mini 8 à 9 modulos</name>
+        <name lang="zh">001308-8/9米配电箱</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Coffret capacité mini 8 à 9 modules - blanc RAL9010</elementInformation>
+        <elementInformation show="1" name="designation">0 013 08</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="0" y="0" width="400" height="360" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="20" y="90" width="360" height="200" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <arc x="10" y="50" width="380" height="20" start="1" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="10" y="280" width="370" height="20" start="180" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <rect x="20" y="151" width="360" height="78" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <ellipse x="10" y="330" width="20" height="20" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="370" y="330" width="20" height="20" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="31" y="340" z="8" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{6e039c4b-f469-4078-8f4a-be7e79976650}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>Legrand</text>
+            <info_name>manufacturer</info_name>
+        </dynamic_text>
+        <dynamic_text x="325" y="340" z="9" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{f74cc6db-ec1d-4c2a-a687-3ce4c5d2174a}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>0 013 08</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <ellipse x="10" y="10" width="20" height="20" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="370" y="10" width="20" height="20" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="60" x2="10" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="390" y1="60" x2="390" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="10" y="270" width="380" height="40" start="180" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+    </description>
+</definition>

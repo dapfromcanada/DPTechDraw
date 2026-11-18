@@ -1,0 +1,19 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="50" hotspot_x="80" hotspot_y="25">
+    <uuid uuid="{323982c9-d47d-c61d-98c3-bfa2d36399a7}"/>
+    <names>
+        <name lang="ca">Connexió</name>
+        <name lang="cs">Připojovací bod</name>
+        <name lang="de">Anschluss</name>
+        <name lang="en">Connection</name>
+        <name lang="fr">Connexion</name>
+        <name lang="pt_BR">conexão</name>
+        <name lang="zh">00_接线端子</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <dynamic_text x="-53.5" y="0" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="UserText" uuid="{ddebdd1d-71d8-44a1-a9fe-a068c36484e7}" font="Liberation Sans,21,-1,5,50,0,0,0,0,0,Regular">
+            <text>-X...</text>
+        </dynamic_text>
+        <terminal uuid="{6b6a935a-d776-4542-876a-fa2cf9b23bd9}" name="" x="0" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,27 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="50" hotspot_x="30" hotspot_y="15">
+    <uuid uuid="{92e88f5b-66c8-0283-481d-09027a0b8084}"/>
+    <names>
+        <name lang="ca">Activar Score Motor (M.B.) - Entrada superior</name>
+        <name lang="en">Switch on Score Motor (M.B.) - Top input</name>
+        <name lang="nl">Schakelaar op Score Motor (M.B.) - Input boven</name>
+        <name lang="pt_BR">Interruptor on Score motor (M.B.) - Superior Entrada</name>
+        <name lang="zh">弹球机电威廉姆斯开关主板计分马达顶部</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <arc x="-10" y="-10" width="20" height="20" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-5" y="-5" width="3" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="2" y="13" width="3" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="-10" y1="0" x2="-10" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="2" y="-5" width="3" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="10" y1="0" x2="10" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-10" y="10" width="20" height="20" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="5" y1="20" x2="20" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="0" x2="-5" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="5" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="15" x2="-10" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{77934231-9a43-4b41-aa49-ade8647369e2}" name="" x="20" y="20" orientation="e" type="Generic"/>
+        <terminal uuid="{cbb24619-74f0-4fda-a38d-596729fb996b}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{16131af7-805e-4e9d-aa93-5b71d521d1d7}" name="" x="20" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

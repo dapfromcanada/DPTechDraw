@@ -1,0 +1,49 @@
+<definition version="0.100.0" type="element" link_type="simple" width="40" height="70" hotspot_x="24" hotspot_y="39">
+    <uuid uuid="{2e5b07ad-21fc-7438-d4bb-47a1cff830c3}"/>
+    <names>
+        <name lang="ca">Resistència 1W</name>
+        <name lang="cs">Rezistor 1W</name>
+        <name lang="el">Αντίσταση 1w</name>
+        <name lang="en">1W resistor</name>
+        <name lang="fr">Resistance 1w</name>
+        <name lang="it">Resistenza 1W</name>
+        <name lang="nl">Weerstand 1W</name>
+        <name lang="pl">Rezystor 1W</name>
+        <name lang="pt_BR">Resistor 1 W</name>
+        <name lang="zh">电阻2</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Arduino</elementInformation>
+    </elementInformations>
+    <informations>ezza</informations>
+    <description>
+        <rect x="-7" y="-13" width="14" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-7" y="-6" width="14" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-7" y="-21" width="14" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-6" y1="4" x2="6" y2="4" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-5" x2="2" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-20" x2="2" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-12" x2="2" y2="-12" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="-7" y="5.5" width="14" height="4" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-7" y="-29.5" width="14" height="4" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-14" y="13.5" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{d84af1b7-0b43-441a-a0ec-22cb7b521797}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>12</text>
+        </dynamic_text>
+        <polygon x1="-7" y1="4" x2="-8" y2="4" x3="-8" y3="7" x4="8" y4="7" x5="8" y5="4" x6="7" y6="4" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="7" y1="-24" x2="8" y2="-24" x3="8" y3="-27" x4="-8" y4="-27" x5="-8" y5="-24" x6="-7" y6="-24" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-7" y="-17" width="14" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-16" x2="2" y2="-16" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="4.7" y="17.05" width="7.6" height="7.9" start="310" angle="280" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="6" y1="24" x2="7" y2="25" x3="7" y3="26" x4="5" y4="26" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="11" y1="24" x2="10" y2="25" x3="10" y3="26" x4="12" y4="26" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-7" y1="-24" x2="-7" y2="3" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="7" y1="-24" x2="7" y2="4" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-6" y1="-24" x2="6" y2="-24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-25" y="-36" z="21" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{e46653d7-bf72-4fc1-96ec-768543683ff3}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{c2a30056-b3bb-0ed4-bf11-1d229f231cfd}" name="" x="0" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{3dab9f37-e9d6-0d9f-c89b-27785708e4c0}" name="" x="0" y="10" orientation="s" type="Generic"/>
+    </description>
+</definition>

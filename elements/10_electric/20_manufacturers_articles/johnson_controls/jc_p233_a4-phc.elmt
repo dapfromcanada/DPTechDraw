@@ -1,0 +1,40 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="80" hotspot_x="25" hotspot_y="40">
+    <uuid uuid="{c52cc42b-f3f8-c961-77da-d848007c1276}"/>
+    <names>
+        <name lang="ca">Presostat diferencial amb filtres P233 A4-PHC</name>
+        <name lang="fr">Pressostat différentiel avec filtres P233 A4-PHC</name>
+        <name lang="pt_BR">Pressostato diferencial de ar para verificação de filtros Johnson Controls P233 A4-PHC</name>
+        <name lang="zh">P233 A4-PHC 控制器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">P233 A4-PHC</elementInformation>
+        <elementInformation show="1" name="manufacturer">Johnson Controls</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-20" y="-30" width="50" height="60" rx="0" ry="0" style="line-style:dotted;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-17" y="5.81" width="10.22" height="7" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-3" y="16" width="4" height="4" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <polygon x1="-13" y1="7.19" x2="-10" y2="9.19" x3="-13" y3="11.19" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <ellipse x="-16" y="-18" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-6.72" y1="9.2" x2="-3.31" y2="9.19" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="22" y="-18" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-10" y1="-25" x2="-10" y2="-16" x3="-12" y3="-16" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="20" y1="-25" x2="20" y2="-16" x3="22" y3="-16" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="0" y1="25" x2="0" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-12" y1="-16.47" x2="-0.18" y2="17.17" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="3" x="22" y="-22" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="2" y="27" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-8" y="-22" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-10" y1="-25" x2="-10" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="20" y1="-30" x2="20" y2="-25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="21" x2="0" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="36" y="-12" z="18" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{652e67dc-9ead-4dc0-b9b3-ecfd4a4ad7a4}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{6f198a9d-72ad-484a-94bc-16e1ed87e30a}" name="" x="0" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{5ecbc54f-4c97-41e4-a9eb-b4f405e85ad5}" name="" x="-10" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{be091ad7-7f40-460e-8224-22e9837e07c8}" name="" x="20" y="-30" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,176 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="110" height="210" hotspot_x="57" hotspot_y="132">
+    <uuid uuid="{eab675ee-f4b5-716e-970b-c543a3365a2f}"/>
+    <names>
+        <name lang="ca">750-333/040-000</name>
+        <name lang="cs">750-333/040-000</name>
+        <name lang="de">750-333/040-000</name>
+        <name lang="en">750-333/040-000</name>
+        <name lang="fr">750-333/040-000</name>
+        <name lang="pt_BR">750-333/040-000</name>
+        <name lang="zh">WAGO 0750-0333 耦合器 0040-0000</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Profibus DP/V1 Coupler</elementInformation>
+        <elementInformation show="1" name="designation">750-333/040-000</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <polygon x1="48" y1="-123.5" x2="44" y2="-123.5" x3="44" y3="-119.5" x4="41" y4="-119.5" x5="41" y5="-120.5" x6="34" y6="-120.5" x7="34" y7="-117.5" x8="26" y8="-117.5" x9="26" y9="-123.5" x10="34" y10="-123.5" x11="34" y11="-126.5" x12="18" y12="-126.5" x13="18" y13="-120.5" x14="20" y14="-120.5" x15="20" y15="-124.5" x16="24" y16="-124.5" x17="24" y17="71.5" x18="20" y18="71.5" x19="20" y19="67.5" x20="18" y20="67.5" x21="18" y21="73.5" x22="34" y22="73.5" x23="34" y23="70.5" x24="26" y24="70.5" x25="26" y25="66.5" x26="34" y26="66.5" x27="34" y27="67.5" x28="44" y28="67.5" x29="44" y29="70.5" x30="48" y30="70.5" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <rect x="24" y="-49.5" width="24" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <rect x="24" y="24.5" width="24" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <dynamic_text x="-32.18" y="-20.78" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{5d5c5757-1a91-45fd-9b7b-b6e994a95f8c}" font="Liberation Sans,5,-1,5,25,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+            <color>#f3f3f3</color>
+        </dynamic_text>
+        <rect x="24" y="-12.5" width="24" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <rect x="24" y="-116.6" width="24" height="10.6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <rect x="27" y="-104.5" width="18" height="20" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="28" y="-113.85" width="16" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <rect x="25" y="-115.28" width="22" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <rect x="37.45" y="-98.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <rect x="37.45" y="-88.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <rect x="37.45" y="-93.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <rect x="37.45" y="-103.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <text text="A" x="24.3" y="-101" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="B" x="24.3" y="-96" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="C" x="24.3" y="-91" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="D" x="24.3" y="-86" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="E" x="45.7" y="-101" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="F" x="45.79" y="-96" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="G" x="45.54" y="-91" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <text text="H" x="45.63" y="-86" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#f6f5f4"/>
+        <rect x="29.46" y="-98.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <rect x="29.46" y="-88.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <rect x="29.46" y="-93.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false"/>
+        <rect x="36" y="-72.57" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="36" y="34.39" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:gray" antialias="false"/>
+        <rect x="36" y="-39.41" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="36" y="-2.48" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <polygon x1="24" y1="-26.74" x2="24" y2="-20.07" x3="25" y3="-18.47" x4="26.86" y4="-17.41" x5="31.08" y5="-17.41" x6="32.92" y6="-18.43" x7="34" y7="-20.07" x8="35.09" y8="-18.47" x9="37" y9="-17.41" x10="42.39" y10="-17.41" x11="45.11" y11="-20.09" x12="45.11" y12="-26.05" x13="43.38" y13="-28.29" x14="41" y14="-29.05" x15="37" y15="-29.05" x16="35.78" y16="-28.6" x17="34.72" y17="-27.76" x18="34" y18="-26.7" x19="33.24" y19="-27.81" x20="32.21" y20="-28.65" x21="30.92" y21="-29.08" x22="27" y22="-29.08" x23="25.73" y23="-28.65" x24="24.65" y24="-27.82" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <polygon x1="24" y1="9.85" x2="24" y2="16.52" x3="25" y3="18.12" x4="26.88" y4="19.18" x5="31.1" y5="19.18" x6="32.94" y6="18.16" x7="34" y7="16.52" x8="35.11" y8="18.12" x9="37" y9="19.18" x10="42.42" y10="19.18" x11="45.13" y11="16.5" x12="45.13" y12="10.54" x13="43.39" y13="8.3" x14="41" y14="7.54" x15="37" y15="7.54" x16="35.8" y16="8" x17="34.74" y17="8.83" x18="34" y18="9.89" x19="33.26" y19="8.78" x20="32.23" y20="7.94" x21="30.94" y21="7.51" x22="27" y22="7.51" x23="25.75" y23="7.94" x24="24.69" y24="8.77" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <polygon x1="27.15" y1="9.69" x2="25.83" y2="10.36" x3="24.95" y3="11.7" x4="24.95" y4="15.45" x5="26.75" y5="17.24" x6="31.21" y6="17.24" x7="33" y7="15.45" x8="33" y8="11.7" x9="32.13" y9="10.36" x10="30.84" y10="9.69" x11="31" y11="8" x12="31" y12="6.88" x13="30.09" y13="6" x14="27.87" y14="6" x15="27" y15="6.88" x16="27" y16="8" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="27.12" y1="-26.9" x2="25.8" y2="-26.23" x3="24.92" y3="-24.89" x4="24.92" y4="-21.14" x5="26.73" y5="-19.35" x6="31.18" y6="-19.35" x7="33" y7="-21.14" x8="33" y8="-24.89" x9="32.11" y9="-26.23" x10="30.83" y10="-26.9" x11="31" y11="-28.61" x12="31" y12="-29.71" x13="30.08" y13="-30.6" x14="27.85" y14="-30.6" x15="26.95" y15="-29.71" x16="26.95" y16="-28.61" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <rect x="25.9" y="-39.41" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <polygon x1="24" y1="-59.9" x2="24" y2="-53.23" x3="25.08" y3="-51.62" x4="26.93" y4="-50.57" x5="31.16" y5="-50.57" x6="33" y6="-51.58" x7="34.08" y7="-53.22" x8="35.16" y8="-51.63" x9="37" y9="-50.57" x10="42.47" y10="-50.57" x11="45.17" y11="-53.25" x12="45.17" y12="-59.2" x13="43.45" y13="-61.45" x14="41.06" y14="-62.21" x15="37.1" y15="-62.21" x16="35.86" y16="-61.75" x17="34.8" y17="-60.91" x18="34.08" y18="-59.86" x19="33.32" y19="-61" x20="32.29" y20="-61.81" x21="31" y21="-62.24" x22="27.07" y22="-62.24" x23="25.81" y23="-61.81" x24="24.73" y24="-61" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <polygon x1="24" y1="47.1" x2="24" y2="53.77" x3="25.08" y3="55.38" x4="26.93" y4="56.43" x5="31.16" y5="56.43" x6="33" y6="55.42" x7="34.08" y7="53.78" x8="35.16" y8="55.37" x9="37" y9="56.43" x10="42.47" y10="56.43" x11="45.17" y11="53.75" x12="45.17" y12="47.8" x13="43.45" y13="45.55" x14="41.06" y14="44.79" x15="37.1" y15="44.79" x16="35.86" y16="45.25" x17="34.8" y17="46.09" x18="34.08" y18="47.14" x19="33.32" y19="46" x20="32.29" y20="45.19" x21="31" y21="44.76" x22="27.07" y22="44.76" x23="25.81" y23="45.19" x24="24.73" y24="46" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:gray"/>
+        <polygon x1="27.17" y1="46.85" x2="25.86" y2="47.52" x3="25" y3="48.86" x4="25" y4="52.61" x5="26.78" y5="54.4" x6="31.23" y6="54.4" x7="33" y7="52.61" x8="33" y8="48.86" x9="32.15" y9="47.52" x10="30.87" y10="46.85" x11="31" y11="45.14" x12="31" y12="44" x13="30.12" y13="43.15" x14="27.89" y14="43.15" x15="27" y15="44" x16="27" y16="45.14" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:gray"/>
+        <rect x="25.91" y="-2.48" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="25.91" y="34.39" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:gray" antialias="false"/>
+        <polygon x1="37.52" y1="46.85" x2="36.2" y2="47.52" x3="35.32" y3="48.86" x4="35.32" y4="52.61" x5="37.13" y5="54.4" x6="41.58" y6="54.4" x7="43.39" y7="52.61" x8="43.39" y8="48.86" x9="42.51" y9="47.52" x10="41.22" y10="46.85" x11="41.38" y11="45.14" x12="41.38" y12="44" x13="40.47" y13="43.15" x14="38.24" y14="43.15" x15="37.34" y15="44" x16="37.34" y16="45.14" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:gray"/>
+        <polygon x1="37.48" y1="-26.9" x2="36.16" y2="-26.23" x3="35.28" y3="-24.89" x4="35.28" y4="-21.14" x5="37.08" y5="-19.35" x6="41.54" y6="-19.35" x7="43.34" y7="-21.14" x8="43.34" y8="-24.89" x9="42.46" y9="-26.23" x10="41.17" y10="-26.9" x11="41.33" y11="-28.61" x12="41.33" y12="-29.71" x13="40.42" y13="-30.6" x14="38.2" y14="-30.6" x15="37.29" y15="-29.71" x16="37.29" y16="-28.61" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="37.5" y1="9.69" x2="36.18" y2="10.36" x3="35.3" y3="11.7" x4="35.3" y4="15.45" x5="37.1" y5="17.24" x6="41.56" y6="17.24" x7="43.37" y7="15.45" x8="43.37" y8="11.7" x9="42.48" y9="10.36" x10="41.19" y10="9.69" x11="41.35" y11="8" x12="41.35" y12="6.88" x13="40.44" y13="6" x14="38.22" y14="6" x15="37.32" y15="6.88" x16="37.32" y16="8" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="45.5" y1="-2.7" x2="48" y2="-2.7" x3="48" y3="15.57" x4="45.5" y4="15.57" antialias="false" style="line-style:normal;line-weight:thin;filling:orange;color:black"/>
+        <polygon x1="27.11" y1="-60.06" x2="25.79" y2="-59.39" x3="24.9" y3="-58.05" x4="24.9" y4="-54.29" x5="26.71" y5="-52.5" x6="31.17" y6="-52.5" x7="33" y7="-54.29" x8="33" y8="-58.05" x9="32.09" y9="-59.39" x10="30.79" y10="-60.06" x11="31" y11="-61.77" x12="31" y12="-62.87" x13="30" y13="-63.76" x14="27.82" y14="-63.76" x15="26.92" y15="-62.87" x16="26.92" y16="-61.77" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="37.45" y1="-60.06" x2="36.13" y2="-59.39" x3="35.25" y3="-58.05" x4="35.25" y4="-54.29" x5="37.06" y5="-52.5" x6="41.51" y6="-52.5" x7="43.33" y7="-54.29" x8="43.33" y8="-58.05" x9="42.44" y9="-59.39" x10="41.15" y10="-60.06" x11="41.3" y11="-61.77" x12="41.3" y12="-62.87" x13="40.4" y13="-63.76" x14="38.17" y14="-63.76" x15="37.27" y15="-62.87" x16="37.27" y16="-61.77" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <rect x="25.91" y="-72.57" width="7" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="29.46" y="-103.5" width="5.72" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false"/>
+        <rect x="24" y="-82.5" width="24" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:gray" antialias="false"/>
+        <text text="XTR" x="31" y="-6" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#f3f3f3"/>
+        <polygon x1="20" y1="-119.39" x2="20" y2="-123.39" x3="24" y3="-123.39" x4="24" y4="70.62" x5="20" y5="70.62" x6="20" y6="66.61" x7="-46" y7="66.61" x8="-48" y8="64.61" x9="-48" y9="-117.39" x10="-46" y10="-119.39" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:lightgray"/>
+        <polygon x1="-0.15" y1="0.77" x2="-0.58" y2="0.66" x3="-0.88" y3="0.41" x4="-1.09" y4="0.14" x5="-1.22" y5="-0.23" x6="-1.22" y6="-8.48" x7="2.1" y7="-8.48" x8="2.1" y8="-2.43" x9="5.05" y9="-2.43" x10="5.05" y10="-5.27" x11="4.07" y11="-5.27" x12="4.07" y12="-3.85" x13="3.06" y13="-3.85" x14="3.06" y14="-8.48" x15="7.32" y15="-8.48" x16="7.84" y16="-8.33" x17="8.1" y17="-8.1" x18="8.28" y18="-7.81" x19="8.37" y19="-7.39" x20="8.37" y20="-0.31" x21="8.27" y21="0.11" x22="8.06" y22="0.41" x23="7.8" y23="0.62" x24="7.35" y24="0.77" antialias="false" style="line-style:normal;line-weight:thin;filling:green;color:green"/>
+        <polygon x1="-35.42" y1="-40.41" x2="-36.74" y2="-41.12" x3="-37.24" y3="-42.55" x4="-37.27" y4="-73.5" x5="-36.82" y5="-74.95" x6="-35.5" y6="-75.65" x7="-33.92" y7="-75.86" x8="-33.92" y8="-83.53" x9="-33.15" y9="-86.49" x10="-31.07" y10="-88.7" x11="-28.2" y11="-89.6" x12="-25.27" y12="-89" x13="-23" y13="-87" x14="-21.94" y14="-84.11" x15="-21.95" y15="-77.05" x16="-19.75" y16="-77" x17="-18.62" y17="-76.17" x18="-18.49" y18="-74.63" x19="-18.53" y19="-42.14" x20="-18.66" y20="-40.6" x21="-19.51" y21="-39.39" x22="-21" y22="-39.14" x23="-21.89" y23="-38.54" x24="-21.89" y24="-32.35" x25="-22.75" y25="-29.42" x26="-24.9" y26="-27.28" x27="-27.78" y27="-26.45" x28="-30.71" y28="-27.15" x29="-32.93" y29="-29.21" x30="-33.9" y30="-32.11" x31="-33.92" y31="-39.84" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <ellipse x="-30.16" y="-35.82" width="4.86" height="4.86" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <polygon x1="9.4" y1="10.18" x2="9.4" y2="8.78" x3="11.77" y3="13.65" x4="9.4" y4="15.16" x5="9.4" y5="14" x6="-1.22" y6="7.33" x7="-1.22" y7="1.93" x8="8.36" y8="1.93" x9="8.36" y9="5.13" x10="6.69" y10="5.13" x11="6.69" y11="8.48" antialias="false" style="line-style:normal;line-weight:thin;filling:green;color:green"/>
+        <polygon x1="-1.22" y1="22" x2="3.22" y2="22" x3="-1.22" y3="19.16" x4="-1.22" y4="15.33" x5="3.23" y5="15.33" x6="-2.28" y6="11.87" x7="-2.28" y7="13.35" x8="-4.64" y8="8.43" x9="-2.27" y9="7" x10="-2.27" y10="8" x11="8.36" y11="14.69" x12="8.36" y12="18.55" x13="3.89" y13="18.55" x14="8.36" y14="21.36" x15="8.36" y15="25.18" x16="-1.22" y16="25.18" antialias="false" style="line-style:normal;line-weight:thin;filling:green;color:green"/>
+        <ellipse x="-4.54" y="-44" width="7.15" height="7.15" style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray" antialias="false"/>
+        <polygon x1="-27.78" y1="-88" x2="-23.36" y2="-85.43" x3="-23.36" y3="-80.34" x4="-27.78" y4="-77.79" x5="-32.18" y5="-80.34" x6="-32.18" y6="-85.43" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="-35.92" y1="-47.1" x2="-35.79" y2="-45.56" x3="-35.17" y3="-44.16" x4="-33.95" y4="-43.27" x5="-23.6" y5="-41" x6="-22.1" y6="-41.19" x7="-20.85" y7="-42" x8="-20.18" y8="-43.4" x9="-19.94" y9="-44.92" x10="-19.94" y10="-71.23" x11="-20.16" y11="-72.76" x12="-20.78" y12="-74.16" x13="-22" y13="-75" x14="-23.51" y14="-75.13" x15="-32.43" y15="-73.3" x16="-33.82" y16="-72.7" x17="-34.94" y17="-71.74" x18="-35.7" y18="-70.35" x19="-35.92" y19="-68.83" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <polygon x1="-0.15" y1="-9.64" x2="-0.58" y2="-9.75" x3="-0.88" y3="-10" x4="-1.09" y4="-10.27" x5="-1.22" y5="-10.64" x6="-1.22" y6="-17.84" x7="-1.12" y7="-18.23" x8="-0.9" y8="-18.53" x9="-0.65" y9="-18.73" x10="-0.12" y10="-18.89" x11="7.32" y11="-18.89" x12="7.84" y12="-18.75" x13="8.1" y13="-18.51" x14="8.28" y14="-18.22" x15="8.37" y15="-17.8" x16="8.37" y16="-10.72" x17="8.27" y17="-10.3" x18="8.06" y18="-10" x19="7.8" y19="-9.79" x20="7.35" y20="-9.64" antialias="false" style="line-style:normal;line-weight:thin;filling:green;color:green"/>
+        <polygon x1="2.1" y1="-12.82" x2="2.1" y2="-15.69" x3="5.05" y3="-15.69" x4="5.05" y4="-12.82" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:green"/>
+        <polygon x1="-27.74" y1="-38.53" x2="-23.32" y2="-36" x3="-23.32" y3="-30.89" x4="-27.74" y4="-28.34" x5="-32.14" y5="-30.89" x6="-32.14" y6="-36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="5.05" y1="7.41" x2="5.05" y2="5.13" x3="1.42" y3="5.13" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:green"/>
+        <ellipse x="-32.17" y="-62" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <polygon x1="-37.83" y1="36.1" x2="-17.82" y2="36.1" x3="-17.82" y3="56.09" x4="-37.83" y4="56.09" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <ellipse x="-32.17" y="-56.17" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-32.17" y="-50.4" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <polygon x1="-37.6" y1="-3.35" x2="-17.58" y2="-3.35" x3="-17.58" y3="16.65" x4="-37.6" y4="16.65" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <ellipse x="-26.17" y="-48" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-26.17" y="-53.77" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-26.17" y="-59.49" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="750-333/040-000" x="17.87" y="24.77" rotation="270" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#f3f3f3"/>
+        <ellipse x="-26.17" y="-65.32" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-26.17" y="-71" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-32.17" y="-67.72" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-30.2" y="-85.27" width="4.86" height="4.86" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <text text="3" x="-22.94" y="46.68" rotation="108" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-22.7" y="7.24" rotation="108" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-25.49" y="1.52" rotation="36" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="-31.6" y="9.52" rotation="252" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-23.13" y="3.81" rotation="72" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="9" x="-31.9" y="3.24" rotation="324" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="-29.8" y="11.81" rotation="216" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="-32.9" y="6.09" rotation="288" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-23.42" y="10.1" rotation="144" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="-26.21" y="11.24" rotation="180" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-48.05" y1="-38.88" x2="-53.46" y2="-38.88" x3="-53.46" y3="-43.83" x4="-48.05" y4="-43.83" antialias="false" style="line-style:normal;line-weight:thin;filling:orange;color:black"/>
+        <text text="8" x="-33.13" y="45.54" rotation="288" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-48.05" y1="-21.77" x2="-53.46" y2="-21.77" x3="-53.46" y3="-38.88" x4="-48.05" y4="-38.88" antialias="false" style="line-style:normal;line-weight:thin;filling:orange;color:black"/>
+        <text text="4" x="-23.65" y="49.54" rotation="144" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-53.46" y1="-21.77" x2="-53.46" y2="-21.77" x3="-48.05" y3="-21.77" x4="-48.05" y4="-18.88" x5="-53.46" y5="-18.88" antialias="false" style="line-style:normal;line-weight:thin;filling:orange;color:black"/>
+        <text text="5" x="-26.44" y="50.69" rotation="180" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="45.5" y1="6" x2="48" y2="6" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="6" x="-30" y="51.26" rotation="216" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-48.05" y1="-14.92" x2="-53.46" y2="-14.92" x3="-53.46" y3="-18.88" x4="-48.05" y4="-18.88" antialias="false" style="line-style:normal;line-weight:thin;filling:orange;color:black"/>
+        <text text="1" x="-25.72" y="41" rotation="36" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="9" x="-32.14" y="42.68" rotation="324" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-23.36" y="43.25" rotation="72" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="-31.85" y="49" rotation="252" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-31.82" y1="46.1" x2="-31.82" y2="43.89" x3="-30" y3="42.09" x4="-27.82" y4="42.09" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="42.09" x2="-25.6" y2="42.09" x3="-23.82" y3="43.89" x4="-23.82" y4="46.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-23.82" y1="46.1" x2="-23.82" y2="48.31" x3="-25.6" y3="50.1" x4="-27.82" y4="50.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="50.1" x2="-30" y2="50.1" x3="-31.82" y3="48.31" x4="-31.82" y4="46.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-31.82" y1="46.1" x2="-31.82" y2="43.89" x3="-30" y3="42.09" x4="-27.82" y4="42.09" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="42.09" x2="-25.6" y2="42.09" x3="-23.82" y3="43.89" x4="-23.82" y4="46.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-23.82" y1="46.1" x2="-23.82" y2="48.31" x3="-25.6" y3="50.1" x4="-27.82" y4="50.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="50.1" x2="-30" y2="50.1" x3="-31.82" y3="48.31" x4="-31.82" y4="46.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="48.79" x2="-27.82" y2="44.8" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-37" y1="46.1" x2="-37" y2="41" x3="-32.9" y3="36.9" x4="-27.82" y4="36.9" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="36.9" x2="-22.74" y2="36.9" x3="-18.62" y3="41" x4="-18.62" y4="46.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-18.62" y1="46.1" x2="-18.62" y2="51.18" x3="-22.74" y3="55.29" x4="-27.82" y4="55.29" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.82" y1="55.29" x2="-32.9" y2="55.29" x3="-37" y3="51.18" x4="-37" y4="46.1" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-29.22" y1="44.8" x2="-27.82" y2="43.4" x3="-26.42" y3="44.8" x4="-29.22" y4="44.8" x5="-27.82" y5="43.4" x6="-26.42" y6="44.8" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="0" x="-29" y="41.54" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-6.58" y1="-62.35" x2="-6.58" y2="-119.35" x3="-8.6" y3="-117.35" x4="-8.6" y4="64.65" x5="-6.58" y5="66.65" x6="-6.58" y6="-56.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-48.6" y1="-117.35" x2="23.45" y2="-117.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-46.6" y1="66.65" x2="-46.6" y2="-119.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-4.57" y1="27.65" x2="19.44" y2="27.65" x3="19.44" y3="59.65" x4="-4.57" y4="59.65" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="3.43" y1="59.65" x2="11.44" y2="59.65" x3="11.44" y3="61.65" x4="3.43" y4="61.65" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-8.6" y1="64.65" x2="-48.6" y2="64.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-8.6" y1="-60.35" x2="23.44" y2="-60.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-8.6" y1="-58.35" x2="23.44" y2="-58.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-6.58" y1="-56.35" x2="21.44" y2="-56.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-6.58" y1="-62.35" x2="21.44" y2="-62.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-6.58" y1="-62.35" x2="-8.6" y2="-60.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-6.58" y1="-56.35" x2="-8.6" y2="-58.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="21.44" y1="-56.35" x2="21.44" y2="66.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="21.44" y1="-119.36" x2="21.44" y2="-62.35" x3="23.44" y3="-60.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="21.44" y1="-56.35" x2="23.44" y2="-58.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="19.46" y1="-119.36" x2="21.44" y2="-119.35" x3="23.45" y3="-117.36" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="23.45" y1="64.65" x2="21.44" y2="66.65" x3="19.48" y3="66.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:lightgray"/>
+        <polygon x1="-31.6" y1="6.65" x2="-31.6" y2="4.44" x3="-29.79" y3="2.65" x4="-27.6" y4="2.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="2.65" x2="-25.38" y2="2.65" x3="-23.6" y3="4.44" x4="-23.6" y4="6.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-23.6" y1="6.65" x2="-23.6" y2="8.86" x3="-25.38" y3="10.65" x4="-27.6" y4="10.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="10.65" x2="-29.79" y2="10.65" x3="-31.6" y3="8.86" x4="-31.6" y4="6.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-31.6" y1="6.65" x2="-31.6" y2="4.44" x3="-29.79" y3="2.65" x4="-27.6" y4="2.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="2.65" x2="-25.38" y2="2.65" x3="-23.6" y3="4.44" x4="-23.6" y4="6.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-23.6" y1="6.65" x2="-23.6" y2="8.86" x3="-25.38" y3="10.65" x4="-27.6" y4="10.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="10.65" x2="-29.79" y2="10.65" x3="-31.6" y3="8.86" x4="-31.6" y4="6.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="9.35" x2="-27.6" y2="5.35" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-36.79" y1="6.65" x2="-36.79" y2="1.57" x3="-32.67" y3="-2.55" x4="-27.6" y4="-2.55" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="-2.55" x2="-22.51" y2="-2.55" x3="-18.38" y3="1.57" x4="-18.38" y4="6.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-18.38" y1="6.65" x2="-18.38" y2="11.73" x3="-22.51" y3="15.85" x4="-27.6" y4="15.85" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-27.6" y1="15.85" x2="-32.67" y2="15.85" x3="-36.79" y3="11.73" x4="-36.79" y4="6.65" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-29" y1="5.35" x2="-27.6" y2="3.95" x3="-26.19" y3="5.35" x4="-29" y4="5.35" x5="-27.6" y5="3.95" x6="-26.19" y6="5.35" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="0" x="-29.33" y="2.09" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-4.65" y="-83.58" width="7.43" height="7.43" style="line-style:normal;line-weight:thin;filling:red;color:black" antialias="false"/>
+        <polygon x1="-1.06" y1="-50.54" x2="-4.38" y2="-48.65" x3="-2.95" y3="-47.22" x4="-1.06" y4="-46.73" x5="0.84" y5="-47.24" x6="2.25" y6="-48.65" antialias="false" style="line-style:normal;line-weight:thin;filling:orange;color:black"/>
+        <polygon x1="-1" y1="-50.54" x2="-4.34" y2="-48.65" x3="-4.84" y3="-50.54" x4="-4.32" y4="-52.44" x5="-2.93" y5="-53.81" x6="-1" y6="-54.3" antialias="false" style="line-style:normal;line-weight:thin;filling:red;color:black"/>
+        <polygon x1="-1" y1="-50.54" x2="2.28" y2="-48.65" x3="2.77" y3="-50.54" x4="2.25" y4="-52.44" x5="0.86" y5="-53.81" x6="-1" y6="-54.3" antialias="false" style="line-style:normal;line-weight:thin;filling:green;color:black"/>
+        <ellipse x="-4.76" y="-103.36" width="7.43" height="7.43" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false"/>
+        <ellipse x="-4.76" y="-73.63" width="7.43" height="7.43" style="line-style:normal;line-weight:thin;filling:red;color:black" antialias="false"/>
+        <ellipse x="-4.76" y="-93.58" width="7.43" height="7.43" style="line-style:normal;line-weight:thin;filling:red;color:black" antialias="false"/>
+    </description>
+</definition>

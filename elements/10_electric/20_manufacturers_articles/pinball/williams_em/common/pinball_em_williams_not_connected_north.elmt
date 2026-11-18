@@ -1,0 +1,17 @@
+<definition version="0.100.0" type="element" link_type="simple" width="20" height="30" hotspot_x="10" hotspot_y="19">
+    <uuid uuid="{2832cfa2-4bb1-18b0-004f-3312f330a19c}"/>
+    <names>
+        <name lang="ca">No connectat (nord)</name>
+        <name lang="en">Not connected (north)</name>
+        <name lang="nl">Niet verbonden (noord)</name>
+        <name lang="pt_BR">Not connected (nouth)</name>
+        <name lang="zh">威廉姆斯弹球机未连接北</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <line x1="-6" y1="-6" x2="6" y2="6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="6" y1="-6" x2="-6" y2="6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="0" x2="0" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{703374e8-9d50-4176-aa77-00f2bb9ed5b7}" name="" x="0" y="-10" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,24 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="250" height="20" hotspot_x="8" hotspot_y="10">
+    <uuid uuid="{f6d89c46-652d-3360-9511-0bc0c030eead}"/>
+    <names>
+        <name lang="ca">2016-440</name>
+        <name lang="cs">2016-440</name>
+        <name lang="de">2016-440</name>
+        <name lang="en">2016-440</name>
+        <name lang="fr">2016-440</name>
+        <name lang="pt_BR">2016-440</name>
+        <name lang="zh">wago_2016-0440-0000-0000</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Jumper for Series 2016, 2116, 2216</elementInformation>
+        <elementInformation show="1" name="designation">2016-440</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <polygon x1="-4.69" y1="-4" x2="238.11" y2="-4" x3="238.11" y3="4.08" x4="-4.69" y4="4.08" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black"/>
+        <polygon x1="6" y1="1.71" x2="6" y2="-1.71" x3="229.49" y3="-1.71" x4="229.49" y4="1.71" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="2016-440" x="109.17" y="1.26" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+    </description>
+</definition>

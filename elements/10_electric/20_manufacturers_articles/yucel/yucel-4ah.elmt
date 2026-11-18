@@ -1,0 +1,37 @@
+<definition version="0.100.0" type="element" link_type="simple" width="80" height="80" hotspot_x="6" hotspot_y="25">
+    <uuid uuid="{08780410-b479-a380-afc5-cb08a15d54f7}"/>
+    <names>
+        <name lang="ca">Yucel_4Ah</name>
+        <name lang="cs">Yucel_4Ah</name>
+        <name lang="fr">Yucel_4Ah</name>
+        <name lang="pt_BR">Yucel_4Ah</name>
+        <name lang="zh">yucel-4ah</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Batterie 4Ah</elementInformation>
+        <elementInformation show="1" name="manufacturer">Yucel</elementInformation>
+    </elementInformations>
+    <informations>S.DEFFAUX</informations>
+    <description>
+        <polygon x1="0" y1="0" x2="20" y2="-20" x3="70" y3="-20" x4="50" y4="0" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <rect x="0" y="0" width="50" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <rect x="10" y="-5" width="6" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <rect x="0" y="0" width="50" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <polygon x1="50" y1="10" x2="70" y2="-10" x3="70" y3="-20" x4="50" y4="0" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <polygon x1="50" y1="50" x2="70" y2="30" x3="70" y3="-10" x4="50" y4="10" antialias="true" style="line-style:normal;line-weight:normal;filling:gray;color:black"/>
+        <text text="Y" x="5" y="20" rotation="0" font="Liberation Sans,7,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="UCEL" x="10" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Y4-12       12V,4.0AH C20" x="4" y="26" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="www.yuasaeurope.com" x="4" y="46" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="45" y="-5" width="6" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:blue;color:blue" antialias="false"/>
+        <line x1="4" y1="22" x2="44" y2="22" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="44" y1="28" x2="4" y2="28" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Valve regulated" x="4" y="34" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Lead acid type" x="4" y="38" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Pb" x="42" y="40" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <line x1="4" y1="48" x2="44" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="44" y1="42" x2="4" y2="42" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{afbf68cc-b9b7-5066-794d-1e0f2394f127}" name="+" x="10" y="-5" orientation="n" type="Generic"/>
+        <terminal uuid="{8e7cfab8-ce0c-5a00-fa68-fda4b7b375b3}" name="-" x="50" y="-5" orientation="n" type="Generic"/>
+    </description>
+</definition>

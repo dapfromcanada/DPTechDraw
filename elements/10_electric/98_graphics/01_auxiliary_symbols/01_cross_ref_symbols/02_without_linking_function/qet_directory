@@ -1,0 +1,14 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Bez odkazovací funkce (ručně)</name>
+        <name lang="de">Ohne Verweisfunktion (manuell)</name>
+        <name lang="en">Without linking function (manually)</name>
+        <name lang="fr">Sans fonction de référencement (manuel)</name>
+        <name lang="it">Senza funzione di riferimento (manuale)</name>
+        <name lang="ko">링크 기능 없음 (수동)</name>
+        <name lang="nl">Zonder link functie</name>
+        <name lang="pl">Odsyłacze</name>
+        <name lang="pt_BR">sem linking function (manually)</name>
+        <name lang="zh">无链接功能</name>
+    </names>
+</qet-directory>

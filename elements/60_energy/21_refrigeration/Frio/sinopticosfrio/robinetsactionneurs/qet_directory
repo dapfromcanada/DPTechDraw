@@ -1,0 +1,16 @@
+<qet-directory>
+    <names>
+        <name lang="ar">صمّامات مشغلات</name>
+        <name lang="cs">Ovládací ventily</name>
+        <name lang="de">Handventile</name>
+        <name lang="el">Βαλβίδες ελέγχου</name>
+        <name lang="en">Valves actuators</name>
+        <name lang="fr">Robinets actionneurs</name>
+        <name lang="it">Comando valvole</name>
+        <name lang="ko">밸브 액추에이터</name>
+        <name lang="nl">Klepbediening</name>
+        <name lang="pl">Zawory sterujące</name>
+        <name lang="pt_BR">valvulas actuatous</name>
+        <name lang="zh">执行阀</name>
+    </names>
+</qet-directory>

@@ -1,0 +1,20 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="20" hotspot_x="30" hotspot_y="10">
+    <uuid uuid="{9b51dfce-95ab-3894-6cd6-2be65b9845b8}"/>
+    <names>
+        <name lang="ca">Interruptor (N.C.)</name>
+        <name lang="en">Switch (N.C.)</name>
+        <name lang="nl">Schakelaar (N.C.)</name>
+        <name lang="pt_BR">Interruptor (N.C.)</name>
+        <name lang="zh">弹球电磁威廉姆斯开关常闭</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-5" y="-5" width="3" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="2" y="-5" width="3" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="5" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="0" x2="-20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="-5" x2="-10" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{cb506daf-8f72-40f2-8fe4-0b0ebe573d36}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{1e8d5d8a-04d7-4f32-be96-107cb2a45d09}" name="" x="20" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

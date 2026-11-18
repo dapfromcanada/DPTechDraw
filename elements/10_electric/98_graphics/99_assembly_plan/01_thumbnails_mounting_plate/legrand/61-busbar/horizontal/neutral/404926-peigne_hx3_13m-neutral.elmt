@@ -1,0 +1,49 @@
+<definition version="0.100.0" type="element" link_type="terminal" width="500" height="40" hotspot_x="40" hotspot_y="19">
+    <uuid uuid="{6592b621-12d6-e969-6ad8-2359a814ade9}"/>
+    <names>
+        <name lang="ca">404926 - Pinta P+N HX³ - 13 mòduls</name>
+        <name lang="cs">404926 - Lišta P+N HX³ - 13 modulů</name>
+        <name lang="fr">404926 - Peigne P+N HX³ - 13 modules</name>
+        <name lang="pt_BR">404926 - Peigne P+N HX³ - 13 modulos</name>
+        <name lang="zh">404926-汇流排HX3_13m-中性线</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">Peigne d'alimentation universel Phase + Neutre HX³ horizontale 1P - longueur 13 modules</elementInformation>
+        <elementInformation show="1" name="designation">4049 26</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud Valmary</informations>
+    <description>
+        <rect x="-31" y="-10" width="482" height="20" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <polygon x1="-30" y1="4" x2="-30" y2="-8" x3="450" y3="-8" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:blue"/>
+        <dynamic_text x="-35" y="-28" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{58b7ce38-810c-4865-8f14-ee41cd829a36}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-30.73" y="-9.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{e4a56c36-b376-4dc5-954e-049d43f23ce2}" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular">
+            <text>4049 26</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text x="-3.73" y="-9.5" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{2cd5e253-a1e3-4469-8a78-30128ccd7d74}" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular">
+            <text>Legrand</text>
+            <info_name>manufacturer</info_name>
+        </dynamic_text>
+        <terminal uuid="{02f29f18-aca5-a8b6-7267-59738bdcfad7}" name="" x="290" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{26e518cc-9ab4-1ff0-b2b5-d132106dd5d7}" name="" x="10" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{03ba5bdf-07cf-b0bb-5978-29d87136a321}" name="" x="330" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{096f8f23-be10-5fe2-6058-afbf5f4eb934}" name="" x="-30" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{c82955eb-ca2a-aaa8-b750-0355d4a38001}" name="" x="410" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{ea1f651d-0c33-5427-49f6-0a75e004b64d}" name="" x="210" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{8cdc1e31-6a43-5210-9b4b-7192d2fdc435}" name="" x="90" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{d8a78bf3-0e64-4dd7-aac4-4d8e382c1359}" name="" x="250" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{c7e880c5-d644-d19e-c2b7-e5c1a877d24e}" name="" x="170" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{204d04e2-809c-d447-d7b1-45dbd2020113}" name="" x="130" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{e5f8f1ee-7d22-0232-19c6-6c76757f1c3c}" name="" x="450" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{bfce79d5-a64e-56f0-0f71-8b17edc81eeb}" name="" x="370" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{6969df12-bab7-930b-038b-e3983947ab24}" name="" x="50" y="10" orientation="s" type="Generic"/>
+    </description>
+</definition>

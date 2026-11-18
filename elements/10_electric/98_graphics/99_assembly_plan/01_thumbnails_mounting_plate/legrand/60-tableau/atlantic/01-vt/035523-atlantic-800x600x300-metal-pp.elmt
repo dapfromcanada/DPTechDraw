@@ -1,0 +1,24 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="1360" height="1810" hotspot_x="5" hotspot_y="5">
+    <uuid uuid="{344cc4f1-5802-8868-5773-2fe1a0183d0f}"/>
+    <names>
+        <name lang="ca">035523 - Caixa Atlantic 800x600x300 Metall IP66 IK10 RAL7035</name>
+        <name lang="cs">035523 - Skříň Atlantic 800x600x300 ocelová IP66 IK10 RAL7035</name>
+        <name lang="fr">035523 - Coffret Atlantic 800x600x300 Métal IP66 IK10 RAL7035</name>
+        <name lang="pt_BR">035523 - Coffret Atlantic 800x600x300 Métal IP66 IK10 RAL7035</name>
+        <name lang="zh">035523-大西洋-800x600x300-金属-聚丙烯</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Coffret métal vertical Atlantic métal IP66 IK10 - 800x600x300mm - RAL7035</elementInformation>
+        <elementInformation show="1" name="designation">035523</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud VALMARY</informations>
+    <description>
+        <rect x="0" y="0" width="1350" height="1800" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="1258.55" y="1705.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="1258.55" y="75.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="72.55" y="1705.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="72.55" y="75.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <rect x="50" y="50" width="1250" height="1700" rx="0" ry="0" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

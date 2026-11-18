@@ -1,0 +1,29 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="20" height="40" hotspot_x="10" hotspot_y="30">
+    <uuid uuid="{d7ad2f8c-427e-f4ba-88e1-15f5d33b0987}"/>
+    <names>
+        <name lang="ca">3501/GR - Configurador GR</name>
+        <name lang="cs">3501/GR - Konfigurátor GR</name>
+        <name lang="en">3501/GR - Configurator GR</name>
+        <name lang="fr">3501/GR - Configurateur GR</name>
+        <name lang="pt_BR">3501/GR - Configuratou GR</name>
+        <name lang="zh">3501gr-比力诺智能家居配置器_组</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment">BTicino configurator GR</elementInformation>
+        <elementInformation show="1" name="description">Configurator GR</elementInformation>
+        <elementInformation show="1" name="designation">3501/GR</elementInformation>
+        <elementInformation show="1" name="label">Configurator GR</elementInformation>
+        <elementInformation show="1" name="manufacturer">BTicino - Legrang Group</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">3501/GR</elementInformation>
+        <elementInformation show="1" name="plant">SCS MyHOME</elementInformation>
+    </elementInformations>
+    <informations>Arnaud Valmary</informations>
+    <description>
+        <rect x="-2.5" y="-19" width="5" height="18" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:blue;color:blue" antialias="false"/>
+        <arc x="-2.5" y="-2.5" width="5" height="5" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:blue" antialias="true"/>
+        <arc x="-2.5" y="-22.5" width="5" height="5" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:blue;color:blue" antialias="true"/>
+        <text text="G&#10;R" x="-2" y="-12" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <terminal uuid="{3d499624-aa3d-49c7-a8bf-df3aa1ef51c0}" name="" x="0" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{580b45e6-5471-42ba-816d-91b71181ca3d}" name="" x="0" y="-20" orientation="s" type="Generic"/>
+    </description>
+</definition>

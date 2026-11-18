@@ -1,0 +1,47 @@
+<definition version="0.100.0" type="element" link_type="simple" width="160" height="120" hotspot_x="77" hotspot_y="65">
+    <uuid uuid="{5bc6d13e-c4b8-fd73-4316-53a7f42edc70}"/>
+    <names>
+        <name lang="ca">PanelView 800</name>
+        <name lang="cs">PanelView 800</name>
+        <name lang="en">PanelView 800</name>
+        <name lang="fr">PanelView 800</name>
+        <name lang="pt_BR">PanelView 800</name>
+        <name lang="zh">PanelView 800 触摸屏</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">PanelView 800</elementInformation>
+        <elementInformation show="1" name="manufacturer">Allen Bradley</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-70" y="-50" width="140" height="100" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <text text="PE" x="17.95" y="-47.5" rotation="90" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="-" x="-2.15" y="-46.5" rotation="90" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Allen Bradley" x="-60" y="-10" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=" PanelView 800" x="-65" y="5" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2711R - T4T" x="-60" y="20" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="-22" y="-48" rotation="90" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="USB1" x="49.25" y="-22.25" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="USB2" x="48.75" y="-2.25" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RS485" x="46.75" y="12.75" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="ETHERNET" x="33.5" y="33.5" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-95" y="-56" z="12" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{accb72b0-74ee-4f2e-b02e-7bba54510709}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-20" y1="-50" x2="-20" y2="-55" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-50" x2="0" y2="-55" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="20" y1="-50" x2="20" y2="-55" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="-30" x2="75" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="-10" x2="75" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="10" x2="75" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="30" x2="75" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{6b175d28-8a91-ded5-d359-28ffad3d587b}" name="" x="75" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{2794a4ea-72ce-6306-8edb-8d53a86e29b4}" name="" x="75" y="30" orientation="e" type="Generic"/>
+        <terminal uuid="{f0d99c70-be75-94d7-ac76-1037984f0a8f}" name="" x="75" y="-30" orientation="e" type="Generic"/>
+        <terminal uuid="{2f1a16b0-8f03-15b1-429a-5341885bf45b}" name="" x="20" y="-55" orientation="n" type="Generic"/>
+        <terminal uuid="{cce3e354-196c-53ef-9271-3857ea59911f}" name="" x="0" y="-55" orientation="n" type="Generic"/>
+        <terminal uuid="{139258d0-5469-8a9b-20e3-6daa3b9be05a}" name="" x="-20" y="-55" orientation="n" type="Generic"/>
+        <terminal uuid="{878e849a-9f3f-0918-97e7-bb607ad8fbeb}" name="" x="75" y="10" orientation="e" type="Generic"/>
+    </description>
+</definition>

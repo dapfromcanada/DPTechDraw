@@ -1,0 +1,75 @@
+<definition version="0.80" type="element" link_type="simple" width="730" height="110" hotspot_x="365" hotspot_y="51">
+    <uuid uuid="{73b1d69b-88ff-810a-b2ae-f5ca9d3f24f6}"/>
+    <names>
+        <name lang="ca">857-414</name>
+        <name lang="cs">857-414</name>
+        <name lang="de">857-414</name>
+        <name lang="en">857-414</name>
+        <name lang="fr">857-414</name>
+        <name lang="pt_BR">857-414</name>
+        <name lang="zh">WAGO 0857-0414 接线端子</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">857-414</elementInformation>
+        <elementInformation show="1" name="designation">857-414</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="20" y="-40" width="120" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="117.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-122.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="197.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-202.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-360" y1="-40" x2="-360" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="277.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-282.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="37.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-42.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="360" y1="-40" x2="360" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="220" y="29.5" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{c7797210-7562-413a-8b78-a822eaf4caf4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-117" y1="-40" x2="-43" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="123" y1="-40" x2="197" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-197" y1="-40" x2="-123" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="203" y1="-40" x2="277" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-277" y1="-40" x2="-203" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="283" y1="-40" x2="360" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-360" y1="-40" x2="-283" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-37" y1="-40" x2="37" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="43" y1="-40" x2="117" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-360" y1="50" x2="360" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="7" x="206" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Us+" x="-132" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND2" x="103" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="125" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Isolating Amplifier" x="-130" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-196" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND1" x="-216" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Us+" x="190" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-114" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-276" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IN+" x="-290" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND3" x="265" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-34" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="WAGO 857-414" x="-330" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="286" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND3" x="-56" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="OUT+" x="24" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="46" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-300" y="-40" width="120" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="0 V ... 10 V" x="-267" y="2" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4 mA ... 20 mA" x="48" y="2" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{baed8bf2-8560-f987-cbc6-a7a983306e74}" name="1" x="-280" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{abc65593-d368-163b-f7be-4a9ea1dfa814}" name="2" x="-200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{67c99e87-04fa-2398-235e-ef7c77b90aa3}" name="3" x="-120" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{641e626f-542e-8c57-fb13-bd50925132d2}" name="4" x="-40" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{30d30c95-e879-f04f-a257-4784eac640c3}" name="5" x="40" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{4ed1dfde-8981-1fb6-48db-581fb0e3bcfa}" name="6" x="120" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{71d6358f-391a-0cbe-11ce-d34af63529b6}" name="7" x="200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{072ebba3-9272-6dce-107b-e107708a9005}" name="8" x="280" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

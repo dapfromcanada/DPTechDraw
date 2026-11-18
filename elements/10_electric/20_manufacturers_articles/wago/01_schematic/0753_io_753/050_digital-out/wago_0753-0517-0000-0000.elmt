@@ -1,0 +1,79 @@
+<definition version="0.90" type="element" link_type="simple" width="730" height="110" hotspot_x="365" hotspot_y="43">
+    <uuid uuid="{7caeae02-9123-05de-4730-94acb21aa81d}"/>
+    <names>
+        <name lang="ar">753-517</name>
+        <name lang="ca">753-517</name>
+        <name lang="cs">753-517</name>
+        <name lang="de">753-517</name>
+        <name lang="el">753-517</name>
+        <name lang="en">753-517</name>
+        <name lang="es">753-517</name>
+        <name lang="fr">753-517</name>
+        <name lang="it">753-517</name>
+        <name lang="nl">753-517</name>
+        <name lang="pl">753-517</name>
+        <name lang="pt">753-517</name>
+        <name lang="pt_BR">753-517</name>
+        <name lang="zh">WAGO 0753-0517-0000-0000 数字量输出模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">2RO AC230V 1.0A</elementInformation>
+        <elementInformation show="1" name="designation">753-517</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <line x1="40" y1="50" x2="40" y2="3" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-40" y1="50" x2="-40" y2="-6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-40" y1="-6" x2="70" y2="-6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="120" y1="50" x2="120" y2="13" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="120" y1="13" x2="70" y2="13" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="40" y1="3" x2="72" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-200" y1="50" x2="-200" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L1" x="-197" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="219" y="-42.5" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{4ac82a16-55cb-4846-a5f4-3f946d1e5518}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="DO1" x="-277" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-120" y1="50" x2="-120" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="/DO2" x="124" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-120" y1="15" x2="-170" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L2" x="44" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-170" y1="10" x2="-170" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-200" y1="5" x2="-168" y2="12" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="DO2" x="-37" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="/DO1" x="-117" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-280" y1="50" x2="-280" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-280" y1="-5" x2="-170" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="WAGO 753-517" x="-331" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-170" y1="-5" x2="-170" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="-6" x2="70" y2="-2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="1" x="-278" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="70" y1="12" x2="70" y2="8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="2" x="-197" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-117" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="-37" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="43" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="123" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="203" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="283" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2RO AC230V 1.0A" x="-139" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-42.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-122.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-202.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-282.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="277.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="197.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="117.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <terminal uuid="{eb5f5d61-1088-e6cb-c337-08f4e08b8b1a}" name="1" x="-280" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{c4f675c4-e49c-e9de-5e9a-834e26a0e447}" name="2" x="-200" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{460853f0-c986-f4ff-c9a7-63ba2b3eb32e}" name="3" x="-120" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{827ce4ac-757c-c092-d227-2531aba82221}" name="5" x="-40" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{fd0948f6-3e3e-600b-4a60-60140708211d}" name="6" x="40" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{9d8dbd70-2aa1-cc2f-ce55-2f3cb9c10df5}" name="7" x="120" y="50" orientation="s" type="Generic"/>
+    </description>
+</definition>

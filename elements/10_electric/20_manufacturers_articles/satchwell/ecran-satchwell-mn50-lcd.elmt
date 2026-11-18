@@ -1,0 +1,80 @@
+<definition version="0.100.0" type="element" link_type="simple" width="470" height="180" hotspot_x="227" hotspot_y="84">
+    <uuid uuid="{4e67ebc4-4902-7b3e-9364-2304fb552a8f}"/>
+    <names>
+        <name lang="ar">شاشة  Satchwell MN 50 LCD</name>
+        <name lang="ca">Pantalla Satchwell MN 50 LCD</name>
+        <name lang="cs">Ovládací panel Satchwell MN 50 LCD</name>
+        <name lang="en">Screen  Satchwell MN 50 LCD</name>
+        <name lang="es">Pantalla  Satchwell MN 50 LCD</name>
+        <name lang="fr">Ecran  Satchwell MN 50 LCD</name>
+        <name lang="it">Pannello Satchwell MN 50 LCD</name>
+        <name lang="nl">Scherm MN 50 LCD</name>
+        <name lang="pl">Panel operatorski -  Satchwell MN 50 LCD</name>
+        <name lang="pt_BR">blindagem Satchwell MN 50 LCD</name>
+        <name lang="zh">satchwell-mn50 LCD 屏幕元件</name>
+    </names>
+    <informations>Auteur : C V C 71
+Langue : Fr
+
+Cet élément est optimisé pour un folio de 15 colones X 50 px et de 6 lignes X 80 px.
+
+Bonne utilisation !</informations>
+    <description>
+        <polygon x1="140" y1="20" x2="144" y2="18" x3="144" y3="22" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="144" y1="20" x2="155" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-110" y="-50" width="290" height="110" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-170" y="-79" width="410" height="169" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-219" y="-40" width="44" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="8" x="-212" y="-27" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LAN -" x="-201" y="-18" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LAN +" x="-201" y="-28" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LAN REF" x="-201" y="-8" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24 V AC" x="-201" y="32" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="-201" y="41" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-214" y="34.55" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="24.55" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="14.55" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="4.55" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="-5.45" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="-25.45" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="-15.45" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-214" y="-35.45" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="1" x="-212" y="43" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-212" y="33" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-212" y="23" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-212" y="13" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="-212" y="3" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="-212" y="-17" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="-212" y="-7" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="155" y1="19" x2="155" y2="14" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="ESC" x="142" y="-7" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-80" y="-30" width="110" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Satchwell MN 50 LCD" x="-62" y="-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="93" y1="-19" x2="87" y2="-27" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="81" y1="-19" x2="87" y2="-27" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="81" y1="-19" x2="93" y2="-19" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="67" y1="-9" x2="75" y2="-3" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="67" y1="-9" x2="75" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="75" y1="-3" x2="75" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="87" y1="9" x2="81" y2="1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="87" y1="9" x2="93" y2="1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="93" y1="1" x2="81" y2="1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="99" y1="-15" x2="107" y2="-9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="99" y1="-3" x2="107" y2="-9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="99" y1="-3" x2="99" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="140" y="-30" width="20" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="140" y="0" width="20" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-160" y="-112.5" z="45" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{dbdd74d2-824d-424b-8603-90153bfc5b1e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{91d2a09e-84d5-4c1b-ae10-767c39f36970}" name="" x="-219" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{bcf25d27-d3c3-4a8a-ac93-72be47597e92}" name="" x="-219" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{3fd6afbd-443b-49b2-83ea-1b269199b8e3}" name="" x="-219" y="30" orientation="w" type="Generic"/>
+        <terminal uuid="{ddb9b509-ae56-4541-b72c-c14a02fb5a4a}" name="" x="-219" y="-20" orientation="w" type="Generic"/>
+        <terminal uuid="{c9438a70-75b9-4d94-8b51-d2edf6a7df69}" name="" x="-219" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{1d00139d-af18-4fee-a5fa-0dd308514eb0}" name="" x="-219" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{952be199-ca9a-4d77-ae51-4f6b8d576020}" name="" x="-219" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{238b6bf3-a264-444d-a4ec-20ca4ff0cd27}" name="" x="-219" y="-30" orientation="w" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,43 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="150" hotspot_x="37" hotspot_y="87">
+    <uuid uuid="{06c63838-392b-7610-18bc-5dae45a330fc}"/>
+    <names>
+        <name lang="ca">cRIO 9215 4 entrada analògica diferencial</name>
+        <name lang="cs">cRIO 9215 4 diferenciální analogové vstupy</name>
+        <name lang="en">cRIO 9215 4 differential analog input</name>
+        <name lang="es">cRIO 9215</name>
+        <name lang="fr">cRIO 9215 4 entrées analogiques différentielles</name>
+        <name lang="it">cRIO 9215</name>
+        <name lang="nl">cRIO 9215</name>
+        <name lang="pl">cRIO 9215</name>
+        <name lang="pt_BR">Módulo de aquisição de tensão analógica simultânea NI cRIO-9215 (4 entradas AI +/-10V)</name>
+        <name lang="zh">NI 9215 模拟量输入模块</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <ellipse x="-6.5" y="43.5" width="13" height="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-6.5" y="-6.5" width="13" height="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-6.5" y="-31.5" width="13" height="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-6.5" y="18.5" width="13" height="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-5" y="20" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-5" y="45" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-50" width="40" height="110" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="CH2" x="-18" y="2" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CH3" x="-18" y="27" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CH4" x="-18" y="52" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-5" y="-5" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="NI 9215" x="-13" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-20" y1="-40" x2="20" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-30" y="87.5" z="14" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1ce695d7-2c3d-4254-990e-08d77ce85118}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="-5" y="-30" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="CH1" x="-18" y="-23" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Entrées analogique&#10; différentielles&#10;       -10/10v" x="-30" y="-80" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{27bac747-8622-4f8d-85d9-870cdaed9bd0}" name="" x="0" y="-25" orientation="n" type="Generic"/>
+        <terminal uuid="{24025b3b-67a7-47c1-83af-e01044925177}" name="" x="0" y="50" orientation="n" type="Generic"/>
+        <terminal uuid="{83a486ca-a158-4ab8-b944-f6e740842493}" name="" x="0" y="25" orientation="n" type="Generic"/>
+        <terminal uuid="{601114f1-508f-4960-9fad-fca156fe81a3}" name="" x="0" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

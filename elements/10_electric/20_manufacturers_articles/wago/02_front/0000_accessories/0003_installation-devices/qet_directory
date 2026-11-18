@@ -1,0 +1,11 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Instalační zařízení</name>
+        <name lang="de">Installations-Geräte</name>
+        <name lang="en">Installation-devices</name>
+        <name lang="fr">Equipements d'installation</name>
+        <name lang="ko">설치 기기</name>
+        <name lang="pt_BR">Installation-Dispositivos</name>
+        <name lang="zh">0003_安装设备</name>
+    </names>
+</qet-directory>

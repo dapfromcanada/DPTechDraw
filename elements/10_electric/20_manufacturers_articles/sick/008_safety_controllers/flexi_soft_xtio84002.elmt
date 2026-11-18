@@ -1,0 +1,94 @@
+<definition version="0.100.0" type="element" link_type="simple" width="130" height="160" hotspot_x="65" hotspot_y="71">
+    <uuid uuid="{01aeaf57-2fb6-d3c3-99a4-b66548bce8c0}"/>
+    <names>
+        <name lang="ca">MÒDUL E/S FLEXI SOFT</name>
+        <name lang="cs">FX3-XTIO84002</name>
+        <name lang="en">MODULE I/O FLEXI SOFT</name>
+        <name lang="es">MODULE I/O FX3-XTIO84002</name>
+        <name lang="fr">MODULE I/O FLEXI SOFT</name>
+        <name lang="it">Module I/O FLEXI SOFT</name>
+        <name lang="nl">FX3-XTIO84002</name>
+        <name lang="pl">FX3-XTIO84002</name>
+        <name lang="pt_BR">modulo I/O FLEXI SOFT</name>
+        <name lang="zh">Flexi Soft XTIO84002</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="62.5" y="-61.95" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d4991fa3-3caa-4dbc-9df1-9afaa1aeabf2}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="5" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-15" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="X2" x="17" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-25" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="A2" x="37" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="A1" x="27" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-35" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="15" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Q3" x="27" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Q2" x="17" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="35" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Q1" x="7" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-35" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="CONTROL&#10;  OUTPUT" x="3" y="-48" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I8" x="-12" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="25" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Q4" x="37" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I2" x="-31" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X1" x="7" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I3" x="-21" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I4" x="-11" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="FLEX BUS +" x="-56" y="-14" rotation="90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I6" x="-32" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I7" x="-22" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-25" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LOAD  OUTPUT" x="5" y="65" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-15" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-57" y="-50" width="8" height="122" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="25" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="35" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-52.93" y1="81" x2="52.93" y2="81" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="15" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="49" y="-50" width="8" height="122" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="FLEX BUS +" x="56" y="30" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I5" x="-42" y="76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-45" y="58" width="90" height="23" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-52.93" y1="-63" x2="52.93" y2="-63" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="58" x2="0" y2="81" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="53" y1="-63" x2="53" y2="-51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-45" y="71" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="53" y1="72" x2="53" y2="81" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="INPUT" x="-31" y="65" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="FX3-XTIO84002" x="-33" y="35" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-53" y1="-50" x2="-53" y2="-63" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-53" y1="72" x2="-53" y2="81" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="I1" x="-41" y="-55" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-45" y="-63" width="90" height="23" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-63" x2="0" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-45" y="-63" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="INPUT" x="-32" y="-44" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="25" y1="-53" x2="25" y2="-41" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-53" x2="5" y2="-53" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-53" x2="0" y2="-53" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="SUPPLY" x="27" y="-45" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{566cb1d5-a0e0-40a8-9ba9-cea9e46ec220}" name="" x="-40" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{9ca7bd8d-f6c9-4cc7-89b9-9968ef76a51a}" name="" x="-30" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{d4e2f0fd-de18-4323-bc7a-a64d795d380d}" name="" x="-40" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{26510087-a02f-4825-bec8-fa8fabb64117}" name="" x="-30" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{abc3de56-8be0-494d-87a3-bed81d6acc09}" name="" x="-20" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{c196c7e3-56d7-4f0f-8a9f-7143eefe8d52}" name="" x="-10" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{cd18e56f-774f-4f21-8d83-e8f32dc0f1bd}" name="" x="10" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{779aaa3f-7cec-4888-b5f2-6859b0501ae8}" name="" x="20" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{85cfab14-d992-4ae6-a8fd-bb8c9b2579d9}" name="" x="30" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{0c24e64d-508b-46be-b3b2-f67e4abe5965}" name="" x="40" y="-63" orientation="n" type="Generic"/>
+        <terminal uuid="{7b86ce28-0069-42d3-ac7c-e4e3e6dbd5e3}" name="" x="-20" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{8a83aa65-8a6e-4eb4-b14f-3349d212eb63}" name="" x="-10" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{68b237d4-0e5f-46d8-9add-bbd60a492ed6}" name="" x="10" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{5433c0b1-5359-4156-96f0-bd79ed8cce78}" name="" x="20" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{80413af8-d6a7-45e1-833a-da08a6bd0af7}" name="" x="30" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{baf0e843-a450-414f-b62f-39da2a9aaec5}" name="" x="40" y="81" orientation="s" type="Generic"/>
+    </description>
+</definition>

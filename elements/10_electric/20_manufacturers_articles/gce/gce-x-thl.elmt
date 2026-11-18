@@ -1,0 +1,35 @@
+<definition version="0.100.0" type="element" link_type="simple" width="100" height="100" hotspot_x="45" hotspot_y="82">
+    <uuid uuid="{e3b54b0c-c86e-b3a5-f70a-836a5bb8ac65}"/>
+    <names>
+        <name lang="ca">GCE-X-THL</name>
+        <name lang="cs">GCE-X-THL</name>
+        <name lang="fr">GCE-X-THL</name>
+        <name lang="pt_BR">Sensor de temperatura, umidade e luminosidade GCE X-THL</name>
+        <name lang="zh">GCE X-THL 温湿度传感器</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="-" x="20" y="-57" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="-" x="20" y="-37" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="19" y="-23" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="20" y="-43" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="7" y="-61" width="10" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="7" y="-41" width="10" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="12 V" x="25" y="-47" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Bus" x="24" y="-28" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-20" y1="-70" x2="30" y2="-70" x3="30" y3="2.2" x4="-20" y4="2.2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-25" y1="-75" x2="-25" y2="-67.4" x3="-35" y3="-67.4" x4="-35" y4="8.6" x5="35" y5="8.6" x6="35" y6="1" x7="45" y7="1" x8="45" y8="-75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-40" y="-80" width="90" height="95" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-35" y="-75" width="5" height="5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="40" y="5" width="5" height="5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="GCE Electronics" x="29" y="1" rotation="270" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-19" y="-18" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{27f082bd-dae0-4461-a10e-de953df8db3a}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{daa3ccf0-530c-4dab-9a1b-97ad21724d48}" name="" x="17" y="-56" orientation="e" type="Generic"/>
+        <terminal uuid="{2302cd1a-c92e-4295-bbd7-b8df49073183}" name="" x="17" y="-47" orientation="e" type="Generic"/>
+        <terminal uuid="{0b8dd338-fdfe-46c7-956e-1dce699e90da}" name="" x="17" y="-36" orientation="e" type="Generic"/>
+        <terminal uuid="{0a0312d0-6482-4c50-8170-691e1373d5fa}" name="" x="17" y="-26" orientation="e" type="Generic"/>
+    </description>
+</definition>

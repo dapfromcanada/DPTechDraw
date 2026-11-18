@@ -1,0 +1,82 @@
+<definition version="0.90" type="element" link_type="simple" width="140" height="220" hotspot_x="70" hotspot_y="110">
+    <uuid uuid="{f4aa4ef2-192d-1c05-8bb5-41b4169bae7d}"/>
+    <names>
+        <name lang="ca">852-103</name>
+        <name lang="cs">852-103</name>
+        <name lang="de">852-103</name>
+        <name lang="en">852-103</name>
+        <name lang="fr">852-103</name>
+        <name lang="pt_BR">852-103</name>
+        <name lang="zh">WAGO 0852-0103 网络模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">8-port 10/100 + 2-port 100-FX Industrial Switch</elementInformation>
+        <elementInformation show="1" name="designation">852-103</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-60" y="-100" width="120" height="200" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="FX" x="-54" y="45" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="9" x="-54" y="39" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="FX" x="46" y="45" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="-52.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="10" x="46" y="39" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="49.25" y="-32" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="2" x="49.25" y="-52" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="7.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="ALM" x="-5" y="83" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="−" x="-23" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="48.63" y="8" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="-12.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="7.5" y="97.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="57.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="6" x="48.63" y="-12" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="100-FX Industrial Switch" x="-54" y="69" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="-52.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="−" x="37.09" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="17.57" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-12.5" y="97.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="RPS" x="23.47" y="-84" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-54.19" y="-32" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="-42.5" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="7.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="1" x="-54.19" y="-52" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="-54.81" y="8" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="-12.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-62.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="5" x="-54.81" y="-12" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="17.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-22.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-42.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="8-Port 10/100 + 2 Port" x="-50" y="58" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="10" y="-20" z="37" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{871560fd-4cf7-42b9-9103-672f2c6e6714}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="PWR" x="-36.6" y="-84" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="WAGO 852-103" x="-46" y="-64" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-10" y1="100" x2="-10" y2="90" x3="-6" y3="90" x4="6" y4="86" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="10" y1="100" x2="10" y2="90" x3="6" y3="90" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{938eb560-2df7-40f4-a059-bb6831e51302}" name="ETH3" x="-60" y="-30" orientation="w" type="Generic"/>
+        <terminal uuid="{5bff37ed-fcac-48be-86d4-11b33c997de0}" name="ALM.1" x="-10" y="100" orientation="s" type="Generic"/>
+        <terminal uuid="{42fdfe3a-35fd-4f0f-9eb6-7e081bf3499b}" name="ETH7" x="-60" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{52b73d75-2663-4976-aad4-0b2de50567bb}" name="RPS+" x="20" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{5b9aa1c4-3060-4108-91c1-a9cb61488f09}" name="PWR+" x="-40" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{daf847ed-5302-46b1-93a1-8614d3dd5041}" name="RPS-" x="40" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{3e5137d7-6b87-4d98-a4b8-9e092d238b17}" name="ETH2" x="60" y="-50" orientation="e" type="Generic"/>
+        <terminal uuid="{75256d1c-b9b0-45c7-993d-5f05fb0a97a3}" name="EZH6" x="60" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{989d6f47-9032-4480-901a-98ffa887ee94}" name="ETH4" x="60" y="-30" orientation="e" type="Generic"/>
+        <terminal uuid="{a097c7da-7de5-4819-85f3-693bd5869d88}" name="ETH8" x="60" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{cfd2335f-660b-4049-b782-96ac1b395d07}" name="PWR-" x="-20" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{3c327d28-5424-4cad-89fd-7fc39796b2b7}" name="ALM.2" x="10" y="100" orientation="s" type="Generic"/>
+        <terminal uuid="{1ac4a5e1-6d04-489b-a99d-0b466baa55dd}" name="ETH1" x="-60" y="-50" orientation="w" type="Generic"/>
+        <terminal uuid="{466ade29-5cbf-42c8-90b5-d6cd8222c82a}" name="EZH5" x="-60" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{a5dfc879-05f9-4954-9a45-789716da521d}" name="ETH9.FX" x="-60" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{eddd6c0d-4a42-4454-b5f5-b468a0e84c3c}" name="ETH10.FX" x="60" y="40" orientation="e" type="Generic"/>
+    </description>
+</definition>

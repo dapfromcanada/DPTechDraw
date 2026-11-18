@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Moduly rozhraní</name>
+        <name lang="de">Schnittstellenbaugruppen</name>
+        <name lang="el">Εξαρτήματα διασύνδεσης</name>
+        <name lang="en">Interface modules</name>
+        <name lang="es">Modulos de interface</name>
+        <name lang="fr">Modules d'interface</name>
+        <name lang="it">Moduli d'interfaccia</name>
+        <name lang="ko">인터페이스 모듈</name>
+        <name lang="nl">Interface modules</name>
+        <name lang="nl_BE">Interface modules</name>
+        <name lang="pl">Moduły interfejsu</name>
+        <name lang="pt">Módulos de interface</name>
+        <name lang="pt_BR">Módulos de interface (IM) SIMATIC S7</name>
+        <name lang="zh">接口模块</name>
+    </names>
+</qet-directory>

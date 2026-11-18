@@ -1,0 +1,72 @@
+<definition version="0.100.0" type="element" link_type="simple" width="230" height="80" hotspot_x="115" hotspot_y="45">
+    <uuid uuid="{f1ee99a1-b4ed-c9dd-74d7-e70090ab722c}"/>
+    <names>
+        <name lang="ca">Vàlvula reductora de pressió proporcional amb OBE</name>
+        <name lang="cs">Proporcionální redukční ventil s OBE</name>
+        <name lang="en">Proportional pressure reducing valve with OBE</name>
+        <name lang="es">Válvula proporcional reductora de presión con OBE</name>
+        <name lang="pt_BR">Valvula redutora de pressao proporcional com OBE Bosch Rexroth</name>
+        <name lang="zh">带OBE的比例减压阀</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="57.92" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="27.88" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-31.73" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-8.13" y="-0.53" width="28" height="16" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-96" y="-28" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{01fc68d1-6c14-69b8-b21a-ef197302397c}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>A</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-66" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{9e21a29d-566f-9162-62e5-4a61e22e0c3b}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>B</text>
+        </dynamic_text>
+        <dynamic_text x="-35.73" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{0a5e7757-a481-445e-ad23-0b861645ae4e}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>C</text>
+        </dynamic_text>
+        <dynamic_text x="23.88" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{c967ec74-46da-793b-4cfb-e4437b32390e}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>E</text>
+        </dynamic_text>
+        <dynamic_text x="-6.13" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{c176743e-cedb-7fb6-8223-0d2e23744def}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>D</text>
+        </dynamic_text>
+        <dynamic_text x="53.92" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{d26d742a-d5bf-747f-1c53-a09822e3d89f}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>F</text>
+        </dynamic_text>
+        <line x1="5.87" y1="-8.53" x2="5.87" y2="-0.53" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-2.13" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="5.87" y1="15.47" x2="5.87" y2="23.47" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="83" y="-28" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{009beb47-83cc-bc95-9b01-8ef530d7b57a}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>PE</text>
+        </dynamic_text>
+        <dynamic_text x="-122" y="-41" z="14" text_width="-1" Halignment="AlignRight" Valignment="AlignVCenter" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{1407423e-0887-be39-805f-57f8b314e923}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-103" y="-20" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{2f64b498-ceff-e242-0439-e14a7748b344}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>24 VDC</text>
+        </dynamic_text>
+        <dynamic_text x="-70" y="-20" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{0f0747f8-cb7e-7711-fdc6-039fb7e4518b}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>GND</text>
+        </dynamic_text>
+        <dynamic_text x="-13.13" y="-20" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{87ecbbb1-fd05-acfa-e3c7-108b87ef526a}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>4-20mA</text>
+        </dynamic_text>
+        <dynamic_text x="19.88" y="-20" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{a60a583f-f121-714e-baaf-1c000bc0886c}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>GND</text>
+        </dynamic_text>
+        <polygon x1="27" y1="0" x2="37" y2="0" x3="27" y3="15" x4="37" y4="15" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="20.87" y1="7.47" x2="31.87" y2="7.47" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-110" y="-40" width="220" height="70" rx="0" ry="0" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-92" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="88" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-62" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{efd7f1f5-b830-46da-ab69-5179565615ed}" name="" x="-90" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{1252b4bf-2ccb-46e3-8846-769b8c81c6f5}" name="" x="-60" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{a8306a31-79b4-404b-9253-916d608de69d}" name="" x="0" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{7e5d44e2-60c9-4b18-bd7d-983f9d0dc746}" name="" x="90" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{d882aeb2-6ba5-44c4-8b42-c915412f4181}" name="" x="60" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{84b0eb79-c2a0-4306-ba6d-510b7b942ae0}" name="" x="30" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{08690df1-4264-4a22-bfd6-2b179be36c06}" name="" x="-30" y="-35" orientation="n" type="Generic"/>
+    </description>
+</definition>

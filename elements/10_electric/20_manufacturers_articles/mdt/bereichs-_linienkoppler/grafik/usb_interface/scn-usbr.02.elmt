@@ -1,0 +1,61 @@
+<definition version="0.80" type="element" link_type="simple" width="100" height="210" hotspot_x="14" hotspot_y="203">
+    <uuid uuid="{949609ae-b274-7962-db73-0b6dcb493e2f}"/>
+    <names>
+        <name lang="ca">SCN-USBR.02</name>
+        <name lang="de">SCN-USBR.02</name>
+        <name lang="en">SCN-USBR.02</name>
+        <name lang="pt_BR">Interface de programação USB KNX MDT SCN-USBR.02</name>
+        <name lang="zh">USB接口02元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">USB Interface</elementInformation>
+        <elementInformation show="1" name="designation">SCN-USBR.02</elementInformation>
+        <elementInformation show="1" name="label">-XX</elementInformation>
+        <elementInformation show="1" name="manufacturer">MDT</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations>Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB</informations>
+    <description>
+        <rect x="0" y="-200" width="80" height="200" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <text text="CE" x="60" y="-57" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="KNX" x="55" y="-103" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="MDT" x="52" y="-91" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="www.MDT.de" x="53" y="-88" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="0" y="-50" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="-170" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="18" y="-132" width="45" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:yellow;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="SCN-USBR.02" x="19" y="-142" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="USB Interface" x="19" y="-135" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <arc x="56" y="-111" width="11" height="5" start="2" angle="178" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <rect x="7" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="17" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" antialias="false"/>
+        <rect x="25" y="-14" width="3" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <ellipse x="18" y="-102" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <ellipse x="18" y="-111" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <text text="KNX" x="8" y="-98" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="USB" x="8" y="-107" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <dynamic_text x="23" y="-136" z="19" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" rotation="0" text_from="UserText" uuid="{60bee164-d6ab-4c7f-9bb9-9b662558c325}" font="Liberation Sans,8,-1,5,0,0,0,0,0,0,Regular">
+            <text>1.1.2</text>
+            <info_name>plant</info_name>
+            <color>#00008b</color>
+        </dynamic_text>
+        <dynamic_text x="0" y="-172" z="20" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="CompositeText" uuid="{4a09f995-3be6-471f-9a1c-8daa331b05bb}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>-XX</text>
+            <info_name>plant</info_name>
+            <composite_text>%{plant}%{label}</composite_text>
+        </dynamic_text>
+        <rect x="7" y="-91" width="27" height="26" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray" antialias="false"/>
+        <rect x="11.6" y="-86.55" width="18" height="17.25" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:none" antialias="false"/>
+        <rect x="17.6" y="-81.95" width="6" height="8.05" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <line x1="16.4" y1="-76.2" x2="17.6" y2="-76.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:yellow" antialias="false"/>
+        <line x1="16.4" y1="-79.65" x2="17.6" y2="-79.65" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:yellow" antialias="false"/>
+        <line x1="23.6" y1="-76.2" x2="24.8" y2="-76.2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:yellow" antialias="false"/>
+        <line x1="23.6" y1="-79.65" x2="24.8" y2="-79.65" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:yellow" antialias="false"/>
+        <ellipse x="26" y="-90" width="7.2" height="6.9" style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray" antialias="false"/>
+        <ellipse x="26" y="-72.75" width="7.2" height="6.9" style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray" antialias="false"/>
+        <terminal uuid="{ec0e5198-2396-4a96-82e7-8fc93f0c699c}" name="KNX_NL +" x="22" y="-2" orientation="s" type="Generic"/>
+        <terminal uuid="{c0345af5-29b1-43c8-bbd0-c1288d2a1011}" name="KNX_NL -" x="12" y="-2" orientation="s" type="Generic"/>
+    </description>
+</definition>

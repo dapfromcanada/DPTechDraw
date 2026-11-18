@@ -1,0 +1,53 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="80" hotspot_x="45" hotspot_y="53">
+    <uuid uuid="{fa3ca124-cab3-e429-9258-8b12cc05bdba}"/>
+    <names>
+        <name lang="ca">Fibaro DIMMER 2 FGD-212</name>
+        <name lang="en">Fibaro DIMMER 2 FGD-212</name>
+        <name lang="nl">Fibaro DIMMER 2 FGD-212</name>
+        <name lang="pt_BR">Módulo dimmer inteligente Z-Wave Fibaro Dimmer 2 (FGD-212)</name>
+        <name lang="zh">调光器2 FGD-212</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment">230V Dimmer</elementInformation>
+        <elementInformation show="1" name="description">zwave dimmer</elementInformation>
+        <elementInformation show="1" name="designation">FGD-212</elementInformation>
+        <elementInformation show="1" name="label">Dimmer 2</elementInformation>
+        <elementInformation show="1" name="manufacturer">Fibaro</elementInformation>
+        <elementInformation show="1" name="plant">230V / Z-Wave</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="S2" x="-8" y="-26" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Sx" x="2" y="-26" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S1" x="-18" y="-26" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="∿" x="22" y="-26" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="↗" x="23" y="-27" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-30" y="-42" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="N" x="13" y="-26" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-20" y="-42" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="-42" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="-42" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="-42" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="20" y="-42" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-18" y="-40" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-8" y="-40" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="2" y="-40" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="12" y="-40" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="22" y="-40" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-28" y="-40" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-30" y1="-42" x2="-35" y2="-42" x3="-40" y3="-32" x4="-40" y4="0" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="30" y1="-42" x2="35" y2="-42" x3="40" y3="-32" x4="40" y4="0" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="-40" y="-20" width="80" height="40" start="180" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-40" y="-20" width="80" height="40" start="270" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-30" y="-5" width="7" height="7" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L" x="-26" y="-19" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DIMMER 2" x="-19" y="-6" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-28.5" y="-3.7" width="4" height="4" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <terminal uuid="{a53870fe-2d49-4b7a-b3a1-b75e72598f83}" name="" x="25" y="-42" orientation="n" type="Generic"/>
+        <terminal uuid="{776679b1-5477-4200-8ef0-04b9d31f3ba3}" name="" x="-15" y="-42" orientation="n" type="Generic"/>
+        <terminal uuid="{8ba8a1e6-a4b3-4d93-a9c8-80dba539bba7}" name="" x="-5" y="-42" orientation="n" type="Generic"/>
+        <terminal uuid="{29f72471-5e5b-46cb-9789-03a9ad5ac281}" name="" x="-25" y="-42" orientation="n" type="Generic"/>
+        <terminal uuid="{a51da4bb-13d1-495c-bd48-da61661387cf}" name="" x="15" y="-42" orientation="n" type="Generic"/>
+        <terminal uuid="{1f30c6ae-351b-42ea-b6b6-9d28e868650c}" name="" x="5" y="-42" orientation="n" type="Generic"/>
+    </description>
+</definition>

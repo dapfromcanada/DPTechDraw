@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="ar">بادئات حركة تدريجية</name>
+        <name lang="cs">Softstartéry</name>
+        <name lang="de">Sanftanläufe</name>
+        <name lang="el">Ελεγκτές ομαλής εκκίνησης</name>
+        <name lang="en">Soft start motor controllers</name>
+        <name lang="es">Arrancadores progresivos</name>
+        <name lang="fr">Demarreurs progressifs</name>
+        <name lang="it">Avviatore Soft-Start</name>
+        <name lang="ko">소프트 스타터</name>
+        <name lang="nl">Motor starters</name>
+        <name lang="pl">Urządzenia łagodnego rozruchu</name>
+        <name lang="pt_BR">Controladores de partida suave de motor</name>
+        <name lang="ru">Устройства плавного пуска</name>
+        <name lang="zh">30_软启动器</name>
+    </names>
+</qet-directory>

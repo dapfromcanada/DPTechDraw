@@ -1,0 +1,26 @@
+<definition version="0.100.0" type="element" link_type="simple" width="120" height="80" hotspot_x="97" hotspot_y="35">
+    <uuid uuid="{8fcd1bf6-e043-ab06-975d-59052be80f55}"/>
+    <names>
+        <name lang="ca">Vaillant VRC DCF Aussenfühler</name>
+        <name lang="cs">Vaillant VRC DCF Vnější senzor</name>
+        <name lang="de">Vaillant VRC DCF Aussenfühler</name>
+        <name lang="fr">Vaillant VRC DCF Aussenfühler</name>
+        <name lang="pt_BR">Vaillant VRC DCF Aussenfühler</name>
+        <name lang="zh">威能VRC DCF模块</name>
+    </names>
+    <informations>Manfred Rieser
+Lizenz: free</informations>
+    <description>
+        <rect x="-90" y="-30" width="110" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-125" y="-9" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{4a114693-1bd7-478e-8d9b-5d797e8c0331}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>_</text>
+        </dynamic_text>
+        <text text="AF" x="-48" y="24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DCF&#10;" x="-32" y="24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0&#10;" x="-4" y="24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Vaillant VCR DCF" x="-86" y="-13" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{4870346f-e214-478d-81ce-88f52fd2eb9e}" name="" x="0" y="35" orientation="s" type="Generic"/>
+        <terminal uuid="{d04081e0-5c10-4bf7-aadd-ce538ef6b7f4}" name="" x="-40" y="35" orientation="s" type="Generic"/>
+        <terminal uuid="{c9accd42-0bff-49f3-871d-189e30a1b905}" name="" x="-20" y="35" orientation="s" type="Generic"/>
+    </description>
+</definition>

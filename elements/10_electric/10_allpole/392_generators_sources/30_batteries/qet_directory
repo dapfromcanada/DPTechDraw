@@ -1,0 +1,17 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Baterie</name>
+        <name lang="de">Batterien</name>
+        <name lang="el">Μπαταρίες</name>
+        <name lang="en">Batteries</name>
+        <name lang="es">Baterias</name>
+        <name lang="fr">Piles</name>
+        <name lang="it">Batterie</name>
+        <name lang="ko">배터리</name>
+        <name lang="nl">Batterijen</name>
+        <name lang="pl">Ogniwa i baterie</name>
+        <name lang="pt_BR">Baterias</name>
+        <name lang="ru">Батареи</name>
+        <name lang="zh">电池</name>
+    </names>
+</qet-directory>

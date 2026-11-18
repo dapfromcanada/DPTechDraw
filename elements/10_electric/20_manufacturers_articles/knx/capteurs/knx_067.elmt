@@ -1,0 +1,39 @@
+<definition version="0.100.0" type="element" link_type="simple" width="50" height="50" hotspot_x="20" hotspot_y="25">
+    <uuid uuid="{4e29d9e8-44e8-5140-052f-43835c51a7c1}"/>
+    <names>
+        <name lang="ca">Entrada binària, única</name>
+        <name lang="cs">Digitální vstup</name>
+        <name lang="el">Ψηφιακή είσοδος, μονή</name>
+        <name lang="en">Binary Input, single</name>
+        <name lang="es">Entrada digital, 1 via</name>
+        <name lang="fr">Entrée binaire</name>
+        <name lang="it">Ingresso digitale, 1 can</name>
+        <name lang="nl">Digitaal Ingang, enkel</name>
+        <name lang="pl">Wejście cyfrowe</name>
+        <name lang="pt_BR">Binary Entrada simples</name>
+        <name lang="zh">KNX 传感器 067</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-10" y="-15" width="30" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="9" y="-1" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{9de19dc4-4f02-4f45-be01-c6e2f9adc71e}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>1</text>
+        </dynamic_text>
+        <polygon x1="-4" y1="0" x2="3" y2="0" x3="3" y3="-12" x4="10" y4="-12" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="-14" y="-40.5" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{6f5f394e-16ab-46d3-9834-cf8a808850b4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{d1b68072-0be4-40fe-a045-cac5e82e1f49}" name="" x="20" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{eca5e2f8-bc07-4ab7-a1c3-e97ccb205427}" name="" x="20" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{ce09690c-e467-4583-9f05-cfacf74a7997}" name="" x="0" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{9cfeedcb-cde8-467c-9c38-2a247787d962}" name="" x="10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{0f2534d0-c177-4842-ba29-262b5fde3517}" name="" x="0" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{5a55af06-04ee-4da6-8b09-2521217b8163}" name="" x="10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{6d86ba9c-4ea7-4ed1-a6e2-e33778820497}" name="" x="-10" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{ec1aa7d6-65be-44af-8731-e2f843df721e}" name="" x="-10" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{5897bed2-a45b-47e7-bd0f-704afe8c59e4}" name="" x="-10" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{2a255dc5-97da-4fa1-a747-b002e453a67c}" name="" x="20" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

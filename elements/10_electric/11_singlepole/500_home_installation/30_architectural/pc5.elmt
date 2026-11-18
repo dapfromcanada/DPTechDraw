@@ -1,0 +1,28 @@
+<definition version="0.100.0" type="element" link_type="simple" width="30" height="30" hotspot_x="15" hotspot_y="27">
+    <uuid uuid="{5acb00e0-6f41-d417-7235-b6c25abaa267}"/>
+    <names>
+        <name lang="ar">قاعدة مقبس تيّار (قدرة) بمفتاح أحادي القطب</name>
+        <name lang="ca">Presa de corrent (alimentació) interruptor unipolar amb</name>
+        <name lang="cs">Zásuvka s vypínačem</name>
+        <name lang="de">Steckdose schaltbar</name>
+        <name lang="el">Πρίζα και διακόπτης</name>
+        <name lang="en">Socket outlet (power) single-pole switch with</name>
+        <name lang="fr">Socle de prise de courant (puissance) avec interrupteur unipolaire</name>
+        <name lang="it">Presa con interruttore unipolare</name>
+        <name lang="nl">wandcontactdoos, schakelend</name>
+        <name lang="pl">Gniazdo pojedyncze z łącznikiem</name>
+        <name lang="pt_BR">Tomada de potencia com interruptor unipolar</name>
+        <name lang="zh">电源插座5</name>
+    </names>
+    <informations>EN 60617: 11-13-06</informations>
+    <description>
+        <polygon x1="0" y1="-10" x2="8" y2="-18" x3="10" y3="-16" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="12" y="-28.95" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{7d08d4cf-4fdc-485a-a8ab-212e8ec70aaf}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc x="-10" y="-10" width="20" height="20" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="0" y1="-10" x2="0" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{084311b4-6e23-4ec4-b24f-cea77d14eabf}" name="" x="0" y="-20" orientation="n" type="Generic"/>
+    </description>
+</definition>

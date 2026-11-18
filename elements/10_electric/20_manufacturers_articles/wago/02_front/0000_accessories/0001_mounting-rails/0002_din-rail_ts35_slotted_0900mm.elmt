@@ -1,0 +1,51 @@
+<definition version="0.90" type="element" link_type="thumbnail" width="1820" height="80" hotspot_x="913" hotspot_y="40">
+    <uuid uuid="{7659b7ff-d841-ae33-0ebe-2101f001d24c}"/>
+    <names>
+        <name lang="ca">Carril DIN TS35 ranurat, 900 mm</name>
+        <name lang="cs">DIN-Rail TS35 slotted, 900 mm</name>
+        <name lang="de">Tragschiene TS35 900 mm (gelocht)</name>
+        <name lang="en">DIN-Rail TS35 slotted, 900 mm</name>
+        <name lang="fr">DIN-Rail TS35 slotted, 900 mm</name>
+        <name lang="pt_BR">Trilho DIN TS35 perfurado, 900 mm</name>
+        <name lang="zh">0002_TS35开槽导轨_0900mm</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">DIN-Rail TS35 slotted, 900 mm</elementInformation>
+        <elementInformation show="1" name="designation">210-504</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-900" y="-35" width="1800" height="70" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="-900" y="-25" width="1800" height="50" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="-900" y1="0" x2="900" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-745" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-673" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-601" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-529" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-457" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-385" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-313" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-241" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-169" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-889" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-817" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-745" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-97" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-25" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="47" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="119" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="191" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="263" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="335" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="407" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="479" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="551" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="623" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="695" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="767" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="839" y="-5" width="50" height="10" rx="5" ry="5" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text="TS35 - 900mm" x="-898" y="23" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#888a85"/>
+    </description>
+</definition>

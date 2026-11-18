@@ -1,0 +1,23 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="80" height="50" hotspot_x="2" hotspot_y="6">
+    <uuid uuid="{4296530b-e4fe-b3e5-65b5-34c3315dd663}"/>
+    <names>
+        <name lang="ca">Tlumivka 9803861</name>
+        <name lang="cs">Tlumivka 9803861</name>
+        <name lang="pt_BR">Tlumivka 9803861</name>
+        <name lang="zh">扼流圈2mH</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="0" y="0" width="75" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="12" y="0" width="51" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="4" y="4" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="4" y="21" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="67" y="4" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="67" y="21" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="20" y="30" width="33" height="8" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="28" y="1.5" z="8" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1817a06c-9fa0-4f08-8288-0af2b1f73c23}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,15 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Způsob řízení</name>
+        <name lang="de">Betätigung</name>
+        <name lang="en">Actuation</name>
+        <name lang="es">Tipo de comando</name>
+        <name lang="fr">Mode de commande</name>
+        <name lang="it">Tipo di comando</name>
+        <name lang="ko">구동 방식</name>
+        <name lang="nl">Bedienings elementen</name>
+        <name lang="pl">Sterowanie</name>
+        <name lang="pt_BR">Acionamento</name>
+        <name lang="zh">11_驱动</name>
+    </names>
+</qet-directory>

@@ -1,0 +1,45 @@
+<definition version="0.90" type="element" link_type="simple" width="30" height="50" hotspot_x="15" hotspot_y="20">
+    <uuid uuid="{9fd8cf87-7310-f174-25a7-503054599042}"/>
+    <names>
+        <name lang="ar">هوائي</name>
+        <name lang="ca">antena</name>
+        <name lang="cs">anténa</name>
+        <name lang="da">antenne</name>
+        <name lang="de">antenne</name>
+        <name lang="el">κεραία</name>
+        <name lang="en">antenna</name>
+        <name lang="es">antena</name>
+        <name lang="fr">antenne</name>
+        <name lang="hr">antena</name>
+        <name lang="hu">antenna</name>
+        <name lang="it">antenna</name>
+        <name lang="ja">アンテナ</name>
+        <name lang="mn">антенн</name>
+        <name lang="nb">antenne</name>
+        <name lang="nl">antenne</name>
+        <name lang="pl">antena</name>
+        <name lang="pt">antena</name>
+        <name lang="pt_BR">Antena omnidirecional Wi-Fi/GSM Ewon (Conexão inferior / Suporte L)</name>
+        <name lang="ro">antenă</name>
+        <name lang="ru">антенна</name>
+        <name lang="sl">anteno</name>
+        <name lang="sr">антена</name>
+        <name lang="tr">anten</name>
+        <name lang="zh">天线_11</name>
+    </names>
+    <informations>Baboune41</informations>
+    <description>
+        <dynamic_text x="-11" y="-38" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{98559de6-2876-4d41-9b76-2d1389415264}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="-6" y="-2" width="12" height="4" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-10.08" x2="-6" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-5" y="-12" width="10" height="4" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="3" x2="0" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <line x1="5" y1="-10.16" x2="6" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="10" y1="3" x2="-10" y2="3" x3="-10" y3="23" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <arc x="-5" y="-14" width="10" height="8" start="358" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{1c76ed62-39d8-497d-ad03-da538d3a6ec6}" name="" x="0" y="10" orientation="s" type="Generic"/>
+    </description>
+</definition>

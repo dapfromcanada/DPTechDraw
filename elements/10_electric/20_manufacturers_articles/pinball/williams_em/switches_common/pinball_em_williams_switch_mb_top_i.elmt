@@ -1,0 +1,23 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="40" hotspot_x="30" hotspot_y="10">
+    <uuid uuid="{e3a723b3-c876-8b4a-31a0-dbb4716b180d}"/>
+    <names>
+        <name lang="ca">Interruptor (M.B) - Entrada superior - Invertit</name>
+        <name lang="en">Switch (M.B) - Top input - Inverted</name>
+        <name lang="nl">Schakelaar (M.B.) - Input boven - Omgekeerd</name>
+        <name lang="pt_BR">Interruptor (M.B) - Superior Entrada - Invertido</name>
+        <name lang="zh">弹球电磁威廉姆斯开关上置常闭</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-5" y="-5.25" width="3" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="2" y="12.75" width="3" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="2" y="-5.25" width="3" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="5" y1="19.75" x2="20" y2="19.75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="-0.25" x2="-5" y2="-0.25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="5" y1="-0.25" x2="20" y2="-0.25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="-5" x2="-10" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{babb9e63-f0aa-4840-a912-eee25efba213}" name="" x="20" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{ae5f024a-3830-4914-9c27-06708777395e}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{6db0734e-568a-430e-bb7e-0b55858f5186}" name="" x="20" y="20" orientation="e" type="Generic"/>
+    </description>
+</definition>

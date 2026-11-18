@@ -1,0 +1,112 @@
+<definition version="0.100.0" type="element" link_type="simple" width="740" height="110" hotspot_x="370" hotspot_y="51">
+    <uuid uuid="{835fe024-0494-65ad-bd35-37a965246aa8}"/>
+    <names>
+        <name lang="ca">750-1416</name>
+        <name lang="cs">750-1416</name>
+        <name lang="de">750-1416</name>
+        <name lang="en">750-1416</name>
+        <name lang="fr">750-1416</name>
+        <name lang="pt_BR">750-1416</name>
+        <name lang="zh">WAGO 750-1416 数字量输入模块 4通道 DC 24V 3线制 低电平有效</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">8DI, DC 24V, 0.2ms</elementInformation>
+        <elementInformation show="1" name="designation">750-1416</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <text text="WAGO 750-1416" x="-339" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8-Channel DI, DC 24V, 0.2ms" x="-130" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="207.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="24V" x="-355" y="-12" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-190" y1="-40" x2="-190" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="-30" y1="-40" x2="-30" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="290" y1="-40" x2="290" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="130" y1="-40" x2="130" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="87.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line x1="50" y1="-40" x2="50" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="-110" y1="-40" x2="-110" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="-360" y1="10" x2="360" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="210" y1="-40" x2="210" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="247.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="0V" x="-355" y="8" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-112.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="47.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="287.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-232.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="7.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="167.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-72.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="127.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-272.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-32.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-312.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-152.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-192.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="DI6" x="91" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="212" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="230" y="29.5" z="31" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{349e3610-cb8b-4f43-92b8-8b4dd0f9f769}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="24V" x="51" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI8" x="251" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI5" x="11" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="291" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="131" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI7" x="172" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI2" x="-229" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-108" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-269" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI4" x="-69" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI1" x="-309" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-29" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-360" y1="-10" x2="360" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="1" x="-306" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="9" x="-266" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-226" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="10" x="-186" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-146" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="11" x="-106" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-66" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="12" x="-26" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="14" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="13" x="54" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="94" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="14" x="134" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="174" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="15" x="214" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="254" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="16" x="294" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-189" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI3" x="-148" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-270" y1="-40" x2="-270" y2="-8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <polygon x1="-362" y1="-10" x2="-356" y2="-10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="-12.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="-362" y1="10" x2="-356" y2="10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="7.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{64774c42-072f-3d34-fe23-e4a31a789169}" name="Pow.L.In" x="-360" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{19ed9880-16d3-cdaa-7333-9f69bdc5b465}" name="Pow.L.Out" x="360" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{2e0771d8-5d27-df1d-ac76-bd9e2434121c}" name="Pow.N.In" x="-360" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{ad58905f-a4e3-e431-722a-96f4918fe42f}" name="Pow.N.Out" x="360" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{c98c3ea8-b2ac-b9e6-7eac-b208e004cda5}" name="1" x="-310" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{39777f81-b655-19f1-cb44-d551b8f18644}" name="9" x="-270" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{0d618271-440a-a698-2089-02121a11ac45}" name="2" x="-230" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{81e43e35-b1a6-b6c9-ce89-d08f7b885d8f}" name="10" x="-190" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{2e8c09f1-4e92-5710-9a54-64074b516ab5}" name="3" x="-150" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{856e986e-0a7a-5e76-dbea-da13b2c29ded}" name="11" x="-110" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{cac97ea2-4cf1-a423-f752-9c85be2e73e4}" name="4" x="-70" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{7297795a-0dc3-ed51-012f-97c7c9b21079}" name="12" x="-30" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{c004c865-70d3-838f-b686-0b2f94c37ec8}" name="5" x="10" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{1ea551e7-876e-2a03-3992-b689fe37ca7c}" name="13" x="50" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{fac20e7d-d272-b914-f74e-030e40014f20}" name="6" x="90" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{9216597e-19f1-1f2a-8660-61839cd34b52}" name="14" x="130" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{42aa1907-bd59-812d-c7a0-e59f76fbcb5a}" name="7" x="170" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{3210805e-9de1-4783-337b-e0af1a787412}" name="15" x="210" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{aa675f8c-b5c7-3f40-e6e4-dac0b385cfb0}" name="8" x="250" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{19560cfe-957b-ca7c-2d8b-0492ee12201f}" name="16" x="290" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

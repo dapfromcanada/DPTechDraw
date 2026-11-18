@@ -1,0 +1,20 @@
+<qet-directory>
+    <names>
+        <name lang="ar">قدرة</name>
+        <name lang="cs">Silové kontakty</name>
+        <name lang="da">Hoved kontaktor</name>
+        <name lang="de">Leistung</name>
+        <name lang="el">Ισχύος</name>
+        <name lang="en">Power</name>
+        <name lang="es">Potencia</name>
+        <name lang="fr">Puissance</name>
+        <name lang="it">Potenza</name>
+        <name lang="ko">전력 접점</name>
+        <name lang="nl">Last contacten</name>
+        <name lang="pl">Styczniki</name>
+        <name lang="pt">Potência</name>
+        <name lang="pt_BR">Potencia</name>
+        <name lang="ru">Силовые</name>
+        <name lang="zh">功率触点</name>
+    </names>
+</qet-directory>

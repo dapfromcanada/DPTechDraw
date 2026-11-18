@@ -1,0 +1,17 @@
+<qet-directory>
+    <names>
+        <name lang="ar">شاشة</name>
+        <name lang="cs">Obrazovka</name>
+        <name lang="de">Bildschirme</name>
+        <name lang="en">Screen</name>
+        <name lang="es">Pantalla</name>
+        <name lang="fr">Ecran</name>
+        <name lang="it">Schermo</name>
+        <name lang="ko">스크린</name>
+        <name lang="nl">Scherm</name>
+        <name lang="nl_BE">Scherm</name>
+        <name lang="pl">Panele operatorskie</name>
+        <name lang="pt_BR">Malha de blindagem contra interferência (EMC/RFI)</name>
+        <name lang="zh">屏幕</name>
+    </names>
+</qet-directory>

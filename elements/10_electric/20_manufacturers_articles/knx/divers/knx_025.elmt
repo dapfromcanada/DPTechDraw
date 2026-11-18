@@ -1,0 +1,52 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="50" hotspot_x="30" hotspot_y="25">
+    <uuid uuid="{80e194f4-07a3-e36a-8bb2-d04d27711e94}"/>
+    <names>
+        <name lang="ca">PLC</name>
+        <name lang="cs">Rozhraní KNX / PLC</name>
+        <name lang="el">Διεπαφή KNX / PLC</name>
+        <name lang="en">PLC</name>
+        <name lang="es">PLC</name>
+        <name lang="fr">PLC</name>
+        <name lang="it">interf. PLC</name>
+        <name lang="nl">Interface PLC</name>
+        <name lang="pl">Interfejs KNX / PLC</name>
+        <name lang="pt_BR">PLC</name>
+        <name lang="zh">KNX 025 元件</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-10" y="-15" width="30" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="20" y="-15" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-1" y="0" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{9db0d83f-c35b-45dd-a99d-d8322ce28746}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>SPS</text>
+        </dynamic_text>
+        <polygon x1="24" y1="-11" x2="24" y2="11" x3="25" y3="12" x4="26" y4="11" x5="26" y5="-11" x6="25" y6="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-20" y="-15" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="22" y1="-9" x2="25" y2="-12" x3="28" y3="-9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="22" y1="9" x2="25" y2="12" x3="28" y3="9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-16" y1="-11" x2="-16" y2="11" x3="-15" y3="12" x4="-14" y4="11" x5="-14" y5="-11" x6="-15" y6="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-18" y1="-9" x2="-15" y2="-12" x3="-12" y3="-9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-18" y1="9" x2="-15" y2="12" x3="-12" y3="9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-10" y1="15" x2="20" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="EIB" x="-6" y="-6" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-24" y="-38.5" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c3285186-85ea-4410-8026-fe62891c198d}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{c4407873-8e8b-4f72-b69f-588fc6e07609}" name="" x="-10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{12e61ee4-7aae-465f-a22c-3f66b857f281}" name="" x="0" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{e0f4fc46-59b5-45e3-97c3-3c9aeb917360}" name="" x="10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{65a4046f-107f-4be4-8326-5f2e80b3cea5}" name="" x="-10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{5a4a0b8e-9fed-44ef-bf44-c62a1fec2d4f}" name="" x="0" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{fcc42b84-f6f3-475a-a040-3641016b3b6e}" name="" x="10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{1313eddf-145c-4aed-9420-6c765ed0ca68}" name="" x="20" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{876da2c4-5432-426f-8f63-c85fad34d42d}" name="" x="20" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{4727bb62-11f5-418c-971b-cda8ac83b15c}" name="" x="-20" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{97b66ee4-a2fb-4781-82b4-c32d5970118f}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{3981970b-2ae2-4048-b5d6-782dee5d054b}" name="" x="-20" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{d0e993a3-62e0-4e46-bb36-ab7a9b82f9e4}" name="" x="30" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{6eeab9e6-9aa8-4c64-826b-d9a5588f68e0}" name="" x="30" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{27c1559b-6e48-4dac-843c-cc5bece152b3}" name="" x="30" y="-10" orientation="e" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,73 @@
+<definition version="0.80" type="element" link_type="simple" width="740" height="110" hotspot_x="370" hotspot_y="51">
+    <uuid uuid="{ec0028ff-9b59-ac0e-b464-7c1adc4ec538}"/>
+    <names>
+        <name lang="ca">750-1405/040-000 (II)</name>
+        <name lang="cs">750-1405/040-000 (II)</name>
+        <name lang="de">750-1405/040-000 (II)</name>
+        <name lang="en">750-1405/040-000 (II)</name>
+        <name lang="fr">750-1405/040-000 (II)</name>
+        <name lang="pt_BR">750-1405/040-000 (II)</name>
+        <name lang="zh">WAGO 0750-1405-0040-0000 数字输入模块 II</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">16DI DC 24V 3ms XTR</elementInformation>
+        <elementInformation show="1" name="designation">750-1405/040-000</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <text text="WAGO 750-1405/040-000 (II)" x="-339" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="16-Channel DI, DC 24 V, 3ms" x="-130" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-360" y1="-40" x2="360" y2="-40" x3="360" y3="50" x4="-360" y4="50" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="24V" x="-355" y="-12" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-360" y1="10" x2="360" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="0V" x="-355" y="8" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="117.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-122.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="197.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-202.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line x1="-360" y1="-40" x2="-360" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashdotted;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="277.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-282.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-42.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <dynamic_text x="230" y="29.5" z="14" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{efcdc7c1-a32f-410d-9208-b85a390ba413}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-360" y1="-10" x2="360" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="11" x="-116" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI11" x="-119" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI14" x="122" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="14" x="125" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="10" x="-196" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI10" x="-199" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI15" x="201" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="15" x="206" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="9" x="-276" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI9" x="-279" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI16" x="281" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="16" x="286" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="12" x="-36" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI12" x="-39" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DI13" x="42" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="13" x="46" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-362" y1="-10" x2="-356" y2="-10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="-12.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="-362" y1="10" x2="-356" y2="10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="7.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{917d5092-dc2a-2cfc-4c86-7a762336e03a}" name="Pow.L.In" x="-360" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{717e0bd7-8550-3a4c-91e8-4329ce3a0e83}" name="Pow.N.In" x="-360" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{e5f8032f-8485-8128-fc91-8e94d99b1473}" name="Pow.L.Out" x="360" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{4c9c6959-d141-369e-149e-d7e5a258fb6a}" name="Pow.N.Out" x="360" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{5edce65a-a167-a72e-8ee1-43c5e684078c}" name="9" x="-280" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{a1e85bdb-df9a-d011-86ba-2ed79f3b903e}" name="10" x="-200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{c1f7ded2-bc14-7135-00cc-8455134518aa}" name="11" x="-120" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{23f42fed-5f12-df5a-8505-0254288b2da4}" name="12" x="-40" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{c13c33a3-4a61-2039-0b46-70f8e1bf5ff7}" name="13" x="40" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{3a7cc654-8467-21f8-58b4-5c8cdf365b09}" name="14" x="120" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{6b423c33-3af3-65fa-cfb8-b1ce52a93ca4}" name="15" x="200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{c09e7949-1fe6-a195-5fa3-b7de44bc2fc4}" name="16" x="280" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

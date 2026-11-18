@@ -1,0 +1,37 @@
+<definition version="0.90" type="element" link_type="simple" width="150" height="90" hotspot_x="55" hotspot_y="74">
+    <uuid uuid="{996b48dc-9f25-6297-be77-32deedcf11f8}"/>
+    <names>
+        <name lang="ca">SERVOMOTOR Siemens 230V 3 PUNTS</name>
+        <name lang="cs">Servomotor Siemens 230V 3 POINTS</name>
+        <name lang="fr">Servomoteur Siemens 230V 3 POINTS</name>
+        <name lang="pt_BR">Atuador rotativo Siemens SAS31 (230VAC, 3 pontos, para valvulas de aquecimento BMS)</name>
+        <name lang="zh">西门子 SAS31 执行器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Servo moteur 230V 3  Points</elementInformation>
+        <elementInformation show="1" name="designation">SAS31</elementInformation>
+        <elementInformation show="1" name="manufacturer">Siemens</elementInformation>
+    </elementInformations>
+    <informations>s.deffaux</informations>
+    <description>
+        <ellipse x="-30" y="-50" width="40" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-50" y="-65" width="140" height="70" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-35" y="-55" width="50" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Y1" x="-32" y="-56" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Y2" x="4" y="-56" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="N" x="-8" y="4" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="M" x="-17" y="-26" rotation="0" font="Liberation Sans,14,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-20" y1="-20" x2="0" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="-65" x2="-20" y2="-55" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-65" x2="0" y2="-55" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="5" x2="-10" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="-15" x2="0" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="35" y="-35" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{71dd108f-a054-4991-94f6-8e023b46201d}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{c3560165-8b11-41f2-b3a1-34fea66d99e1}" name="" x="0" y="-65" orientation="n" type="Generic"/>
+        <terminal uuid="{6f2ed426-0fb2-490c-9cb5-998c13eb3336}" name="" x="-10" y="5" orientation="s" type="Generic"/>
+        <terminal uuid="{64dda8f5-8326-415f-b6d4-07b4f8259dda}" name="" x="-20" y="-65" orientation="n" type="Generic"/>
+    </description>
+</definition>

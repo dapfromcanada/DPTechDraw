@@ -1,0 +1,28 @@
+<definition version="0.100.0" type="element" link_type="simple" width="50" height="80" hotspot_x="25" hotspot_y="40">
+    <uuid uuid="{01db90e2-da89-af03-153a-998d92c05477}"/>
+    <names>
+        <name lang="ca">7KT5801</name>
+        <name lang="cs">7KT5801</name>
+        <name lang="en">7KT5801</name>
+        <name lang="pt_BR">Medidor de energia eletrica Siemens SENTRON 7KT5801 (monofasico, comunicacao KNX)</name>
+        <name lang="zh">西门子 7KT5801 电能表</name>
+    </names>
+    <informations>https://github.com/jonasstein/qelectrotech-symbols
+EN 60617</informations>
+    <description>
+        <text text="2+" x="-4" y="-19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-2.5" y="27.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="h" x="-3" y="9" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3-" x="-3" y="25" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-50" y="-34" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{356c1d14-4108-4f01-8bfd-f8703b9802c4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="-2.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-3" y1="30" x2="-20" y2="30" x3="-20" y3="-30" x4="-3" y4="-30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="3" y1="-30" x2="20" y2="-30" x3="20" y3="30" x4="3" y4="30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-20" y1="-10" x2="20" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{694dd2d5-9f31-49c0-b274-90f0cae4cc82}" name="" x="0" y="33" orientation="s" type="Generic"/>
+        <terminal uuid="{fdef913f-ae98-4041-abd5-35ab415b7f0d}" name="" x="0" y="-33" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,60 @@
+<definition version="0.100.0" type="element" link_type="simple" width="140" height="110" hotspot_x="80" hotspot_y="55">
+    <uuid uuid="{f1f51249-382f-6459-b5f5-65fcb5526dd7}"/>
+    <names>
+        <name lang="ca">logo-textdisplay-24v</name>
+        <name lang="cs">Logo textový displej</name>
+        <name lang="de">logo-textdisplay-24v</name>
+        <name lang="en">logo-textdisplay-24v</name>
+        <name lang="it">Logo Display testo</name>
+        <name lang="pt_BR">Fonte de alimentacao Siemens LOGO! Power (115/230VAC -> 24VDC)</name>
+        <name lang="zh">LOGO! 电源 230V AC/DC 24V DC</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <line x1="-28.31" y1="40" x2="11" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-36" y="37" width="6" height="6" start="270" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-28.31" y1="0" x2="11" y2="0" end1="none" end2="triangle" length1="1.5" length2="2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-57" y="20" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{aad084b6-6062-47e7-8dea-a95a06ec6976}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>-</text>
+        </dynamic_text>
+        <arc x="-36" y="-3" width="6" height="6" start="270" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-69" y="-27" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{75b790ad-1b75-4065-ad17-061907055931}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>#?</text>
+        </dynamic_text>
+        <line x1="-55.08" y1="40" x2="-37" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-44" y="39" width="8" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="-55.08" y1="0" x2="-37" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-44" y="-1" width="8" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <dynamic_text x="-28" y="-13" z="11" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{76d223b8-fca7-43f2-a5be-30e9f36de966}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DB-SUB9</text>
+        </dynamic_text>
+        <dynamic_text x="-31" y="14" z="12" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{9debd3a4-ae02-433b-8829-1932be9fd52f}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>24VAC  90mA 
+24VDC 40mA 
+12VDC 90mA</text>
+        </dynamic_text>
+        <dynamic_text x="-58" y="0" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{25df9d9b-0cbc-4bf2-ba78-54d87f40d09f}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>+</text>
+        </dynamic_text>
+        <rect x="11" y="18" width="25" height="25" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-28.31" y1="20" x2="11" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-27" y="-44" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{7730266d-8a00-4ef0-b469-424b9a2eab6e}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>LOGO, textdisplay 24V</text>
+        </dynamic_text>
+        <dynamic_text x="-68" y="-43" z="17" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{dccbb416-2e7b-4389-bcaa-bb389fb5d566}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-28.7" y1="-28" x2="54.59" y2="-28" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="11" y1="43" x2="36" y2="18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="35.52" y1="30" x2="50.52" y2="30" end1="none" end2="triangle" length1="1.5" length2="2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-36" y="17" width="6" height="6" start="270" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-55.08" y1="20" x2="-37" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-44" y="19" width="8" height="2" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="-40" y1="19" x2="-40" y2="39" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-30" y="-40" width="85" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{12d8c582-c50f-42f8-bba3-e51ee017ef73}" name="" x="-30" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{2e232a11-b0ff-4778-b3c2-b1a73a945baa}" name="" x="-30" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{e9a6cade-099c-4fc8-8ad5-34bbe8ee4202}" name="" x="-30" y="0" orientation="w" type="Generic"/>
+    </description>
+</definition>

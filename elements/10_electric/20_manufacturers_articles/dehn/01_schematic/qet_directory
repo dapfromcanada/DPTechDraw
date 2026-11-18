@@ -1,0 +1,11 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Schéma</name>
+        <name lang="de">Schaltplan-Symbole</name>
+        <name lang="en">Schematic</name>
+        <name lang="fr">Schematic</name>
+        <name lang="ko">회로도</name>
+        <name lang="pt_BR">Esquemático</name>
+        <name lang="zh">原理图</name>
+    </names>
+</qet-directory>

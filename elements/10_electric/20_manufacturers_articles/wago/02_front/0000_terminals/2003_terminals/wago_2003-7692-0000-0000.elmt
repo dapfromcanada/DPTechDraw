@@ -1,0 +1,26 @@
+<definition version="0.90" type="element" link_type="thumbnail" width="10" height="200" hotspot_x="4" hotspot_y="91">
+    <uuid uuid="{6f9cbe8b-adbc-9c57-3baf-d9e7397536cb}"/>
+    <names>
+        <name lang="ca">2003-7692</name>
+        <name lang="cs">2003-7692</name>
+        <name lang="de">2003-7692</name>
+        <name lang="en">2003-7692</name>
+        <name lang="fr">2003-7692</name>
+        <name lang="pt_BR">2003-7692</name>
+        <name lang="zh">万可 2003-7692 接线端子</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Abschlussplatte / Endplate</elementInformation>
+        <elementInformation show="1" name="designation">2003-7692</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="0" y="-87" width="1.6" height="192" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:orange;color:orange" antialias="false"/>
+        <dynamic_text x="7" y="20" z="67" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" rotation="90" keep_visual_rotation="true" text_from="ElementInfo" uuid="{96477b97-cb32-430e-b7f3-d40524511543}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

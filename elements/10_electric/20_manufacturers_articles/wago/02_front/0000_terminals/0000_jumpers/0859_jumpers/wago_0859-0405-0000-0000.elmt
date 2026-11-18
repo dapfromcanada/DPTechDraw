@@ -1,0 +1,23 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="70" height="10" hotspot_x="11" hotspot_y="5">
+    <uuid uuid="{3fe067e3-eb98-9d20-4737-f0298b492471}"/>
+    <names>
+        <name lang="ca">859-405</name>
+        <name lang="cs">859-405</name>
+        <name lang="de">859-405</name>
+        <name lang="en">859-405</name>
+        <name lang="fr">859-405</name>
+        <name lang="pt_BR">859-405</name>
+        <name lang="zh">wago_0859-0405-0000-0000</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Jumper for Series 788, 857, 859, 2857</elementInformation>
+        <elementInformation show="1" name="designation">859-405</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-5.72" y="-2.72" width="59" height="5.43" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text="859-405" x="17.15" y="1.14" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+    </description>
+</definition>

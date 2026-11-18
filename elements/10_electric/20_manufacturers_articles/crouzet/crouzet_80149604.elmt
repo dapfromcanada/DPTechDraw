@@ -1,0 +1,89 @@
+<definition version="0.100.0" type="element" link_type="simple" width="140" height="170" hotspot_x="33" hotspot_y="77">
+    <uuid uuid="{febfd9c8-ad59-fb6a-90ca-d6de766faa0b}"/>
+    <names>
+        <name lang="ar">Crouzet80149604</name>
+        <name lang="ca">Crouzet 80149604</name>
+        <name lang="cs">Servomotor Crouzet 80149604</name>
+        <name lang="de">Servomotor Crouzet 80149604</name>
+        <name lang="el">Crouzet 80149604</name>
+        <name lang="en">Crouzet 80149604</name>
+        <name lang="fr">Crouzet 80149604</name>
+        <name lang="it">Crouzet 80149604</name>
+        <name lang="nl">Crouzet 80149604</name>
+        <name lang="pl">Crouzet 80149604</name>
+        <name lang="pt">Crouzet80149604</name>
+        <name lang="pt_BR">Motorredutor CC 24 V com controlador integrado Crouzet 80149604</name>
+        <name lang="zh">crouzet_80149604</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text text="Logic&#10;ground" x="66" y="-1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-10" y1="70" x2="90" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-60" x2="90" y2="-60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-26" y="-55" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{940d36d9-1807-4936-ac8c-c1f1db4acf11}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>BR</text>
+        </dynamic_text>
+        <dynamic_text x="25" y="-58" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="UserText" uuid="{e39bcd99-012c-4278-9d24-d7bc9e7e39cc}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>RD</text>
+        </dynamic_text>
+        <dynamic_text x="88" y="-15" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{426b5986-6e22-4bd2-b62e-866897e91df1}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>BU</text>
+        </dynamic_text>
+        <dynamic_text x="25" y="85" z="7" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="UserText" uuid="{e6e3ab56-b2b4-433a-ac52-f180af5b9b1d}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>BL</text>
+        </dynamic_text>
+        <dynamic_text x="-26" y="25" z="8" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{f57a2909-2d6a-48df-91d7-4bdf0f268a70}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>PU</text>
+        </dynamic_text>
+        <dynamic_text x="-26" y="5" z="9" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{ac87ecf0-575a-45fe-bad0-2079ac87c0f1}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>GN</text>
+        </dynamic_text>
+        <dynamic_text x="-26" y="-15" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{b5564d54-ce8d-4af5-9daa-1f1a892234cd}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>YE</text>
+        </dynamic_text>
+        <dynamic_text x="-26" y="-35" z="11" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{baeb49aa-cf34-4916-aab3-5d4d088a607e}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>OG</text>
+        </dynamic_text>
+        <line x1="90" y1="-60" x2="90" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Output&#10;12PT/T" x="-9" y="39" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Enable&#10;input" x="-9" y="19" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Direction&#10;input" x="-9" y="-1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Input&#10;PWM" x="-9" y="-21" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Input&#10;0-10V" x="-9" y="-41" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-10" y1="-60" x2="-10" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="90" y1="0" x2="100" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="40" y1="70" x2="40" y2="81" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="-20" x2="-10" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="40" y1="-70" x2="40" y2="-60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="-40" x2="-10" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="20" x2="-10" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="0" x2="-10" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="8" y="42" z="27" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{e08a5ca7-4876-4211-91d6-d820193c4bd6}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>80149604</text>
+        </dynamic_text>
+        <text text="Power ground" x="18" y="68" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="25" y="-15" width="30" height="30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="45" y1="18" x2="45" y2="14.5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="M" x="31.5" y="7" rotation="0" font="Liberation Sans,15,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="35" y1="18" x2="45" y2="18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="45" y1="-18" x2="45" y2="-14.5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="24V DC" x="26" y="-52" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="35" y1="-14.5" x2="35" y2="-18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="35" y1="-18" x2="45" y2="-18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="35" y1="14.5" x2="35" y2="18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-30" y="-82.5" z="38" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{24fd0a64-c198-41ce-b9c6-252a7878946a}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{3aa6733c-87fd-468a-a6c9-9e299e039538}" name="" x="40" y="-70" orientation="n" type="Generic"/>
+        <terminal uuid="{54e8d884-e5f0-4754-92c3-0d90b6330276}" name="" x="100" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{f7518b30-bbfc-4b52-8fbc-ede8ba694e7c}" name="" x="40" y="81" orientation="s" type="Generic"/>
+        <terminal uuid="{961d88fb-f9c3-4a74-8114-070f006481fb}" name="" x="-20" y="-20" orientation="w" type="Generic"/>
+        <terminal uuid="{c259ee92-d5c1-46b9-943c-999351456335}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{95eb4ab4-b2c6-410c-a8c5-affb1d969889}" name="" x="-20" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{c4c26258-f40f-4516-ba4a-25c1e1c8e100}" name="" x="-20" y="-40" orientation="w" type="Generic"/>
+        <terminal uuid="{9f796e40-3617-4759-b848-c6a8e206bdc0}" name="" x="-20" y="40" orientation="w" type="Generic"/>
+    </description>
+</definition>

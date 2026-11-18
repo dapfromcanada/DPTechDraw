@@ -1,0 +1,46 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="170" hotspot_x="30" hotspot_y="15">
+    <uuid uuid="{5a478d58-16f7-7db0-bd5a-95c1c1c9758d}"/>
+    <names>
+        <name lang="ca">Jack amb 8 posicions</name>
+        <name lang="en">Jack with 8 positions</name>
+        <name lang="nl">Contact met 8 posities</name>
+        <name lang="pt_BR">Jack com 8 posições</name>
+        <name lang="zh">弹球机电威廉姆斯插孔08</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-10" y="-10" width="20" height="160" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="20" x2="-10" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="0" x2="-10" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="100" x2="-10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="120" x2="-10" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="140" x2="-10" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="140" x2="20" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="120" x2="20" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="20" x2="20" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="40" x2="20" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="80" x2="20" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="60" x2="20" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="100" x2="20" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{96f9a189-9bf3-4218-9349-3a18824f62c2}" name="" x="-20" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{1604c9e6-fd73-400c-9829-6959a9b290ae}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{5c1dcbd7-b1ab-402a-a43f-0252207dfe32}" name="" x="20" y="20" orientation="e" type="Generic"/>
+        <terminal uuid="{45bb432f-bd82-45a9-8bd6-9cef97cea3a0}" name="" x="20" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{3ddd1bf3-47f8-4490-bf03-e254040470b6}" name="" x="20" y="120" orientation="e" type="Generic"/>
+        <terminal uuid="{62983298-b27d-4ec0-accc-a7dee15ebb2c}" name="" x="20" y="60" orientation="e" type="Generic"/>
+        <terminal uuid="{bcb7c7bc-dd99-4d5f-9042-64509c8d19e9}" name="" x="20" y="40" orientation="e" type="Generic"/>
+        <terminal uuid="{e5ce50c3-4058-46c9-b919-1969051741b9}" name="" x="20" y="80" orientation="e" type="Generic"/>
+        <terminal uuid="{780ad9a6-ab18-4673-b91e-e1806342776c}" name="" x="-20" y="80" orientation="w" type="Generic"/>
+        <terminal uuid="{79f0f934-8c53-4fae-998e-f34937b68edc}" name="" x="-20" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{12e68e60-df24-4ee6-993d-00a68437a87e}" name="" x="-20" y="60" orientation="w" type="Generic"/>
+        <terminal uuid="{1430ae1c-1afc-457e-8bc8-3eda3b8fb7b7}" name="" x="20" y="100" orientation="e" type="Generic"/>
+        <terminal uuid="{6934dec5-7fff-4065-84e9-fd741c83a123}" name="" x="-20" y="100" orientation="w" type="Generic"/>
+        <terminal uuid="{a8ef9238-7a08-4bcf-b521-ab57e9b0655b}" name="" x="20" y="140" orientation="e" type="Generic"/>
+        <terminal uuid="{6a7fe77a-7e6c-4895-8217-f0a31faf5a8f}" name="" x="-20" y="120" orientation="w" type="Generic"/>
+        <terminal uuid="{31a49e73-5321-47c1-8e91-88682f573913}" name="" x="-20" y="140" orientation="w" type="Generic"/>
+    </description>
+</definition>

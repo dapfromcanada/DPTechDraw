@@ -1,0 +1,25 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="80" height="70" hotspot_x="36" hotspot_y="35">
+    <uuid uuid="{1edc527f-3ef3-b641-0f99-586ab4c9f950}"/>
+    <names>
+        <name lang="ca">412004 - Transformador de corrent tancat 60A</name>
+        <name lang="cs">412004 - Transformátor proudu 60A</name>
+        <name lang="fr">412004 - Transformateur de courant fermé 60A</name>
+        <name lang="pt_BR">412004 - Transformador de corrente fechado 60A</name>
+        <name lang="zh">412004-60A变压器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Transformateur de courant fermé 60A</elementInformation>
+        <elementInformation show="1" name="designation">4120 04</elementInformation>
+    </elementInformations>
+    <informations>Arnaud Valmary</informations>
+    <description>
+        <arc x="-32.5" y="-32.5" width="65" height="65" start="0" angle="30" style="line-style:normal;line-weight:eleve;filling:black;color:black" antialias="true"/>
+        <ellipse x="-30" y="-30" width="60" height="60" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="true"/>
+        <ellipse x="-15" y="-15" width="30" height="30" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="15W38" x="11" y="24" rotation="320" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="41 20 04" x="-15" y="-18" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="Imax=72A AC" x="19" y="-15" rotation="90" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="Legrand" x="-21" y="10" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <terminal uuid="{b011782e-3101-2c8a-20a9-109f1337b610}" name="" x="33" y="3" orientation="s" type="Generic"/>
+    </description>
+</definition>

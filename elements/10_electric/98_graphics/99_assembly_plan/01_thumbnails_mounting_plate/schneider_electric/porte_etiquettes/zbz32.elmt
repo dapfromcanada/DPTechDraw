@@ -1,0 +1,22 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="50" height="60" hotspot_x="25" hotspot_y="54">
+    <uuid uuid="{e32b312e-50e8-38c2-ac23-70bc66e8c1b8}"/>
+    <names>
+        <name lang="ca">Portaetiquetes</name>
+        <name lang="cs">Štítky ovladačů</name>
+        <name lang="de">Etikettenträger</name>
+        <name lang="fr">Porte étiquette</name>
+        <name lang="pt_BR">portase étiquette</name>
+        <name lang="zh">标签支架 ZBZ32</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Porte étiquette vierge</elementInformation>
+        <elementInformation show="1" name="designation">ZBZ32</elementInformation>
+        <elementInformation show="1" name="manufacturer">Schneider</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-20" y="-48" width="40" height="24" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-22" y1="2" x2="-22" y2="-50" x3="22" y3="-50" x4="22" y4="2" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

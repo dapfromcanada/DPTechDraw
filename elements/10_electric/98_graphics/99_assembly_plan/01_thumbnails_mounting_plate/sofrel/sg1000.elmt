@@ -1,0 +1,32 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="250" height="260" hotspot_x="132" hotspot_y="120">
+    <uuid uuid="{d1eddbeb-7b25-63e7-0ddd-d04e23f3f6de}"/>
+    <names>
+        <name lang="ar">واجهة SG1000</name>
+        <name lang="ca">Vista frontal S1000</name>
+        <name lang="cs">Místní telemetrick jednotka SG1000</name>
+        <name lang="el">Τερματικό S51000</name>
+        <name lang="en">Frontview S1000</name>
+        <name lang="es">Facade SG1000</name>
+        <name lang="fr">Façade SG1000</name>
+        <name lang="pt_BR">Frontview S1000</name>
+        <name lang="zh">SG1000网关</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">S550</elementInformation>
+        <elementInformation show="1" name="manufacturer">Sofrel</elementInformation>
+    </elementInformations>
+    <informations>S.Deffaux
+Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-120" y="-113.57" width="231.6" height="247.57" rx="15" ry="15" style="line-style:normal;line-weight:normal;filling:HTMLBlueCornflowerBlue;color:black" antialias="false"/>
+        <text text="110/230V" x="-96" y="118.11" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="SG1000" x="-90" y="-50" rotation="0" font="Liberation Sans,37,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <dynamic_text x="694" y="-211" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{dd7046e1-8e39-446b-99bb-f2de6ae01aa4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+            <color>#ffffff</color>
+        </dynamic_text>
+        <text text="ETHERNET" x="40" y="120" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+    </description>
+</definition>

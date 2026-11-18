@@ -1,0 +1,27 @@
+<definition version="0.100.0" type="element" link_type="previous_report" width="430" height="40" hotspot_x="14" hotspot_y="25">
+    <uuid uuid="{eea3ae33-e9fd-a435-a87f-460a8c9a2dcf}"/>
+    <names>
+        <name lang="ca">Text del senyal (referència creuada)</name>
+        <name lang="cs">Text signálu (ckřížová reference)</name>
+        <name lang="de">Signaltext (Verweis)</name>
+        <name lang="en">Signal text (cross reference)</name>
+        <name lang="fr">Texte de signal (référence croisée)</name>
+        <name lang="pt_BR">Bloco de texto de sinal para visao geral de E/S (referencia cruzada)</name>
+        <name lang="zh">概览通道文本</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="60" y="-10" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{51c88703-7289-4bc6-affe-2379003a7abf}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="110" y="-10" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{ce65eb20-c27f-45bf-ada7-5474ad52b834}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>Signaltext</text>
+        </dynamic_text>
+        <dynamic_text x="0" y="-11.5" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{a63fe4f5-2092-4067-8a46-8d6eb17c2f41}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>#</text>
+        </dynamic_text>
+        <rect x="0" y="-10" width="410" height="20" rx="0" ry="0" style="line-style:normal;line-weight:none;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

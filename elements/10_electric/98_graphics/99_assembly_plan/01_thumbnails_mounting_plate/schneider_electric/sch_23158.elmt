@@ -1,0 +1,76 @@
+<definition version="0.100.0" type="element" link_type="slave" width="90" height="220" hotspot_x="6" hotspot_y="10">
+    <uuid uuid="{9da06134-a7b1-a85c-31be-287d4b51f5bf}"/>
+    <names>
+        <name lang="ca">SCH_23158</name>
+        <name lang="cs">SCH_23158</name>
+        <name lang="fr">SCH_23158</name>
+        <name lang="pt_BR">SCH_23158</name>
+        <name lang="zh">SCH23158</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">power</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Baboune41</informations>
+    <description>
+        <rect x="0" y="0" width="80" height="200" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text="Type A" x="41" y="127" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <arc x="72" y="124.92" width="4" height="3" start="0" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <text text="40 A" x="60" y="144" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="0" y1="130" x2="80" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="68" y="124.92" width="4" height="3" start="0" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <rect x="12" y="112" width="20" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:blue;color:none" antialias="false"/>
+        <ellipse x="15" y="175" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="49" y="134.92" width="4" height="3" start="180" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <rect x="0" y="50" width="80" height="100" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="55" y="175" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="53" y="134.92" width="4" height="3" start="0" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line x1="22" y1="178" x2="18" y2="182" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="18" y1="178" x2="22" y2="182" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="58" y1="178" x2="62" y2="182" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="62" y1="178" x2="58" y2="182" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="178" x2="60" y2="182" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="58" y1="180" x2="62" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="20" y1="178" x2="20" y2="182" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="18" y1="180" x2="22" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-1" y="-10" z="21" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="true" text_from="ElementInfo" uuid="{5a198056-47f0-4065-bdd7-1703903918a1}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="N" x="12" y="175" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="12" y="122" width="20" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" antialias="false"/>
+        <text text="30 mA" x="37" y="145" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="230" x="37" y="137" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Electric" x="59" y="66" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="23158" x="8" y="128" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="5" y="10" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="25" y="10" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line x1="12" y1="13" x2="8" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="13" x2="12" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="28" y1="13" x2="32" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="32" y1="13" x2="28" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="30" y1="13" x2="30" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="28" y1="15" x2="32" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="13" x2="10" y2="17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="15" x2="12" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="Schneider" x="44" y="59" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="N" x="2" y="10" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="0" y1="110" x2="80" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="12" y1="130" x2="32" y2="130" x3="32" y3="144" x4="22" y4="145" x5="12" y5="144" antialias="false" style="line-style:normal;line-weight:normal;filling:gray;color:gray"/>
+        <rect x="21" y="134" width="2" height="11" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <text text="O off" x="15" y="120" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <arc x="68" y="123.5" width="4" height="1" start="180" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="72" y="123.5" width="4" height="1" start="0" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <rect x="67" y="123" width="10" height="4" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="9" y="10" width="26" height="80" start="180" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="10" y="10" width="26" height="80" start="270" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="16" y="53" width="12" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="T" x="21" y="65" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="ID'clic XP" x="42" y="88" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{58895c1d-7e5b-e5cd-f96b-3ef334ff0c78}" name="" x="20" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{911e8091-7a58-9ca0-9211-9b7a22aa958e}" name="" x="30" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{a42b1883-a323-ff75-72c0-98ddd151d2ae}" name="" x="60" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{44422cad-91dd-af96-2d33-e1215fbb04ba}" name="" x="10" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

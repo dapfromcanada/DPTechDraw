@@ -1,0 +1,72 @@
+<definition version="0.90" type="element" link_type="simple" width="140" height="180" hotspot_x="70" hotspot_y="107">
+    <uuid uuid="{dc9c232b-9065-2029-49ee-afdac51349be}"/>
+    <names>
+        <name lang="ca">852-1328</name>
+        <name lang="cs">852-1328</name>
+        <name lang="de">852-1328</name>
+        <name lang="en">852-1328</name>
+        <name lang="fr">852-1328</name>
+        <name lang="pt_BR">852-1328</name>
+        <name lang="zh">WAGO 0852-1328 网络模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">6 Port Gb + 2FOC MACsec Managed Switch</elementInformation>
+        <elementInformation show="1" name="designation">852-1328</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <text text="MACsec" x="30.45" y="26" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="MACsec" x="-55" y="26" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-60" y="-100" width="120" height="170" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="FG" x="36" y="-84" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="-52.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="4" x="49.25" y="-32" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="37.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="2" x="49.25" y="-52" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="−" x="-23" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="SFP  8" x="34.63" y="18" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="57.5" y="-12.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="57.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="6" x="48.63" y="-12" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="MACsec Managed Switch" x="-56" y="61" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="-52.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="−" x="17.09" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="-2.43" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RPS" x="3.47" y="-84" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-54.19" y="-32" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="-42.5" y="-90" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="1" x="-54.19" y="-52" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7  SFP" x="-53.81" y="18" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-62.5" y="-12.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="17.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-62.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="5" x="-53.81" y="-12" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-2.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-22.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-42.5" y="-102.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="6 Port Gb + 2FOC" x="-39" y="49" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="PWR" x="-36.6" y="-84" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="WAGO 852-1328" x="-49" y="-64" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="10" y="-20" z="38" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{6664051b-4b81-4fab-b649-8ad15f9aee21}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{1f9d98a7-189a-4797-b9c0-b9a7d33a5993}" name="RPS+" x="0" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{70e769d1-db55-4824-a086-5a92c9062d6b}" name="PWR+" x="-40" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{e1716db6-3c59-4f47-a867-85900f8b6cbd}" name="RPS-" x="20" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{39f5480f-d445-47b6-916c-349d9e5e47e4}" name="ETH3" x="-60" y="-30" orientation="w" type="Generic"/>
+        <terminal uuid="{6bac7f60-d173-425b-83f7-8f6acf078f56}" name="ETH7" x="-60" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{56ab4179-370f-430d-8722-707685ca2c5e}" name="ETH2" x="60" y="-50" orientation="e" type="Generic"/>
+        <terminal uuid="{4074e193-8a14-4d29-b0f0-8f65475da2bc}" name="EZH6" x="60" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{4d4b2a5e-9a2d-43ae-aacf-15123470f495}" name="ETH4" x="60" y="-30" orientation="e" type="Generic"/>
+        <terminal uuid="{2b2c8856-15eb-4885-a32a-d3a26f98c6d5}" name="ETH1" x="-60" y="-50" orientation="w" type="Generic"/>
+        <terminal uuid="{dd4f071e-d902-46c5-bfc2-1ecc94354824}" name="EZH5" x="-60" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{35988231-3ffc-444e-9493-190cd56b451f}" name="PWR-" x="-20" y="-100" orientation="n" type="Generic"/>
+        <terminal uuid="{a5c05779-3224-4fa5-bb66-d43e0890f006}" name="ETH8" x="60" y="20" orientation="e" type="Generic"/>
+        <terminal uuid="{9fa2702e-c268-43c1-840c-bc1bdbc792d7}" name="FG" x="40" y="-100" orientation="n" type="Generic"/>
+    </description>
+</definition>

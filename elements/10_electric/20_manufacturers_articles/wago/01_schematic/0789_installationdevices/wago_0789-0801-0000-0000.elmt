@@ -1,0 +1,42 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="80" hotspot_x="28" hotspot_y="40">
+    <uuid uuid="{93ac4e72-e7c4-4495-f942-3382a6b2a17c}"/>
+    <names>
+        <name lang="ca">789-801</name>
+        <name lang="cs">789-801</name>
+        <name lang="de">789-801</name>
+        <name lang="en">789-801</name>
+        <name lang="fr">789-801</name>
+        <name lang="pt_BR">789-801</name>
+        <name lang="zh">万可 0789-0801-0000-0000 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Ausschalter, einpolig (switch SPST)</elementInformation>
+        <elementInformation show="1" name="designation">789-801</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <polygon x1="-20" y1="-4" x2="-23" y2="-4" x3="-23" y3="4" x4="-20" y4="4" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-6" y1="-12" x2="0" y2="12" x3="0" y3="30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-23" y1="0" x2="-14" y2="0" x3="-12" y3="5" x4="-10" y4="0" x5="-3" y5="0" closed="false" antialias="false" style="line-style:dotted;line-weight:normal;filling:none;color:black"/>
+        <ellipse x="-1" y="19" width="2" height="2" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <dynamic_text x="16" y="-8.5" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{e338d2c7-9730-4380-a0e4-c40c858a4fbd}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-14" y1="0" x2="-12" y2="5" x3="-10" y3="0" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="0" y1="-30" x2="0" y2="-12" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-1" y="-21" width="2" height="2" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="2" x="22" y="26" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="22" y="-21" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="2" y="26" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="2" y="-21" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="0" y1="-20" x2="20" y2="-20" x3="20" y3="-30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="0" y1="20" x2="20" y2="20" x3="20" y3="30" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{3d30db97-1cd9-44b1-a422-e9742b0da25d}" name="" x="20" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{5b98fcab-28b4-4bc7-a3ea-5e8bec9c1ad8}" name="" x="0" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{54c7e8a6-509a-420d-ab12-4e0e00725027}" name="" x="0" y="30" orientation="s" type="Generic"/>
+        <terminal uuid="{08b1213a-14d7-4834-81f7-6374cde31863}" name="" x="20" y="-30" orientation="n" type="Generic"/>
+    </description>
+</definition>

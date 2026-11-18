@@ -1,0 +1,468 @@
+/*
+	Copyright 2006-2026 The QElectroTech Team
+	This file is part of QElectroTech.
+
+	QElectroTech is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 2 of the License, or
+	(at your option) any later version.
+
+	QElectroTech is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with QElectroTech.  If not, see <http://www.gnu.org/licenses/>.
+*/
+#include "elementinfowidget.h"
+#include <QCheckBox>
+#include <QPushButton>
+#include "../diagram.h"
+#include "../qetapp.h"
+#include "../qetgraphicsitem/element.h"
+#include "../qetinformation.h"
+#include "../ui_elementinfowidget.h"
+#include "../undocommand/changeelementinformationcommand.h"
+#include "customelementinfopartwidget.h"
+#include "elementinfopartwidget.h"
+
+/**
+	@brief ElementInfoWidget::ElementInfoWidget
+	Constructor
+	@param elmt element to edit information
+	@param parent parent widget
+*/
+ElementInfoWidget::ElementInfoWidget(Element *elmt, QWidget *parent) :
+	AbstractElementPropertiesEditorWidget(parent),
+	ui(new Ui::ElementInfoWidget),
+	m_first_activation (false)
+{
+	ui->setupUi(this);
+	setElement(elmt);
+}
+
+/**
+	@brief ElementInfoWidget::~ElementInfoWidget
+	Destructor
+*/
+ElementInfoWidget::~ElementInfoWidget()
+{
+	qDeleteAll(m_eipw_list);
+	qDeleteAll(m_custom_eipw_list);
+	delete ui;
+}
+
+/**
+	@brief ElementInfoWidget::setElement
+	Set element to be the edited element
+	@param element
+*/
+void ElementInfoWidget::setElement(Element *element)
+{
+	if (m_element == element) return;
+
+	if (m_element)
+		disconnect(m_element.data(), &Element::elementInfoChange, this, &ElementInfoWidget::elementInfoChange);
+
+	m_element = element;
+	updateUi();
+
+	const auto formula_info_widget = infoPartWidgetForKey(QETInformation::ELMT_FORMULA);
+	const auto label_info_widget = infoPartWidgetForKey(QETInformation::ELMT_LABEL);
+
+	if (formula_info_widget && label_info_widget)
+	{
+		if (formula_info_widget->text().isEmpty())
+			label_info_widget->setEnabled(true);
+		else
+			label_info_widget->setDisabled(true);
+
+		connect(formula_info_widget, &ElementInfoPartWidget::textChanged, this, [label_info_widget](const QString text)
+		{
+			label_info_widget->setEnabled(text.isEmpty()? true : false);
+		});
+	}
+
+	connect(m_element.data(), &Element::elementInfoChange, this, &ElementInfoWidget::elementInfoChange);
+}
+
+/**
+	@brief ElementInfoWidget::apply
+	Apply the new information with a new undo command (got with method associatedUndo)
+	pushed to the stack of element project.
+*/
+void ElementInfoWidget::apply()
+{
+	if (auto undo = associatedUndo())
+		m_element -> diagram() -> undoStack().push(undo);
+}
+
+/**
+	@brief ElementInfoWidget::associatedUndo
+	If the edited info is different of the actual element info,
+	return a QUndoCommand with the change.
+	If no change return nullptr;
+	@return
+*/
+QUndoCommand* ElementInfoWidget::associatedUndo() const
+{
+	const auto new_info = currentInfo();
+	const auto old_info = m_element -> elementInformations();
+
+	if (old_info != new_info)
+		return (new ChangeElementInformationCommand(m_element, old_info, new_info));
+
+	return nullptr;
+}
+
+/**
+	@brief ElementInfoWidget::setLiveEdit
+	@param live_edit true : enable the live edit mode, false disable
+	@return always true;
+*/
+bool ElementInfoWidget::setLiveEdit(bool live_edit)
+{
+	if (m_live_edit == live_edit) return true;
+	m_live_edit = live_edit;
+
+	if (m_live_edit)
+		enableLiveEdit();
+	else
+		disableLiveEdit();
+
+	return true;
+}
+
+/**
+	@brief ElementInfoWidget::event
+	Reimplemented from QWidget::event
+	Only give focus to the first line edit at first activation.
+	After send the event to QWidget.
+	@param event
+	@return
+*/
+bool ElementInfoWidget::event(QEvent *event)
+{
+	if (m_first_activation)
+	{
+		if (event -> type() == QEvent::WindowActivate || event -> type() == QEvent::Show)
+		{
+			QTimer::singleShot(250, this, &ElementInfoWidget::firstActivated);
+			m_first_activation = false;
+		}
+	}
+	return(QWidget::event(event));
+}
+
+/**
+	@brief ElementInfoWidget::enableLiveEdit
+	Enable the live edit mode
+*/
+void ElementInfoWidget::enableLiveEdit()
+{
+	for (ElementInfoPartWidget *eipw : m_eipw_list)
+		connect(eipw, &ElementInfoPartWidget::textChanged, this, &ElementInfoWidget::apply);
+	connect(ui->m_auto_num_locked_cb, &QCheckBox::clicked, this, &ElementInfoWidget::apply);
+
+	if (m_potential_isolating_cb) {
+		connect(m_potential_isolating_cb, &QCheckBox::clicked, this, &ElementInfoWidget::apply);
+	}
+	if (m_exclude_from_bom_cb) {
+		connect(m_exclude_from_bom_cb, &QCheckBox::clicked, this, &ElementInfoWidget::apply);
+	}
+}
+
+/**
+	@brief ElementInfoWidget::disableLiveEdit
+	disable the live edit mode
+*/
+void ElementInfoWidget::disableLiveEdit()
+{
+	for (ElementInfoPartWidget *eipw : m_eipw_list)
+		disconnect(eipw, &ElementInfoPartWidget::textChanged, this, &ElementInfoWidget::apply);
+	disconnect(ui->m_auto_num_locked_cb, &QCheckBox::clicked, this, &ElementInfoWidget::apply);
+
+	if (m_potential_isolating_cb) {
+		disconnect(m_potential_isolating_cb, &QCheckBox::clicked, this, &ElementInfoWidget::apply);
+	}
+	if (m_exclude_from_bom_cb) {
+		disconnect(m_exclude_from_bom_cb, &QCheckBox::clicked, this, &ElementInfoWidget::apply);
+	}
+}
+
+/**
+	@brief ElementInfoWidget::buildInterface
+	Build the widget
+*/
+void ElementInfoWidget::buildInterface()
+{
+	QStringList keys;
+	if (m_element.data()->elementData().m_type == ElementData::Terminal) {
+		keys = QETInformation::terminalElementInfoKeys();
+	 } else {
+		keys = QETInformation::elementInfoKeys();
+	}
+
+		//"exclude_from_bom" is part of elementInfoKeys() because the project
+		//database builds the element_info table from that list, but it is not
+		//a free-text property: it already has its own check box below. Without
+		//this it also gets a generic edit row, and since translatedInfoKey()
+		//has no entry for it that row carries no label at all - an anonymous
+		//line that currentInfo() then fills with "true"/"false".
+	keys.removeAll(QStringLiteral("exclude_from_bom"));
+
+	for (auto str : keys)
+	{
+		ElementInfoPartWidget *eipw = new ElementInfoPartWidget(str, QETInformation::translatedInfoKey(str), this);
+		ui->scroll_vlayout->addWidget(eipw);
+		m_eipw_list << eipw;
+	}
+
+	m_add_custom_property_btn = new QPushButton(tr("Ajouter une propriété personnalisée"), this);
+	connect(m_add_custom_property_btn, &QPushButton::clicked, this, [this]() { addCustomProperty(); });
+	ui->scroll_vlayout->addWidget(m_add_custom_property_btn);
+
+	ui->scroll_vlayout->addStretch();
+
+	// Existing potential isolating checkbox
+	m_potential_isolating_cb = new QCheckBox(tr("Séparation de potentiel"), this);
+	m_potential_isolating_cb->setStyleSheet(QStringLiteral("margin: 5px; font-weight: bold;"));
+
+	// English: Initialize and style the BOM exclusion checkbox
+	m_exclude_from_bom_cb = new QCheckBox(tr("Exclure de la nomenclature"), this);
+	m_exclude_from_bom_cb->setStyleSheet(QStringLiteral("margin: 5px; font-weight: bold;"));
+
+	if (QVBoxLayout *mainLayout = qobject_cast<QVBoxLayout*>(this->layout())) {
+		mainLayout->insertWidget(1, m_potential_isolating_cb);
+		// English: Insert the new checkbox into the main vertical layout
+		mainLayout->insertWidget(2, m_exclude_from_bom_cb);
+	}
+
+	// English: BOM exclusion applies to all elements, so it's always visible
+	m_exclude_from_bom_cb->setVisible(true);
+
+	// Show checkbox only if the element is a terminal
+	if (m_element.data()->elementData().m_type == ElementData::Terminal) {
+		ui->m_auto_num_locked_cb->setVisible(true);
+		m_potential_isolating_cb->setVisible(true);
+	} else {
+		ui->m_auto_num_locked_cb->setVisible(false);
+		m_potential_isolating_cb->setVisible(false);
+	}
+}
+/**
+	@brief ElementInfoWidget::predefinedKeys
+	@return every key this widget already exposes a dedicated row for,
+	whether through ElementInfoPartWidget (the ~40 ELMT_* keys) or one
+	of the standalone checkboxes. Anything present in the element's
+	informations but absent from this list is a user-defined custom
+	property.
+*/
+QStringList ElementInfoWidget::predefinedKeys() const
+{
+	QStringList keys = (m_element.data()->elementData().m_type == ElementData::Terminal)
+			? QETInformation::terminalElementInfoKeys()
+			: QETInformation::elementInfoKeys();
+
+	keys << QStringLiteral("auto_num_locked")
+		 << QStringLiteral("potential_isolating")
+		 << QStringLiteral("exclude_from_bom");
+
+	return keys;
+}
+
+/**
+	@brief ElementInfoWidget::addCustomProperty
+	Append a new user-defined key/value row to the widget.
+	@param key initial key, left empty for a freshly added row
+	@param value initial value
+*/
+void ElementInfoWidget::addCustomProperty(const QString &key, const QString &value)
+{
+	auto *widget = new CustomElementInfoPartWidget(key, value, this);
+
+	const int insert_index = ui->scroll_vlayout->indexOf(m_add_custom_property_btn);
+	ui->scroll_vlayout->insertWidget(insert_index >= 0 ? insert_index : ui->scroll_vlayout->count(), widget);
+	m_custom_eipw_list << widget;
+
+	connect(widget, &CustomElementInfoPartWidget::removeRequested, this, &ElementInfoWidget::removeCustomProperty);
+	connect(widget, &CustomElementInfoPartWidget::changed, this, [this]() {
+		if (m_live_edit) apply();
+	});
+
+	if (key.isEmpty()) {
+		widget->setFocus();
+	}
+}
+
+/**
+	@brief ElementInfoWidget::removeCustomProperty
+	Remove a user-defined key/value row.
+	@param widget the row to remove
+*/
+void ElementInfoWidget::removeCustomProperty(CustomElementInfoPartWidget *widget)
+{
+	if (!m_custom_eipw_list.removeOne(widget))
+		return;
+
+	ui->scroll_vlayout->removeWidget(widget);
+	widget->deleteLater();
+
+	if (m_live_edit) apply();
+}
+
+/**
+	@brief ElementInfoWidget::infoPartWidgetForKey
+	@param key
+	@return the ElementInfoPartWidget with key key,
+	if not found return nullptr;
+*/
+ElementInfoPartWidget *ElementInfoWidget::infoPartWidgetForKey(const QString &key) const
+{
+	for (const auto &eipw : std::as_const(m_eipw_list))
+	{
+		if (eipw->key() == key)
+			return eipw;
+	}
+
+	return nullptr;
+}
+
+/**
+	@brief ElementInfoWidget::updateUi
+	fill information fetch in m_element_info to the
+	corresponding line edit
+*/
+void ElementInfoWidget::updateUi()
+{
+	if (!m_ui_builded) {
+		buildInterface();
+		m_ui_builded = true;
+	}
+		//We disable live edit to avoid wrong undo when we fill the line edit with new text
+	if (m_live_edit) disableLiveEdit();
+
+	const auto element_info{m_element->elementInformations()};
+	
+	for (ElementInfoPartWidget *eipw : m_eipw_list) {
+		eipw -> setText (element_info[eipw->key()].toString());
+	}
+
+	// Rebuild the custom-property rows to match whatever
+	// user-defined keys this element currently carries.
+	while (!m_custom_eipw_list.isEmpty()) {
+		CustomElementInfoPartWidget *w = m_custom_eipw_list.takeLast();
+		ui->scroll_vlayout->removeWidget(w);
+		delete w;
+	}
+	const auto known_keys = predefinedKeys();
+	for (const QString &key : element_info.keys()) {
+		if (!known_keys.contains(key)) {
+			addCustomProperty(key, element_info[key].toString());
+		}
+	}
+
+	// Load the lock status for auto numbering
+	if (m_element->elementData().m_type == ElementData::Terminal) {
+		QString lock_value = element_info.value(QStringLiteral("auto_num_locked")).toString();
+		ui->m_auto_num_locked_cb->setChecked(lock_value == QLatin1String("true"));
+
+		// English: Load the potential isolating status from the element information mapping
+		if (m_potential_isolating_cb) {
+			QString isolating_value = element_info.value(QStringLiteral("potential_isolating")).toString();
+			m_potential_isolating_cb->setChecked(isolating_value == QLatin1String("true"));
+		}
+	}
+	// English: Load the BOM exclusion status from the element information mapping
+	if (m_exclude_from_bom_cb) {
+		QString exclude_bom_value = element_info.value(QStringLiteral("exclude_from_bom")).toString();
+		m_exclude_from_bom_cb->setChecked(exclude_bom_value == QLatin1String("true"));
+	}
+
+	if (m_live_edit) {
+		enableLiveEdit();
+	}
+}
+
+/**
+	@brief ElementInfoWidget::currentInfo
+	@return the info currently edited
+*/
+DiagramContext ElementInfoWidget::currentInfo() const
+{
+	DiagramContext info_;
+
+	for (const auto &eipw : std::as_const(m_eipw_list))
+	{
+		//add value only if they're something to store
+		if (!eipw->text().isEmpty())
+		{
+			QString txt{eipw->text()};
+			//remove line feed and carriage return
+			txt.remove(QStringLiteral("\r"));
+			txt.remove(QStringLiteral("\n"));
+			info_.addValue(eipw->key(), txt);
+		}
+	}
+
+	for (const auto &custom : std::as_const(m_custom_eipw_list))
+	{
+		if (custom->hasValidKey() && !custom->value().isEmpty())
+		{
+			QString txt{custom->value()};
+			txt.remove(QStringLiteral("\r"));
+			txt.remove(QStringLiteral("\n"));
+			info_.addValue(custom->key(), txt);
+		}
+	}
+
+	// Save the auto numbering lock status
+	if (m_element->elementData().m_type == ElementData::Terminal) {
+		info_.addValue(QStringLiteral("auto_num_locked"), ui->m_auto_num_locked_cb->isChecked() ? QStringLiteral("true") : QStringLiteral("false"));
+
+		if (m_potential_isolating_cb) {
+			info_.addValue(QStringLiteral("potential_isolating"), m_potential_isolating_cb->isChecked() ? QStringLiteral("true") : QStringLiteral("false"));
+		}
+	}
+
+	if (m_exclude_from_bom_cb) {
+		info_.addValue(QStringLiteral("exclude_from_bom"), m_exclude_from_bom_cb->isChecked() ? QStringLiteral("true") : QStringLiteral("false"));
+	}
+	return info_;
+}
+/**
+	@brief ElementInfoWidget::firstActivated
+	Slot activated when this widget is show.
+	Set the focus to the first line edit provided by this widget
+*/
+void ElementInfoWidget::firstActivated()
+{
+	m_eipw_list.first() -> setFocusTolineEdit();
+}
+
+/**
+	@brief ElementInfoWidget::elementInfoChange
+	This slot is called when m_element::elementInformation change.
+*/
+void ElementInfoWidget::elementInfoChange()
+{
+	auto elmt_info = m_element->elementInformations();
+	auto current_info = currentInfo();
+
+		//If both info have a formula, we remove the label
+		//value before compare the equality, because the
+		//label of the information returned by the element
+		//can be different of the current label because
+		//updated by the element to reflect the actual
+		//displayed label according the current formula.
+	if (current_info.contains(QETInformation::ELMT_FORMULA) &&
+		elmt_info.contains(QETInformation::ELMT_FORMULA))
+	{
+		elmt_info.remove(QETInformation::ELMT_LABEL);
+		current_info.remove((QETInformation::ELMT_LABEL ));
+	}
+
+	if(current_info != elmt_info)
+		updateUi();
+}

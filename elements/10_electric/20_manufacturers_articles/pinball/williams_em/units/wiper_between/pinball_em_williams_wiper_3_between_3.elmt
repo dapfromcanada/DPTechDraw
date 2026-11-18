@@ -1,0 +1,41 @@
+<definition version="0.100.0" type="element" link_type="simple" width="80" height="130" hotspot_x="40" hotspot_y="15">
+    <uuid uuid="{e5f2f02c-cfe0-1373-d267-9ca27bb0c978}"/>
+    <names>
+        <name lang="ca">3 eixugaparabrises entre 3 parells de contacte</name>
+        <name lang="en">3 wipers between 3 contact pairs</name>
+        <name lang="nl">3 sleepcontacten tussen 3 contactparen</name>
+        <name lang="pt_BR">3 wipers between 3 contato pairs</name>
+        <name lang="zh">威廉姆斯弹球机电触点3中间3</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <line x1="-5" y1="40" x2="5" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="20" x2="5" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="5" y="75" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-5" y1="20" x2="-2" y2="17" x3="-2" y3="23" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <polygon x1="-5" y1="40" x2="-2" y2="37" x3="-2" y3="43" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <polygon x1="2" y1="37" x2="5" y2="40" x3="2" y3="43" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <polygon x1="2" y1="17" x2="5" y2="20" x3="2" y3="23" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <ellipse x="5" y="95" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="5" y="55" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-10" width="40" height="120" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="95" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="75" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="55" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="0" x2="5" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="60" x2="30" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="80" x2="30" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="100" x2="30" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="60" x2="-15" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="80" x2="-16" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="100" x2="-16" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-5" y1="0" x2="-2" y2="-3" x3="-2" y3="3" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <polygon x1="2" y1="-3" x2="5" y2="0" x3="2" y3="3" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <terminal uuid="{d0554426-73dc-4ce1-bec5-ac1cc71458f0}" name="" x="30" y="100" orientation="e" type="Generic"/>
+        <terminal uuid="{ba413bd8-bf1a-45c1-a1a3-e4dc7afb58ca}" name="" x="-30" y="80" orientation="w" type="Generic"/>
+        <terminal uuid="{e411bae6-0e90-4226-88eb-b88c599c29fd}" name="" x="-30" y="60" orientation="w" type="Generic"/>
+        <terminal uuid="{c52d5038-db48-41c3-acbc-b11cf025cde3}" name="" x="30" y="60" orientation="e" type="Generic"/>
+        <terminal uuid="{b327e422-0842-49df-a269-186deaf9e2fc}" name="" x="30" y="80" orientation="e" type="Generic"/>
+        <terminal uuid="{8012c0dc-90bd-4b87-b8f6-cf01dc27d334}" name="" x="-30" y="100" orientation="w" type="Generic"/>
+    </description>
+</definition>

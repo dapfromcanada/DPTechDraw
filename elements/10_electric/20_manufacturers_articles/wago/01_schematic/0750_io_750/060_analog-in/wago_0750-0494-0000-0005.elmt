@@ -1,0 +1,61 @@
+<definition version="0.80" type="element" link_type="simple" width="730" height="110" hotspot_x="365" hotspot_y="51">
+    <uuid uuid="{142f1634-a11f-07e5-039d-e1dbe957cdf6}"/>
+    <names>
+        <name lang="ca">750-494/000-005</name>
+        <name lang="cs">750-494/000-005</name>
+        <name lang="de">750-494/000-005</name>
+        <name lang="en">750-494/000-005</name>
+        <name lang="fr">750-494/000-005</name>
+        <name lang="pt_BR">750-494/000-005</name>
+        <name lang="zh">WAGO 0750-0494 模拟量输入模块 (5线制)</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">3-phase power measurement, AC/DC 277V, external Shunts</elementInformation>
+        <elementInformation show="1" name="designation">750-494/000-005</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="IL1" x="41" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IL2" x="121" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IN" x="281" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IL3" x="201" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="197.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-242.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-162.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="277.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-282.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-202.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="117.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <dynamic_text x="220" y="29.5" z="14" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{56441483-5a4c-4bf3-8128-50d2d6b4c0ef}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="2" x="-236" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L2" x="-239" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="205" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3-ph. power meas., AC/DC 277V, ext. Shunts" x="-120" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="WAGO 750-494/000-005" x="-330" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="44" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="N" x="-159" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-154" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-276" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L1" x="-279" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="286" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="124" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L3" x="-198" y="-24" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-194" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-160" y1="-40" x2="-160" y2="0" x3="280" y3="0" x4="280" y4="-40" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{1b3043ab-5be1-d870-af9c-d47cd7680b84}" name="1" x="-280" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{2705f3a3-38e1-b96a-7f89-2b0408a84dff}" name="2" x="-240" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{a3b75dc4-86eb-12bf-8509-19eb95da2322}" name="3" x="-200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{82d5751c-b191-55e7-6731-b5bb291be1d2}" name="4" x="-160" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{7d711639-0954-0ad3-d4d0-e1883566c388}" name="5" x="40" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{d5b80401-b9ab-e65d-34ac-efb6b14b62eb}" name="6" x="120" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{a1de0255-b3ba-6a73-5a6c-1f80c7090d3e}" name="7" x="200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{d7561777-fd27-c87d-4d73-034beb8a6dcc}" name="8" x="280" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

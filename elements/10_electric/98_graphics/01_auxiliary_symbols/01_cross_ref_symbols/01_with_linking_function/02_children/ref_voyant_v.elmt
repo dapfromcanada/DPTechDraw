@@ -1,0 +1,26 @@
+<definition version="0.100.0" type="element" link_type="previous_report" width="30" height="20" hotspot_x="15" hotspot_y="16">
+    <uuid uuid="{5cdddc3b-b932-513a-1e39-94ca32498dd6}"/>
+    <names>
+        <name lang="ar">مرجع مُؤشر ضوئي</name>
+        <name lang="ca">llum de referència</name>
+        <name lang="cs">Odkaz_3 - Kontrolka (svisle)</name>
+        <name lang="en">reference light</name>
+        <name lang="fr">Reference voyant</name>
+        <name lang="it">Rif. spia luminosa / (verticale)</name>
+        <name lang="nl">referentie vorig lamp</name>
+        <name lang="pl">Odsyłacz 3 (pionowo)</name>
+        <name lang="pt_BR">Luz de referência</name>
+        <name lang="zh">指示灯垂直参考</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line x1="3" y1="-3" x2="7" y2="-7" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="3" y1="-7" x2="7" y2="-3" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="1.5" y="-8.5" width="7" height="7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-4" y="-7" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2589a2d9-a295-4e83-97d1-372b6f713712}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>/</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

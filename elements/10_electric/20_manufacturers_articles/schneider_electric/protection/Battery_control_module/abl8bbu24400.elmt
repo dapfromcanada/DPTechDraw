@@ -1,0 +1,36 @@
+<definition version="0.100.0" type="element" link_type="master" width="90" height="310" hotspot_x="40" hotspot_y="154">
+    <uuid uuid="{61296e91-19c7-e82e-2163-b96b3f31e520}"/>
+    <names>
+        <name lang="ca">ABL8BBU24400</name>
+        <name lang="cs">ABL8BBU24400</name>
+        <name lang="en">ABL8BBU24400</name>
+        <name lang="pt_BR">ABL8BBU24400</name>
+        <name lang="zh">电池控制模块</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 06-14-03</informations>
+    <description>
+        <ellipse x="-28" y="-42.75" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-28" y="57.25" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="IN+" x="-20" y="-37" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BAT-" x="-20" y="63" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BAT+" x="-20" y="133" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="32.06" y="37.25" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="OUT+" x="11" y="-28" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="OUT-" x="12" y="42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-27.94" y="127.25" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="33.06" y="-32.75" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="IN-" x="-20" y="-107" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-28" y="-112.75" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="ABL8BBU24400" x="-18" y="-133" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-29.45" y="-149" width="70" height="300" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{7b98c615-b325-405f-9459-bf0960b16ef1}" name="" x="-29" y="60" orientation="w" type="Generic"/>
+        <terminal uuid="{dd4bbc18-a834-455f-af60-7b53452809ab}" name="" x="-30" y="-40" orientation="w" type="Generic"/>
+        <terminal uuid="{f79efea6-ce9c-4901-a5a6-119e49d4d7d5}" name="" x="-30" y="-110" orientation="w" type="Generic"/>
+        <terminal uuid="{82c61d24-0f61-4408-8f32-91b4943cfea0}" name="" x="-29" y="130" orientation="w" type="Generic"/>
+        <terminal uuid="{bd01b91b-d21d-4d41-9d15-15840a232e8e}" name="" x="40" y="40" orientation="e" type="Generic"/>
+        <terminal uuid="{1b326fc1-b964-41ee-a280-1501573270ad}" name="" x="40" y="-30" orientation="e" type="Generic"/>
+    </description>
+</definition>

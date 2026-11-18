@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Vysílače</name>
+        <name lang="de">Sender</name>
+        <name lang="el">Πομποί</name>
+        <name lang="en">Transmitters</name>
+        <name lang="es">Transmisores</name>
+        <name lang="fr">Transmetteurs</name>
+        <name lang="it">Transmettitori</name>
+        <name lang="ko">송신기</name>
+        <name lang="nl">Zenders</name>
+        <name lang="nl_BE">Zenders</name>
+        <name lang="pl">Nadajniki</name>
+        <name lang="pt_BR">Transmissores e Interfaces de Barramento KNX</name>
+        <name lang="ru">Передатчики</name>
+        <name lang="zh">变送器</name>
+    </names>
+</qet-directory>

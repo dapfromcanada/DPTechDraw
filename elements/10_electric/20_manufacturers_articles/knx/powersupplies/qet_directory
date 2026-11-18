@@ -1,0 +1,15 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Napájecí zdroje</name>
+        <name lang="de">Versorgungen</name>
+        <name lang="en">Power supplies</name>
+        <name lang="fr">Alimentations</name>
+        <name lang="it">Alimentatori</name>
+        <name lang="ko">전원 공급 장치</name>
+        <name lang="nl">Voedingen</name>
+        <name lang="nl_BE">Voedingen</name>
+        <name lang="pt_BR">Fontes de alimentacao</name>
+        <name lang="ru">Источники питания</name>
+        <name lang="zh">电源</name>
+    </names>
+</qet-directory>

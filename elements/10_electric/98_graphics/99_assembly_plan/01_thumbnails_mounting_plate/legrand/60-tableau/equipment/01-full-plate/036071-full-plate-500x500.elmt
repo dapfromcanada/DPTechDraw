@@ -1,0 +1,19 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="1030" height="1030" hotspot_x="2" hotspot_y="2">
+    <uuid uuid="{7c54e218-cdae-bfdd-ccb4-5b8998c370b4}"/>
+    <names>
+        <name lang="ca">036071 - Placa massissa 500x500 Atlantic/Marina</name>
+        <name lang="cs">036071 - Montážní deska 500x500 Atlantic/Marina</name>
+        <name lang="fr">036071 - Plaque pleine 500x500 Atlantic/Marina</name>
+        <name lang="pt_BR">036071 - Plaque pleine 500x500 Atlantic/Marina</name>
+        <name lang="zh">036071-整板-500x500</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Plaque pleine pour coffret Atlantic , Atlantic Inox et Marina hauteur 500 x largeur 500</elementInformation>
+        <elementInformation show="1" name="designation">036071</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud VALMARY</informations>
+    <description>
+        <polygon x1="983" y1="35" x2="983" y2="20" x3="978" y3="15" x4="960" y4="15" x5="950" y5="0" x6="76" y6="0" x7="65" y7="15" x8="46" y8="15" x9="42" y9="20" x10="42" y10="35" x11="41" y11="38" x12="39" y12="42" x13="35" y13="44" x14="29" y14="44" x15="25" y15="42" x16="23" y16="38" x17="22" y17="35" x18="22" y18="20" x19="18" y19="15" x20="5" y20="15" x21="0" y21="20" x22="0" y22="1005" x23="5" y23="1010" x24="17" y24="1010" x25="22" y25="1005" x26="22" y26="991" x27="23" y27="987" x28="25" y28="983" x29="29" y29="981" x30="35" y30="981" x31="39" y31="983" x32="41" y32="987" x33="42" y33="991" x34="42" y34="1005" x35="47" y35="1010" x36="65" y36="1010" x37="75" y37="1025" x38="950" y38="1025" x39="960" y39="1010" x40="978" y40="1010" x41="983" y41="1005" x42="983" y42="990" x43="984" y43="985" x44="987" y44="982" x45="990" y45="981" x46="995" y46="981" x47="999" y47="982" x48="1002" y48="985" x49="1003" y49="990" x50="1003" y50="1005" x51="1008" y51="1010" x52="1020" y52="1010" x53="1025" y53="1005" x54="1025" y54="20" x55="1020" y55="15" x56="1007" y56="15" x57="1003" y57="20" x58="1003" y58="35" x59="1002" y59="38" x60="1000" y60="42" x61="996" y61="44" x62="990" y62="44" x63="986" y63="42" x64="984" y64="38" antialias="true" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+    </description>
+</definition>

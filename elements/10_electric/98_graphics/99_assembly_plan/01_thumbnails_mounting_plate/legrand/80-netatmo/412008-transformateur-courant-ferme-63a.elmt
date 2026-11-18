@@ -1,0 +1,24 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="80" height="70" hotspot_x="36" hotspot_y="35">
+    <uuid uuid="{26d9cd0c-c09a-2c88-5fcb-2de0cde7120f}"/>
+    <names>
+        <name lang="ca">412008 - Transformador de corrent tancat 60A</name>
+        <name lang="cs">412008 - Proudový transformátor 60A</name>
+        <name lang="fr">412008 - Transformateur de courant fermé 60A</name>
+        <name lang="pt_BR">412008 - Transformador de corrente fechado 60A</name>
+        <name lang="zh">412008-电流互感器-闭合式-63A</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Transformateur de courant fermé 63A maximum à connexion rapide</elementInformation>
+        <elementInformation show="1" name="designation">4 120 08</elementInformation>
+    </elementInformations>
+    <informations>Arnaud Valmary</informations>
+    <description>
+        <arc x="-32.5" y="-32.5" width="65" height="65" start="0" angle="30" style="line-style:normal;line-weight:eleve;filling:black;color:black" antialias="true"/>
+        <ellipse x="-30" y="-30" width="60" height="60" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="true"/>
+        <ellipse x="-15" y="-15" width="30" height="30" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="4 120 08" x="-15" y="-18" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="Imax=63A" x="19" y="-11" rotation="90" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="Legrand" x="-21" y="10" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <terminal uuid="{474cc357-b9ea-42fb-a289-d172b867fd25}" name="" x="33" y="3" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,103 @@
+<definition version="0.100.0" type="element" link_type="simple" width="740" height="110" hotspot_x="370" hotspot_y="53">
+    <uuid uuid="{93c9b67a-d9bb-9a3c-dee6-1b90050fe6e7}"/>
+    <names>
+        <name lang="ca">UR20-4AI-TC-DIAG</name>
+        <name lang="cs">UR20-4AI-TC-DIAG</name>
+        <name lang="de">UR20-4AI-TC-DIAG</name>
+        <name lang="en">UR20-4AI-TC-DIAG</name>
+        <name lang="fr">UR20-4AI-TC-DIAG</name>
+        <name lang="pt_BR">UR20-4AI-TC-DIAG</name>
+        <name lang="zh">UR20-4AI-TC-DIAG 4通道热电偶输入诊断模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">UR20-4AI-TC-DIAG</elementInformation>
+        <elementInformation show="1" name="manufacturer">Weidmüller</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-360" y="-50" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <line x1="-360" y1="-10" x2="360" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <text text="3.3" x="93" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC2–" x="132" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC3–" x="252" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.2" x="213" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.2" x="53" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC2–" x="92" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC3–" x="292" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.3" x="253" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.1" x="13" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC2+" x="52" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC0+" x="-308" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.4" x="293" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.4" x="133" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC3+" x="172" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC3+" x="212" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="209" y="-52.5" z="19" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{04a2e894-e626-4473-967e-b3d20dd0f991}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="4.1" x="173" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-360" y1="-30" x2="360" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <text text="1.3" x="-227" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC0–" x="-188" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC1–" x="-68" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2.2" x="-107" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1.2" x="-267" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC0–" x="-228" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC1–" x="-28" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2.3" x="-67" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1.1" x="-307" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC0+" x="-268" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC2+" x="12" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2.4" x="-27" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1.4" x="-187" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="UR20-4AI-TC-DIAG" x="-340" y="-37" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CJC1+" x="-148" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TC1+" x="-108" y="38" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2.1" x="-147" y="48" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4-Channel AI, TC, Diagnosis" x="-127" y="-37" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-362" y1="-30" x2="-356" y2="-30" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="-32.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="-362" y1="-10" x2="-356" y2="-10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="-12.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="207.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="87.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="247.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-112.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="47.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="287.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-232.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="7.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="167.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-72.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="127.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-272.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-32.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-312.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-152.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-192.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="Vcc Outputs" x="283" y="-12" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Vcc Inputs" x="283" y="-32" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{4652a7a1-dd87-a407-1df7-179d6c9addb5}" name="Vcc.Inputs.In" x="-360" y="-30" orientation="w" type="Generic"/>
+        <terminal uuid="{11f25918-99d0-fe94-30f4-3b9ff0266bc7}" name="Vcc.Outputs.In" x="-360" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{b4597508-8cdc-3fe5-5959-781f5d2e81a8}" name="Vcc.Inputs.Out" x="360" y="-30" orientation="e" type="Generic"/>
+        <terminal uuid="{dbcdf056-162c-4c63-6ec2-84bb248b3b0a}" name="Vcc.Outputs.Out" x="360" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{695ebcf2-4918-5b90-c079-3d5b7177993f}" name="1.1" x="-310" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{a1623363-9782-8ab0-7f11-4519b6fcbd6e}" name="1.2" x="-270" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{f707cc6d-35e5-3a69-722b-a2fd22748c95}" name="1.3" x="-230" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{7516a305-b887-c87e-41f2-ab3049e6b660}" name="1.4" x="-190" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{25ef1844-b2d1-e378-9c1d-094948680e8f}" name="2.1" x="-150" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{1e56ad6f-11cb-b63a-349c-a5e02cc8ddea}" name="2.2" x="-110" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{1c5b6b42-ad18-a8d9-431e-a39b0ebe5ed1}" name="2.3" x="-70" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{9cd567d3-6448-fa46-f008-8eb81ce053ff}" name="2.4" x="-30" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{3fa1efa4-265f-5170-4f2b-7361da2f3fa4}" name="3.1" x="10" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{49acbd85-a4f6-1a9b-7adc-2027eceea4de}" name="3.2" x="50" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{a5e3f770-d088-8775-3ce5-310f3d809c5f}" name="3.3" x="90" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{d79531b7-3907-d2ca-23de-dcee892a0e47}" name="3.4" x="130" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{12c2de69-bedb-6cf9-a2b8-3ce33ca8ac7c}" name="4.1" x="170" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{8a144a45-7992-fcb1-64b6-1faf591be771}" name="4.2" x="210" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{9e658c25-b95c-598f-acaf-862657795454}" name="4.3" x="250" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{b4da8326-3c0f-d4ba-cbc7-d4a8af6f7395}" name="4.4" x="290" y="40" orientation="s" type="Generic"/>
+    </description>
+</definition>

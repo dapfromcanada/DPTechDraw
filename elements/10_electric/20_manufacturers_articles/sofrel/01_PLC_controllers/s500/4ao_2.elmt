@@ -1,0 +1,64 @@
+<definition version="0.80" type="element" link_type="simple" width="80" height="220" hotspot_x="7" hotspot_y="27">
+    <uuid uuid="{fa18ad16-9e0c-ce79-e31e-d173bb03c26f}"/>
+    <names>
+        <name lang="ca">Sofrel 4 DO</name>
+        <name lang="cs">Sofrel 4 DO</name>
+        <name lang="fr">Sofrel 4 DO</name>
+        <name lang="pt_BR">Sofrel 4 DO</name>
+        <name lang="zh">4AO_2模拟量输出模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Cartes de sorties digitales</elementInformation>
+        <elementInformation show="1" name="designation">4-DO</elementInformation>
+        <elementInformation show="1" name="manufacturer">Sofrel</elementInformation>
+    </elementInformations>
+    <informations>S.Deffaux</informations>
+    <description>
+        <text text="3B" x="5.5" y="139.75" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="4B" x="5.5" y="180" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="2B" x="5.5" y="99.75" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="0.5" y="150" width="20" height="40" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0.5" y="109.75" width="20" height="40" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0.5" y="69.75" width="20" height="40" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="4A" x="5.5" y="160" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="3A" x="5" y="120" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="2A" x="5" y="80" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="1B" x="5.5" y="59.75" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="B" x="25.5" y="95" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="0.5" y="29.75" width="20" height="40" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="1A" x="5.5" y="39.75" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="B" x="25.5" y="135" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="20.5" y="110" width="50" height="40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="20.5" y="70" width="50" height="40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="30" y="75" width="5" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="30" y="115" width="5" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="A" x="25.5" y="122" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="A" x="25.5" y="82" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="30" y="85" width="5" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="30" y="125" width="5" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <text text="B" x="26" y="55" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="20.5" y="30" width="50" height="40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="30.5" y="35" width="5" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="A" x="26" y="42" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="30.5" y="35" width="4" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <text text="B" x="26" y="175" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="20.5" y="150" width="50" height="40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="30.5" y="155" width="5" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="A" x="26" y="162" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <rect x="30.5" y="165" width="5" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="0.5" y="0" width="70" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Réglage sortie" x="11.5" y="7" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="A=NO" x="10.5" y="19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="B=NF" x="10.5" y="29" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CARTE DO" x="5.5" y="-15" rotation="0" font="Liberation Sans,9,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="S550" x="22.5" y="-4" rotation="0" font="Liberation Sans,9,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <terminal uuid="{8227dcaa-f0e8-4961-8c7e-2580a29503a5}" name="" x="1" y="80" orientation="w" type="Generic"/>
+        <terminal uuid="{a6eef877-2678-490f-89dd-bef574754c11}" name="" x="1" y="120" orientation="w" type="Generic"/>
+        <terminal uuid="{36c2fc4c-cdbd-4a92-9fa3-cc78ce98c557}" name="" x="1" y="60" orientation="w" type="Generic"/>
+        <terminal uuid="{eb28cdc0-4b18-4bc9-b826-0a9a54dae284}" name="" x="1" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{db625dfb-e4e1-421f-9271-2fa6d944fbf8}" name="" x="1" y="100" orientation="w" type="Generic"/>
+        <terminal uuid="{685d0b30-4092-435b-8627-856fc3d4f28b}" name="" x="1" y="140" orientation="w" type="Generic"/>
+        <terminal uuid="{a6f5e6b0-4319-40ce-89d9-c39158ba8f04}" name="" x="1" y="180" orientation="w" type="Generic"/>
+        <terminal uuid="{b95464d1-6d83-491c-bfa3-e0371bd53c7e}" name="" x="1" y="160" orientation="w" type="Generic"/>
+    </description>
+</definition>

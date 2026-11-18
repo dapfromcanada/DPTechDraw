@@ -1,0 +1,69 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="90" hotspot_x="20" hotspot_y="35">
+    <uuid uuid="{194de1ad-096e-9628-4368-f20757cad45c}"/>
+    <names>
+        <name lang="ca">DX9100 Bus N2 / XT</name>
+        <name lang="cs">DX9100 Bus N2 / XT</name>
+        <name lang="en">DX9100 Bus N2 / XT</name>
+        <name lang="es">DX9100 Bus N2 / XT</name>
+        <name lang="fr">DX9100 Bus N2 / XT</name>
+        <name lang="it">DX 9100 Bus N2 / XT</name>
+        <name lang="nl">DX9100 Bus N2 / XT</name>
+        <name lang="pl">DX9100 - złącze komunikacyjne N2/XT</name>
+        <name lang="pt_BR">DX-9100 - Bloco de comunicação Barramento N2 / XT</name>
+        <name lang="zh">DX9100 总线</name>
+    </names>
+    <informations>ezza</informations>
+    <description>
+        <text text="XT" x="19" y="-4" rotation="-90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="40" y1="-30" x2="50" y2="-30" x3="60" y3="-10" x4="60" y4="9" x5="60" y5="30" x6="50" y6="50" x7="41" y7="50" closed="false" antialias="false" style="line-style:dotted;line-weight:thin;filling:none;color:black"/>
+        <rect x="10" y="-30" width="30" height="40" rx="0" ry="0" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="N2" x="24" y="36" rotation="-90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RT +" x="-4" y="-1" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RT -" x="-4" y="29" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="40" y1="10" x2="40" y2="50" x3="15" y3="50" x4="15" y4="10" closed="false" antialias="false" style="line-style:dashed;line-weight:normal;filling:none;color:black"/>
+        <text text="Com" x="-4" y="-21" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RT -" x="-4" y="-11" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="34" y="-21" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RT +" x="-4" y="39" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Com" x="-4" y="19" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="34" y="-11" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="34" y="31" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="34" y="40" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="34" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="34" y="-1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="58" y="8" width="4" height="4" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="true"/>
+        <ellipse x="27.5" y="-12.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="27.5" y="37.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="27.5" y="-2.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="27.5" y="27.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="27.5" y="-22.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="27.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="29" y1="-19" x2="31" y2="-21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="-9" x2="31" y2="-11" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="-1" x2="31" y2="1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="29" x2="31" y2="31" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="21" x2="31" y2="19" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="39" x2="31" y2="41" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="23" y1="-26" x2="23" y2="6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="37.5" y="26" z="32" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="-90" keep_visual_rotation="false" text_from="UserText" uuid="{6ead8b97-40eb-4cb8-814d-477c13c2f3a4}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>DX n°</text>
+        </dynamic_text>
+        <line x1="-10" y1="-20" x2="27" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-10" x2="27" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="0" x2="27" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="20" x2="17" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="30" x2="17" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="40" x2="17" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="0" y="-52.5" z="39" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f0f106ec-ff9a-423b-9f4e-0a2de3e59283}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{52df416a-4c60-4630-9e95-fee0d56326fe}" name="" x="-10" y="30" orientation="w" type="Generic"/>
+        <terminal uuid="{a3ee892f-2e3e-4bd6-9988-9ce59ffc14fc}" name="" x="-10" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{9634b138-b50c-449a-a118-84389f959c70}" name="" x="-10" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{e80c5829-08f4-45fa-b851-443ba783dbfd}" name="" x="-10" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{cf81c150-c977-4b18-843d-5fd72cc323cf}" name="" x="-10" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{8e993a8a-90a2-4c37-8e09-a29d241dd401}" name="" x="-10" y="-20" orientation="w" type="Generic"/>
+        <terminal uuid="{cccda3bd-49b1-4dab-b670-aa38f99951d0}" name="" x="60" y="10" orientation="e" type="Generic"/>
+    </description>
+</definition>

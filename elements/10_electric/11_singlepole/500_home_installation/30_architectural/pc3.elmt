@@ -1,0 +1,33 @@
+<definition version="0.100.0" type="element" link_type="simple" width="30" height="40" hotspot_x="15" hotspot_y="34">
+    <uuid uuid="{f44d4162-1d04-b019-dd41-17661dfa5a18}"/>
+    <names>
+        <name lang="ar">قاعدة لعدّة مقابس تيّار</name>
+        <name lang="ca">Base per a múltiples preses de corrent</name>
+        <name lang="cs">Vícenásobná zásuvka</name>
+        <name lang="de">Mehrfachsteckdose</name>
+        <name lang="el">Ρευματοδότης 3πλος</name>
+        <name lang="en">Multiple socket outlet (power)
+ The symbol is shown with three
+outlets.</name>
+        <name lang="fr">Socle pour plusieurs prises de courant</name>
+        <name lang="it">Presa multipla</name>
+        <name lang="nl">Wandcontactdoos (3)</name>
+        <name lang="pl">Gniazdo potrójne</name>
+        <name lang="pt_BR">Base para varias tomadas</name>
+        <name lang="zh">电源插座3</name>
+    </names>
+    <informations>EN 60617: 11-13-02</informations>
+    <description>
+        <dynamic_text x="-1" y="-39" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{6430f16c-d207-49ce-b2b0-925a08377ead}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="4" y="-24" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{99d39ba2-7162-4ef5-a627-616fa314da95}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>3</text>
+        </dynamic_text>
+        <line x1="2" y1="-6" x2="7" y2="-12" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-10" y="-9" width="20" height="20" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="0" y1="-10" x2="0" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{042c5f09-9d4f-4c02-948f-90e8ed804479}" name="" x="0" y="-20" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="ar">حسّاسات سعوية</name>
+        <name lang="cs">Kapacitní snímače</name>
+        <name lang="de">Sensoren kapazitiv</name>
+        <name lang="el">Χωρητικοί αισθητήρες</name>
+        <name lang="en">Sensors capacitive</name>
+        <name lang="es">Sensores capacitivos</name>
+        <name lang="fr">Capteurs capacitifs</name>
+        <name lang="it">Sensori capacitivi</name>
+        <name lang="ko">유전율 센서</name>
+        <name lang="nl">Sensoren Capacitief</name>
+        <name lang="pl">Czujniki pojemnościowe</name>
+        <name lang="pt_BR">Sensores capacitivos</name>
+        <name lang="ru">Емкостные датчики</name>
+        <name lang="zh">电容式传感器</name>
+    </names>
+</qet-directory>

@@ -1,0 +1,103 @@
+<definition version="0.80" type="element" link_type="simple" width="210" height="110" hotspot_x="6" hotspot_y="10">
+    <uuid uuid="{0225db63-81bf-8dbf-5d8f-d95651915fbc}"/>
+    <names>
+        <name lang="ca">BMIO-01</name>
+        <name lang="fr">BMIO-01</name>
+        <name lang="pl">BMIO-01</name>
+        <name lang="pt_BR">BMIO-01</name>
+        <name lang="ru">BMIO-01</name>
+        <name lang="zh">BMIO-01 数字量输入输出模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">ABB</elementInformation>
+    </elementInformations>
+    <informations>Author: https://t.me/pandzmitriusz</informations>
+    <description>
+        <line x1="0" y1="0" x2="0" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="200" y1="0" x2="200" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="0" x2="200" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="80" y="19" z="13" text_width="0" Halignment="AlignHCenter" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{65dd0642-022e-fe4f-cec5-61932d6284bb}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DIO SRC</text>
+        </dynamic_text>
+        <dynamic_text x="61" y="22" z="13" text_width="0" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{5d1f00ac-5568-ad45-9b4e-522d69a9f501}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DIO2</text>
+        </dynamic_text>
+        <dynamic_text x="100" y="21" z="13" text_width="0" Halignment="AlignHCenter" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{54293bc4-9e6b-4493-00d5-d2ccfb98f172}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DIO COM</text>
+        </dynamic_text>
+        <line x1="0" y1="90" x2="200" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="0" y1="60" x2="80" y2="60" x3="80" y3="90" closed="false" antialias="false" style="line-style:dotted;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="80" y1="60" x2="200" y2="60" closed="false" antialias="false" style="line-style:dotted;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="120" y1="0" x2="120" y2="60" closed="false" antialias="false" style="line-style:dotted;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text x="61" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{2b8af1e5-1d98-4781-fd2b-a7bc6b980c12}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>Shield</text>
+        </dynamic_text>
+        <dynamic_text x="1" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{fa9529d3-dc7f-3ff8-4a8f-2c3c96eff38e}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>B+</text>
+        </dynamic_text>
+        <dynamic_text x="41" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{0398f77d-905a-1869-4732-ff011527528d}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>BGND</text>
+        </dynamic_text>
+        <dynamic_text x="121" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{952f9b4b-cc61-76a5-3bc5-1777b5e0cb76}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>SRC</text>
+        </dynamic_text>
+        <dynamic_text x="141" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{d7a2edd1-64ea-c11d-2576-511c944f88b2}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>+10V</text>
+        </dynamic_text>
+        <dynamic_text x="21" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{a20e057e-3e36-d83e-a9d8-00850dabb3ef}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>A-</text>
+        </dynamic_text>
+        <dynamic_text x="81" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{93ae846e-1409-6b4a-163a-c42029315037}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>AO</text>
+        </dynamic_text>
+        <dynamic_text x="101" y="88" z="22" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{19a8e27d-fc32-48f4-fa0b-fdda984159c9}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>AGND</text>
+        </dynamic_text>
+        <dynamic_text x="181" y="23" z="33" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{e290aeb3-11ee-dc9c-7a47-715aaff985aa}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>AGND</text>
+        </dynamic_text>
+        <dynamic_text x="161" y="18" z="34" text_width="-1" Halignment="AlignRight" Valignment="AlignVCenter" frame="true" rotation="270" text_from="UserText" uuid="{bcd1d331-d0be-9594-0962-63bd2a80c123}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>AI2</text>
+        </dynamic_text>
+        <dynamic_text x="141" y="23" z="35" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{563b751d-7c00-66e1-4a74-674111dd5e53}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>AGND</text>
+        </dynamic_text>
+        <dynamic_text x="121" y="18" z="36" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{fec6da35-75c7-5904-a7d3-504fe94cfaed}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>AI1</text>
+        </dynamic_text>
+        <dynamic_text x="21" y="18" z="38" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{b4e38fb7-2568-eeac-0dd6-065ffd4baab7}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DI4</text>
+        </dynamic_text>
+        <dynamic_text x="41" y="22" z="38" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{cf1998c5-baae-8e4b-5ada-255155f2fc94}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DIO1</text>
+        </dynamic_text>
+        <dynamic_text x="1" y="18" z="38" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="true" rotation="270" text_from="UserText" uuid="{91dcae33-7168-f75f-c582-ab346fdd5c92}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>DI3</text>
+        </dynamic_text>
+        <dynamic_text x="10" y="40" z="126" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="UserText" uuid="{aa0575d7-d076-0084-b5b0-cbfc985171ec}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>BMIO-01</text>
+        </dynamic_text>
+        <dynamic_text x="10" y="-31" z="127" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{66ea1d53-0ab2-6d1e-253e-ade3733edc00}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{641997c6-f86e-4627-94e5-953da5d3a47f}" name="" x="70" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{c25844da-47b9-4b38-a386-c60e1efb3c47}" name="" x="170" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{e0e15175-09cc-4951-92de-5bdd15620118}" name="" x="130" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{65050ad7-08f5-47b9-8715-5b144692a34d}" name="201" x="90" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{c0b808f5-2dd8-452a-8d2e-2289987278f0}" name="" x="70" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{cac0ea20-aeb8-49bf-8087-64545546e93c}" name="" x="30" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{21277c2b-c8c4-4043-b98e-a785535f2998}" name="" x="190" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{97ee1a8a-a3ed-41f5-8fd2-c6e325218f23}" name="" x="30" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{0d3ec2be-91b0-4105-96ca-4c6220bf2049}" name="" x="110" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{819aa66b-654b-441c-a5b2-6378cb7a5cb7}" name="" x="50" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{7b0aa718-8aa9-4167-8870-ab1599eed78d}" name="" x="90" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{0ca46012-713f-4065-bd15-0306abf28845}" name="" x="150" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{3eb5128a-dc0f-40c1-8166-7cc1aff242db}" name="" x="130" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{747f01f4-c770-4ef4-a51b-724288a16b20}" name="" x="10" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{9f649c2a-8231-4b6d-933f-51ad1cc06f45}" name="" x="150" y="90" orientation="s" type="Generic"/>
+        <terminal uuid="{482cf50c-3e53-45a0-b335-702d46c0f270}" name="" x="10" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{27e706cb-f637-4fad-b8ca-9868140f931e}" name="" x="110" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{bc9db822-2fd0-4936-a08e-5b4a353eb7ae}" name="" x="50" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

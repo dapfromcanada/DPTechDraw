@@ -1,0 +1,51 @@
+<definition version="0.100.0" type="element" link_type="simple" width="130" height="220" hotspot_x="64" hotspot_y="112">
+    <uuid uuid="{0b3e5b9b-54db-dc53-d778-7f825845fce3}"/>
+    <names>
+        <name lang="ca">GCE-X200PH</name>
+        <name lang="cs">GCE-X200PH</name>
+        <name lang="fr">GCE-X200PH</name>
+        <name lang="pt_BR">Módulo de expansão para sensor de pH e medição de piscina GCE X200-pH</name>
+        <name lang="zh">GCE X200 PH pH计模块</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="34" y="-99" width="1.75" height="3.5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="P2" x="17" y="-71" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-10" y="-99" width="1.75" height="3.5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-8" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <ellipse x="-24" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <rect x="13.67" y="-102.89" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="RJ11" x="-19" y="76" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="11.25" y="-98" width="1.75" height="3.5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="1      2      3      4" x="-39" y="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-19" y1="78" x2="-1" y2="78" x3="-1" y3="87" x4="-7" y4="87" x5="-7" y5="91.5" x6="-13" y6="91.5" x7="-13" y7="87" x8="-19" y8="87" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-24" y="68" width="27" height="29" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="8" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <rect x="-59" y="-83" width="120" height="180" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="IN" x="-42" y="85" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="OUT" x="-18" y="86" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-42" y1="-15" x2="-32" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-40" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <rect x="28" y="-15" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Sel" x="33" y="-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GCE Electronics" x="-10" y="33" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="40" y1="37" x2="20" y2="37" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:eleve;filling:none;color:green" antialias="false"/>
+        <dynamic_text x="-48" y="-31" z="22" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{eb31f6ef-fd06-4180-b90d-bf1b2a0013a7}" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-47" y1="78" x2="-29" y2="78" x3="-29" y3="87" x4="-35" y4="87" x5="-35" y5="91.5" x6="-41" y6="91.5" x7="-41" y7="87" x8="-47" y8="87" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-52" y="68" width="28" height="29" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="RJ11" x="-46" y="76" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BUS V3" x="-39" y="67" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-52" y="58" width="55" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-52" y="-32" width="106" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-30.33" y="-102.89" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-32.75" y="-98" width="1.75" height="3.5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="P1" x="-25" y="-70" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{c16ed3cc-a58c-4946-88d3-60e34203a6a8}" name="" x="-20" y="-102" orientation="n" type="Generic"/>
+        <terminal uuid="{1e2c292a-44ec-4b28-8f2e-c2aabd08fa53}" name="" x="-38" y="98" orientation="s" type="Generic"/>
+        <terminal uuid="{1a1c9741-7ade-4e1d-98b4-ef7285d19166}" name="" x="-10" y="98" orientation="s" type="Generic"/>
+        <terminal uuid="{be98837e-32fd-4cab-ac31-0a548a76d459}" name="" x="24" y="-102" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="ar">حسّاسات فوق صوتيّة</name>
+        <name lang="cs">Ultrazvukové snímače</name>
+        <name lang="de">Sensoren Ultraschall</name>
+        <name lang="el">Αισθητήρες υπερήχων</name>
+        <name lang="en">Sensors ultrasonic</name>
+        <name lang="es">Sensor ultrasónico</name>
+        <name lang="fr">Capteurs ultrasons</name>
+        <name lang="it">Sensori ultrasonici</name>
+        <name lang="ko">초음파 센서</name>
+        <name lang="nl">Ultrasoon</name>
+        <name lang="pl">Czujniki ultradźwiękowe</name>
+        <name lang="pt_BR">Sensores ultrassônicos</name>
+        <name lang="ru">Ультразвуковые датчики</name>
+        <name lang="zh">超声波传感器</name>
+    </names>
+</qet-directory>

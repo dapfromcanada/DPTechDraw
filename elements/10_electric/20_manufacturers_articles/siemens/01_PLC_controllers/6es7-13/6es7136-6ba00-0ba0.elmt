@@ -1,0 +1,69 @@
+<definition version="0.100.0" type="element" link_type="master" width="100" height="350" hotspot_x="10" hotspot_y="5">
+    <uuid uuid="{9cd8e175-9b4c-ab8d-469b-23f9b8902435}"/>
+    <names>
+        <name lang="ca">6ES7136-6BA00-0CA0 F-DI HF 8x24VDC</name>
+        <name lang="en">6ES7136-6BA00-0CA0 F-DI HF 8x24VDC</name>
+        <name lang="nl">6ES7136-6BA00-0CA0 F-DI HF 8x24VDC</name>
+        <name lang="pt_BR">Modulo de entradas de seguranca Siemens ET 200SP F-DI HF (6ES7 136-6BA00-0BA0, 8 entradas 24VDC FAILSAFE SIL2)</name>
+        <name lang="zh">6ES7136-6BA00-0BA0 模块</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">ET 200SP F-DI HF 8x24VDC</elementInformation>
+        <elementInformation show="1" name="designation">6ES7136-6BA00-0CA0</elementInformation>
+        <elementInformation show="1" name="manufacturer">SIEMENS</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="PROFIsafe" x="44" y="38" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="5" y="190" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="F.0" x="17" y="213" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".2" x="17" y="226" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="F.2" x="17" y="239" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="5" y="268" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="242" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="203" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="255" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="216" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="229" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="281" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="F.6" x="17" y="291" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".6" x="17" y="278" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="F.7" x="44.5" y="291" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".4" x="17" y="252" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="F.4" x="17" y="265" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="32.5" y="281" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="0" width="80" height="340" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="F.5" x="44.5" y="265" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="1" y1="174.58" x2="80.65" y2="174.58" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="F-DI" x="5" y="10" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="32.5" y="229" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="8x24VDC" x="4" y="23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="32.5" y="216" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="32.5" y="255" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="HF" x="66" y="10" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="10" y1="40" x2="70" y2="40" x3="70" y3="50" x4="65" y4="55" x5="65" y5="125" x6="70" y6="130" x7="70" y7="140" x8="10" y8="140" x9="10" y9="130" x10="15" y10="125" x11="15" y11="55" x12="10" y12="50" antialias="false" style="line-style:normal;line-weight:normal;filling:yellow;color:black"/>
+        <rect x="32.5" y="203" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="80" y1="30" x2="10" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="32.5" y="190" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="32.5" y="242" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="2" y="27" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text=".5" x="44.5" y="252" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="32.5" y="268" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="F.3" x="44.5" y="239" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".3" x="44.5" y="226" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".7" x="44.5" y="278" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="F.1" x="44.5" y="213" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".1" x="44.5" y="200" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6ES7136-6BA00-0CA0" x="2" y="172" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="10" y="320" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="PWR" x="24" y="333" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text=".0" x="17" y="200" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{9befd4fb-98c7-4dae-8139-61656e30d711}" name="" x="0" y="320" orientation="w" type="Generic"/>
+        <terminal uuid="{e0330bff-ed62-424c-87b3-09f128c03c91}" name="" x="0" y="330" orientation="w" type="Generic"/>
+        <terminal uuid="{c5995a69-afc8-4207-adbd-3eada446739b}" name="" x="80" y="330" orientation="e" type="Generic"/>
+        <terminal uuid="{ad3c06cd-a220-4954-8e43-4f22a405566c}" name="" x="80" y="320" orientation="e" type="Generic"/>
+    </description>
+</definition>

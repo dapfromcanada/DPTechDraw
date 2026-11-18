@@ -1,0 +1,32 @@
+<definition version="0.100.0" type="element" link_type="master" width="90" height="350" hotspot_x="7" hotspot_y="5">
+    <uuid uuid="{397643b3-c8b6-0d65-bc7e-0b4602009e26}"/>
+    <names>
+        <name lang="ca">PLANTILLA Mestra Siemens ET200 200SP</name>
+        <name lang="en">Siemens ET200 200SP Master TEMPLATE</name>
+        <name lang="nl">Siemens ET200 200SP Master TEMPLATE</name>
+        <name lang="pt_BR">Template de barramento Siemens SIMATIC ET 200SP (modelo mestre para diagramas)</name>
+        <name lang="zh">ET200SP 主模块</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">MASTER</elementInformation>
+        <elementInformation show="1" name="designation">6ES713</elementInformation>
+        <elementInformation show="1" name="manufacturer">SIEMENS</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="0" y="0" width="80" height="340" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="1" y1="174.58" x2="80.65" y2="174.58" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="XX" x="4" y="14" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IN/OUT" x="4" y="23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="ST" x="66" y="12" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="10" y1="40" x2="70" y2="40" x3="70" y3="50" x4="65" y4="55" x5="65" y5="125" x6="70" y6="130" x7="70" y7="140" x8="10" y8="140" x9="10" y9="130" x10="15" y10="125" x11="15" y11="55" x12="10" y12="50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="80" y1="30" x2="10" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="3" y="28" width="4" height="4" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="2.35" y="146.15" z="43" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{579788c3-d1cd-49db-95fe-09b1eb6f97b8}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>Master</text>
+        </dynamic_text>
+    </description>
+</definition>

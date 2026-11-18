@@ -1,0 +1,98 @@
+<definition version="0.90" type="element" link_type="simple" width="730" height="110" hotspot_x="362" hotspot_y="51">
+    <uuid uuid="{4ce1b49b-d6d4-3829-1b53-706180308022}"/>
+    <names>
+        <name lang="ca">UR20-FBC-CC</name>
+        <name lang="cs">UR20-FBC-CC</name>
+        <name lang="de">UR20-FBC-CC</name>
+        <name lang="en">UR20-FBC-CC</name>
+        <name lang="fr">UR20-FBC-CC</name>
+        <name lang="pt_BR">UR20-FBC-CC</name>
+        <name lang="zh">UR20-FBC-CC CC-Link现场总线耦合器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">UR20-FBC-CC</elementInformation>
+        <elementInformation show="1" name="manufacturer">Weidmüller</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="-42.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="SLD" x="-17.71" y="-18" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-22.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="X1.5" x="-17.69" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X1.4" x="-37.59" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="n.c." x="-37.59" y="-19" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DG" x="-57.69" y="-20" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DB" x="-77.56" y="-21" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-274" y="-11.5" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{0eade2e8-8ab3-424f-8809-ba9aaf87b3fe}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>1</text>
+        </dynamic_text>
+        <text text="Vcc Outputs" x="283" y="27" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="110" y1="-30" x2="110" y2="0" x3="120" y3="10" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <ellipse x="-62.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-82.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-102.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="209" y="-31" width="2" height="2" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <ellipse x="149" y="-31" width="2" height="2" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <text text="X1.1" x="-97.5" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="150" y1="-30" x2="150" y2="0" x3="160" y3="10" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="X1.2" x="-77.5" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X1.3" x="-57.5" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="109" y="-31" width="2" height="2" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <polygon x1="210" y1="-30" x2="210" y2="20" x3="220" y3="30" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="200" y1="-40" x2="200" y2="-30" x3="220" y3="-30" x4="220" y4="-40" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="100" y1="-40" x2="100" y2="-30" x3="120" y3="-30" x4="120" y4="-40" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="140" y1="-40" x2="140" y2="-30" x3="160" y3="-30" x4="160" y4="-40" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="Address:" x="-329" y="4" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="157.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="137.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="117.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="97.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="257.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="237.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="217.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="197.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line x1="210" y1="30" x2="358" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <line x1="110" y1="10" x2="358" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false"/>
+        <text text="UR20-FBC-CC" x="-330" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="−" x="257" y="-22" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="217" y="-22" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="−" x="157" y="-22" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="220" y="29.5" z="36" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{9598054e-7691-48e0-8c5b-e6c097bbf869}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="+" x="117" y="-22" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.1" x="102" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.2" x="123" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.3" x="143" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3.4" x="163" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.1" x="203" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.2" x="223" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.3" x="243" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4.4" x="263" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Fieldbus-Coupler CC-Link" x="-138" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <arc x="360" y="27.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <arc x="360" y="7.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <polygon x1="250" y1="-30" x2="250" y2="20" x3="260" y3="30" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="240" y1="-40" x2="240" y2="-30" x3="260" y3="-30" x4="260" y4="-40" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <ellipse x="249" y="-31" width="2" height="2" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <text text="Vcc System / Inputs" x="265" y="7" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DA" x="-97" y="-21" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{5731650e-058e-e620-d756-b22a69a44391}" name="Vcc.Inputs.Out" x="360" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{ac6abd72-a643-5abf-6f29-3cbe985f5974}" name="Vcc.Outputs.Out" x="360" y="30" orientation="e" type="Generic"/>
+        <terminal uuid="{d9360183-7d1d-bf9d-7a03-7dff222fdaca}" name="X1.1" x="-100" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{383d6234-39af-b40b-5cc9-84335fede344}" name="X1.2" x="-80" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{64fb4baf-d8be-56e5-48fd-6203cf3c7de3}" name="X1.3" x="-60" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{3d95c79b-1988-23c5-8416-cfefc38ecbe9}" name="X1.5" x="-20" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{7d5cc35e-0709-ad20-6f02-73d5e0315609}" name="3.1" x="100" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{f887f8c8-70cd-c92a-a327-96bd323de146}" name="3.2" x="120" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{728bed90-8641-6d72-1c3f-3948f7896917}" name="3.3" x="140" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{c026b99b-92f9-850e-bf27-415ec9de4284}" name="3.4" x="160" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{89762c64-b34a-fe56-0f1e-f715b5bd300b}" name="4.1" x="200" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{1646a137-d319-dc7a-530c-259e6ef16746}" name="4.2" x="220" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{b9b615f3-cd67-90f2-babf-005ebd2b9cab}" name="4.3" x="240" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{7e0bdccb-df45-de4a-6e9e-543404fdf028}" name="4.4" x="260" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

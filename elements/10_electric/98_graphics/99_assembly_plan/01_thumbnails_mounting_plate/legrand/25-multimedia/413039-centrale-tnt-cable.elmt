@@ -1,0 +1,79 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="490" height="220" hotspot_x="5" hotspot_y="10">
+    <uuid uuid="{47b974be-abba-0561-9014-48d6a1ad91dc}"/>
+    <names>
+        <name lang="ca">413039 - Unitat central automàtica Gigabit TNT Cable</name>
+        <name lang="cs">413039 - Centrální  multimediální přepínač</name>
+        <name lang="fr">413039 - Centrale automatique Gigabit TNT Câble</name>
+        <name lang="pt_BR">413039 - Centrale automatique Gigabit TNT Cabo</name>
+        <name lang="zh">TNT有线中心</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Centrale automatique Gigabit modulaire télévision TNT câble 8 sorties RJ45 - 12 modules</elementInformation>
+        <elementInformation show="1" name="designation">4 130 39</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud VALMARY</informations>
+    <description>
+        <rect x="0" y="0" width="480" height="200" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="466.25" y="119.19" width="2" height="13" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="466.75" y="129.69" width="1" height="1" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <dynamic_text x="0" y="-21.95" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{185c6802-06b8-4f9c-84ee-4ffb5720f7bd}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="0" y="50" width="480" height="100" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="4" y1="120" x2="4" y2="144" x3="6" y3="144" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:purple"/>
+        <polygon x1="6" y1="144" x2="8" y2="144" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:purple"/>
+        <dynamic_text x="465" y="136" z="8" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" text_from="ElementInfo" uuid="{e9015d33-dac1-4928-9c1a-0b9dc300e5da}" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular">
+            <text>4 130 39</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line x1="27" y1="144" x2="139" y2="144" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:purple" antialias="false"/>
+        <dynamic_text x="5.9" y="137.5" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{12f92c49-51df-46d1-9487-6330b21ab387}" font="Liberation Sans,3,-1,5,25,0,0,0,0,0,Regular">
+            <text>Legrand</text>
+            <info_name>manufacturer</info_name>
+        </dynamic_text>
+        <rect x="0" y="80" width="480" height="30" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="MULTIMEDIA GIGABIT CABLE &amp; TV AUTOMATIC SWITCH&#10;8 outputs&#10;5 - 65 MHz / 87 - 862 MHz" x="10" y="130" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   5" x="275.07" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   4" x="194.79" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   7" x="354.63" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   3" x="154.51" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   8" x="394.92" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   6" x="314.35" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   2" x="115.23" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RJ45&#10;   1" x="74.95" y="11.25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="142" y="140" width="13" height="2" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text="PHONE @" x="141" y="145" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="240" y="140" width="13" height="2" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text="LINE @" x="241" y="145" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="338" y="140" width="13" height="2" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text="TV @" x="341" y="145" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="441" y="140" width="13" height="2" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false"/>
+        <line x1="157" y1="144" x2="239" y2="144" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:purple" antialias="false"/>
+        <line x1="254" y1="144" x2="336" y2="144" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:purple" antialias="false"/>
+        <line x1="352" y1="144" x2="479" y2="144" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:purple" antialias="false"/>
+        <text text="🕻" x="214" y="68" rotation="20" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="📺" x="251" y="70" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="💻" x="230" y="58" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="🖧" x="230" y="78" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Power" x="451.74" y="191" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LAN@" x="321.81" y="191" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Phone@" x="290" y="191" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="TV@" x="354.29" y="191" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CABLE" x="12" y="191" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{da452c65-3c66-4fcf-8634-eddb1aaf6c39}" name="" x="200" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{1e346f23-d491-43c9-a759-5d744f1d346c}" name="" x="160" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{ccd659ff-ed74-43f4-ae20-29e429affb98}" name="" x="20" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{9ce2847f-0c12-4324-be67-554af9dcd6f6}" name="" x="280" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{a2b3abbf-a3ba-45e3-bbd4-ab242755961e}" name="" x="360" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{f6bfa59d-7d32-4a02-977b-9f1c9f0e0d11}" name="" x="360" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{e52cd5a7-4d94-43e0-9503-a6a3cd9290d3}" name="" x="460" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{d50900da-30eb-4ec0-859f-9b3790ac6ee1}" name="" x="330" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{4055f317-80e5-4ad1-8dbc-1d9e416d4be5}" name="" x="320" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{9432d62e-178f-4705-9fd5-2e5c20db2b45}" name="" x="300" y="200" orientation="s" type="Generic"/>
+        <terminal uuid="{63dad425-cfde-4a52-b27f-c95041411451}" name="" x="80" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{a409fb31-81cb-414e-b487-b461a5f6cf15}" name="" x="120" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{c2adba90-ccb7-4987-8bd4-0f5fcc5db96f}" name="" x="400" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

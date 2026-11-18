@@ -1,0 +1,29 @@
+<definition type="element" link_type="thumbnail" hotspot_x="25" hotspot_y="25" width="50" height="50" version="0.100.1">
+    <uuid uuid="{51bfd0e7-0bde-4b42-bec9-61b57a3d86d5}"/>
+    <names>
+        <name lang="ar">مُؤشّر ضوئي</name>
+        <name lang="ca">Llum</name>
+        <name lang="cs">Kontrolka</name>
+        <name lang="de">Meldeleuchte rot</name>
+        <name lang="el">Λάμπα</name>
+        <name lang="en">Light red</name>
+        <name lang="fr">Voyant rouge</name>
+        <name lang="it">Lampada spia rosso</name>
+        <name lang="nl">Lamp</name>
+        <name lang="pl">Lampka sygnalizacyjna</name>
+        <name lang="pt_BR">Luz vermelha</name>
+        <name lang="zh">红色指示灯</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle x="-22" y="-22" antialias="true" style="line-style:normal;line-weight:normal;filling:red;color:black" diameter="44"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-7" y="-45.5" z="2" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{56c7d17b-d17e-45b9-af0c-3c8239168d56}" keep_visual_rotation="true" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc x="-14" y="-14" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="90" width="28" height="28" angle="270"/>
+        <circle x="-20" y="-20" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="40"/>
+    </description>
+</definition>

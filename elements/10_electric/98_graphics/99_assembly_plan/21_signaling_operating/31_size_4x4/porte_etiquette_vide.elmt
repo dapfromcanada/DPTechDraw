@@ -1,0 +1,29 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="50" height="60" hotspot_x="25" hotspot_y="54">
+    <uuid uuid="{9057d317-d488-bd97-d35b-771f1ae37eba}"/>
+    <names>
+        <name lang="ar">حامل مُلصق فارغ</name>
+        <name lang="ca">Porta etiqueta verge</name>
+        <name lang="cs">Štítek ovladače bez označení</name>
+        <name lang="de">Schild leer</name>
+        <name lang="el">Ετικέτα πόρτας, κενή</name>
+        <name lang="en">Label holder virgin</name>
+        <name lang="fr">Porte étiquette vièrge</name>
+        <name lang="it">Etichetta vuota</name>
+        <name lang="nl">Label houder leeg</name>
+        <name lang="pl">Bez oznaczenia</name>
+        <name lang="pt_BR">identificacao holder virgin</name>
+        <name lang="zh">空标签框</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="-7" y="-79" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{344af8db-b714-47f1-adbd-24e9dc83f3d8}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-20" y="-48" width="40" height="24" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-22" y1="-50" x2="22" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-22" y1="-50" x2="-22" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="22" y1="-50" x2="22" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

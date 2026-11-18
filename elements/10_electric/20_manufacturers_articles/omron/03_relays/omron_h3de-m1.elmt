@@ -1,0 +1,41 @@
+<definition version="0.100.0" type="element" link_type="master" width="50" height="60" hotspot_x="20" hotspot_y="31">
+    <uuid uuid="{c7b05517-bfed-311f-e3a4-5e57e3a5225c}"/>
+    <names>
+        <name lang="ca">HDE-M1</name>
+        <name lang="cs">HDE-M1</name>
+        <name lang="de">HDE-M1</name>
+        <name lang="en">HDE-M1</name>
+        <name lang="fr">HDE-M1</name>
+        <name lang="pt_BR">Relé temporizador multifunção DIN Omron H3DE-M1 (12-230VAC/DC / 8 modos)</name>
+        <name lang="zh">欧姆龙H3DE-M1</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="9" y="-25" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{bea1bd4d-bb2b-4924-8318-ee6f65feb487}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>B1</text>
+        </dynamic_text>
+        <line x1="20" y1="-21" x2="20" y2="-9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="17" y="-8" width="6" height="16" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-20" x2="0" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-11" y="8" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{8e14747d-b662-48d3-ae9e-e7e8bd107bc8}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>A2</text>
+        </dynamic_text>
+        <dynamic_text x="-11" y="-25" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{0c469452-0765-4dfd-8475-5ad43870b559}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>A1</text>
+        </dynamic_text>
+        <line x1="0" y1="8" x2="0" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="7" y1="-8" x2="-11" y2="8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-12" y="-8" width="29" height="16" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="25" y="-13.5" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f44a7490-90c9-4c30-9ecc-0cf5ecd866b2}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{95082142-edc4-40cf-863c-ae9ff4ae500d}" name="" x="20" y="-21" orientation="n" type="Generic"/>
+        <terminal uuid="{8fd4cff1-22b5-4a2d-b70f-2e1b33f89985}" name="" x="0" y="-21" orientation="n" type="Generic"/>
+        <terminal uuid="{051dfcd3-eefe-421e-89a2-385a0f1f8098}" name="" x="0" y="21" orientation="s" type="Generic"/>
+    </description>
+</definition>

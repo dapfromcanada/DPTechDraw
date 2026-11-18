@@ -1,0 +1,9 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Terminály EtherCAT</name>
+        <name lang="de">EtherCAT-Klemmen</name>
+        <name lang="en">EtherCAT Terminals</name>
+        <name lang="fr">Bornes EtherCAT</name>
+        <name lang="pt_BR">Terminais EtherCAT Beckhoff</name>
+    </names>
+</qet-directory>

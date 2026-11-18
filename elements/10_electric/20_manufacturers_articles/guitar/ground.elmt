@@ -1,0 +1,25 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="30" hotspot_x="7" hotspot_y="15">
+    <uuid uuid="{58929dbc-2366-ceda-d9ab-688b6014de46}"/>
+    <names>
+        <name lang="ca">terra</name>
+        <name lang="cs">Kostra</name>
+        <name lang="en">ground</name>
+        <name lang="pt_BR">Aterramento de ponte e blindagem da guitarra</name>
+        <name lang="zh">接地</name>
+    </names>
+    <informations>Author: Thomas McMillan Grant Bennett
+Name: Ground
+Purpose:  To assiste in drawing guitar wiring diagrams
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line x1="40" y1="12" x2="40" y2="-13" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="45" y1="-8" x2="45" y2="8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="50" y1="-4" x2="50" y2="4" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="0" x2="40" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="4" y="-15.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a1e8a1a0-4cf8-44e5-aef5-9b77aa133115}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{846b9ac1-cb55-40ee-b798-43dae0af5fe3}" name="" x="0" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

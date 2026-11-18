@@ -1,0 +1,16 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Větrání</name>
+        <name lang="de">Lüftung</name>
+        <name lang="el">Εξαερισμός</name>
+        <name lang="en">Airing</name>
+        <name lang="es">Ventilación</name>
+        <name lang="fr">Ventilation</name>
+        <name lang="it">Ventilazione</name>
+        <name lang="ko">환기</name>
+        <name lang="nl">Lucht</name>
+        <name lang="pl">Wentylacja</name>
+        <name lang="pt_BR">Airing</name>
+        <name lang="zh">通风</name>
+    </names>
+</qet-directory>

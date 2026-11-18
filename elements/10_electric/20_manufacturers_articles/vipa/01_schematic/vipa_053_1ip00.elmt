@@ -1,0 +1,113 @@
+<definition version="0.100.0" type="element" link_type="simple" width="780" height="90" hotspot_x="5" hotspot_y="4">
+    <uuid uuid="{f5b1102d-c027-adb0-41c9-a33c6fcf2634}"/>
+    <names>
+        <name lang="ca">053-1IP00</name>
+        <name lang="cs">053-1IP00</name>
+        <name lang="de">053-1IP00</name>
+        <name lang="en">053-1IP00</name>
+        <name lang="pt_BR">053-1IP00</name>
+        <name lang="zh">VIPA 053-1IP00 模块</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <dynamic_text x="340" y="27.5" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{efa00c98-e05b-43e0-b69e-d06ca96b3a11}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <line x1="112" y1="29" x2="112" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="360" y="27.5" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{f8f94281-3df3-4403-ac2b-93c2f4dac27a}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <dynamic_text x="400" y="27.5" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{347c4615-58eb-4c2b-a342-a6c35304e340}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <dynamic_text x="380" y="27.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{3034b948-9b27-4307-8f3e-579d25e9eddc}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <text text="X1" x="132" y="47" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="114" y1="29" x2="114" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="122" y1="29" x2="122" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="116" y1="29" x2="116" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="IP ADR." x="295" y="20" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="118" y1="29" x2="118" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="383" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="8" x="375" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="363" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="16" x="383" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="64" x="405" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="32" x="394" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="365" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="403" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="2" x="356" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0" x="322" y="44" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="345" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="C" x="335" y="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="120" y1="29" x2="120" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="670" y="30" z="25" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{83156a86-f537-4c2b-930e-efea59384495}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>192.168.1.X</text>
+        </dynamic_text>
+        <rect x="343" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="124" y1="29" x2="124" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="670" y="20" z="28" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{eb56fe75-d61b-4e53-99fe-c6a80d6e09f0}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>255.0.0.0</text>
+        </dynamic_text>
+        <rect x="393" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="350" y="27.5" z="30" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{3abf1fff-602e-4670-93f4-b1feff41c730}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <dynamic_text x="390" y="27.5" z="31" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{442d3511-4a10-4fb4-95f3-832f45d11e69}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <line x1="128" y1="29" x2="128" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="370" y="27.5" z="33" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{97240be5-92d8-41ac-b019-d37687d2e4dc}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <rect x="373" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="480" y="40" z="35" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{ed8dbb3f-7668-4deb-a3a1-67ab257a096d}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>00:20:D5:XX:XX:XX</text>
+        </dynamic_text>
+        <line x1="126" y1="29" x2="126" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="MAC ADR.:" x="437" y="53" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="353" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="670" y="10" z="39" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{629be4a2-f800-40bf-9a75-d4773c6225f2}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text>192.168.1.X</text>
+        </dynamic_text>
+        <text text="VIPA" x="724" y="74" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IM 053IP" x="7" y="74" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="SUBNET:" x="636" y="33" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GATEWAY:" x="631" y="43" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="764" y="16" z="44" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{fb64f300-8061-4510-81cd-2c6f28e7b272}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>SLOT X</text>
+        </dynamic_text>
+        <line x1="0" y1="0" x2="760" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="764" y="-3" z="46" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c1108a48-ed6f-4afb-aa65-ee69e0246aa1}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="0" y1="80" x2="760" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="60" x2="760" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="0" x2="0" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="760" y1="0" x2="760" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="IP:" x="660" y="23" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="620" y="5" width="135" height="50" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="053-1IP00" x="340" y="74" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="105" y="6" width="30" height="30" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="107" y1="34" x2="133" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="133" y1="34" x2="133" y2="14" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="125" y1="9" x2="115" y2="9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="125" y1="14" x2="133" y2="14" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="115" y1="14" x2="107" y2="14" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="115" y1="9" x2="115" y2="14" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="125" y1="9" x2="125" y2="14" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="107" y1="14" x2="107" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="110" y1="34" x2="110" y2="29" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="110" y1="29" x2="130" y2="29" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="130" y1="29" x2="130" y2="34" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="331" y="11" width="84" height="37" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="330" y="27.5" z="67" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{b697fb49-0766-4951-be2d-3d8f93f366c2}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text>[]</text>
+        </dynamic_text>
+        <rect x="333" y="23" width="10" height="23" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="1" x="322" y="32" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{f708a7c5-7bbf-4caf-a632-6b88c04f26ee}" name="X1" x="120" y="10" orientation="n" type="Generic"/>
+    </description>
+</definition>

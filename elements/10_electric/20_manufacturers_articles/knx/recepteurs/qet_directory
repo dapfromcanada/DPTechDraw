@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Přijímače</name>
+        <name lang="de">Empfänger</name>
+        <name lang="el">Δέκτες</name>
+        <name lang="en">Receivers</name>
+        <name lang="es">Receptores</name>
+        <name lang="fr">Récepteurs</name>
+        <name lang="it">Ricevitori</name>
+        <name lang="ko">수신기</name>
+        <name lang="nl">Ontvangers</name>
+        <name lang="nl_BE">Ontvangers</name>
+        <name lang="pl">Odbiorniki</name>
+        <name lang="pt_BR">Receptores e Decodificadores IR KNX</name>
+        <name lang="ru">Приёмники</name>
+        <name lang="zh">接收器</name>
+    </names>
+</qet-directory>

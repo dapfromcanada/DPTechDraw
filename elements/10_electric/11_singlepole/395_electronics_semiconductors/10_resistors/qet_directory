@@ -1,0 +1,19 @@
+<qet-directory>
+    <names>
+        <name lang="ar">مُقاومة</name>
+        <name lang="cs">Rezistory</name>
+        <name lang="de">Widerstände</name>
+        <name lang="el">Αντιστάσεις</name>
+        <name lang="en">Resistors</name>
+        <name lang="es">Resistencia</name>
+        <name lang="fr">Résistances</name>
+        <name lang="it">Resistori</name>
+        <name lang="ko">저항</name>
+        <name lang="nl">Weerstand</name>
+        <name lang="pl">Rezystory</name>
+        <name lang="pt">Resistência</name>
+        <name lang="pt_BR">Resistores</name>
+        <name lang="ru">Резисторы</name>
+        <name lang="zh">10_电阻器</name>
+    </names>
+</qet-directory>

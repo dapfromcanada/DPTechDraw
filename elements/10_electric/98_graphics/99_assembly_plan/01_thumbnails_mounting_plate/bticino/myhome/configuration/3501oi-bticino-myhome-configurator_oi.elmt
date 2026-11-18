@@ -1,0 +1,29 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="20" height="40" hotspot_x="10" hotspot_y="30">
+    <uuid uuid="{b2c35f6e-fc43-5d3c-e299-a3eb913cd4f7}"/>
+    <names>
+        <name lang="ca">3501/OI - Configurador O/I</name>
+        <name lang="cs">3501/OI - Konfigurátor O/I</name>
+        <name lang="en">3501/OI - Configurator O/I</name>
+        <name lang="fr">3501/OI - Configurateur O/I</name>
+        <name lang="pt_BR">3501/OI - Configuratou O/I</name>
+        <name lang="zh">3501oi-比力诺智能家居配置器_开/关输入</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment">BTicino configurator O/I</elementInformation>
+        <elementInformation show="1" name="description">Configurator O/I</elementInformation>
+        <elementInformation show="1" name="designation">3501/O/I</elementInformation>
+        <elementInformation show="1" name="label">Configurator O/I</elementInformation>
+        <elementInformation show="1" name="manufacturer">BTicino - Legrang Group</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">3501/O/I</elementInformation>
+        <elementInformation show="1" name="plant">SCS MyHOME</elementInformation>
+    </elementInformations>
+    <informations>Arnaud Valmary</informations>
+    <description>
+        <rect x="-2.5" y="-19" width="5" height="18" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:blue;color:blue" antialias="false"/>
+        <arc x="-2.5" y="-2.5" width="5" height="5" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:blue" antialias="true"/>
+        <arc x="-2.5" y="-22.5" width="5" height="5" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:blue;color:blue" antialias="true"/>
+        <text text="O&#10; /&#10; I" x="-2" y="-15" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <terminal uuid="{7085a054-e504-df58-7e4a-f5d7cfd96826}" name="" x="0" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{329b1b4f-7449-cad2-4fc8-7167ec99cf87}" name="" x="0" y="-20" orientation="s" type="Generic"/>
+    </description>
+</definition>

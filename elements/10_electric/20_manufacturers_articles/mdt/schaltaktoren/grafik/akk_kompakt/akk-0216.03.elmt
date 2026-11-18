@@ -1,0 +1,71 @@
+<definition version="0.80" type="element" link_type="master" width="100" height="210" hotspot_x="14" hotspot_y="203">
+    <uuid uuid="{52f966cb-5593-6e4c-abdd-179dcf491fbe}"/>
+    <names>
+        <name lang="ca">AKK-0216.03</name>
+        <name lang="de">AKK-0216.03</name>
+        <name lang="en">AKK-0216.03</name>
+        <name lang="pt_BR">Atuador compacto 2 canais 16A MDT AKK-0216.03</name>
+        <name lang="zh">紧凑型开关执行器 0216.03</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">Schaltaktor 2fach</elementInformation>
+        <elementInformation show="1" name="designation">AKK-0216.03</elementInformation>
+        <elementInformation show="1" name="label">-BA</elementInformation>
+        <elementInformation show="1" name="manufacturer">MDT</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations>Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB</informations>
+    <description>
+        <text text="U2" x="66" y="-88" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="0" y="-200" width="80" height="200" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="60" y="-134" width="16" height="16" style="line-style:normal;line-weight:normal;filling:HTMLBlueDarkBlue;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="Prog." x="62" y="-124" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="KNX" x="8" y="-53" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="MDT" x="54" y="-57" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="www.MDT.de" x="55" y="-54" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="18" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="0" y="-50" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="28" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" antialias="false"/>
+        <rect x="0" y="-170" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="66" y="-114" width="4" height="4" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <rect x="36" y="-14" width="3" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <text text="AKK-0216.03 230VAC/16A" x="2" y="-144" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="Schaltaktor 2fach" x="2" y="-139" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <arc x="9" y="-61" width="11" height="5" start="2" angle="178" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <text text=">1s" x="63" y="-103" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="13" y="-110" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <ellipse x="13" y="-128" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <dynamic_text x="0" y="-172" z="22" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="CompositeText" uuid="{4a09f995-3be6-471f-9a1c-8daa331b05bb}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>-BA</text>
+            <info_name>plant</info_name>
+            <composite_text>%{plant}%{label}</composite_text>
+        </dynamic_text>
+        <ellipse x="33" y="-134" width="16" height="16" style="line-style:normal;line-weight:normal;filling:HTMLBlueDarkBlue;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="A" x="39" y="-124" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <ellipse x="33" y="-116" width="16" height="16" style="line-style:normal;line-weight:normal;filling:HTMLBlueDarkBlue;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="B" x="39" y="-106" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <rect x="21" y="-195" width="38" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:HTMLGreenLimeGreen;color:black" antialias="false"/>
+        <ellipse x="37" y="-191" width="6" height="6" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <ellipse x="25" y="-191" width="6" height="6" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <ellipse x="49" y="-191" width="6" height="6" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <line x1="25" y1="-188" x2="31" y2="-188" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="49" y1="-188" x2="55" y2="-188" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="37" y1="-188" x2="43" y2="-188" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="17.5" y="-47" width="45" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:yellow;color:HTMLBlueDarkBlue" antialias="false"/>
+        <dynamic_text x="22.5" y="-51" z="47" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" rotation="0" text_from="UserText" uuid="{60bee164-d6ab-4c7f-9bb9-9b662558c325}" font="Liberation Sans,8,-1,5,0,0,0,0,0,0,Regular">
+            <text>1.1.2</text>
+            <info_name>plant</info_name>
+            <color>#00008b</color>
+        </dynamic_text>
+        <terminal uuid="{b166b0de-9587-48bd-b646-e6050142d9a6}" name="L" x="28" y="-191" orientation="n" type="Generic"/>
+        <terminal uuid="{f9194d95-7297-4f0b-8a3b-f8468d459b86}" name="KNX_-" x="23" y="-2" orientation="s" type="Generic"/>
+        <terminal uuid="{c9d5b115-cc54-4453-862c-d1c0692b58d9}" name="L" x="40" y="-191" orientation="n" type="Generic"/>
+        <terminal uuid="{5cbcb3a1-b356-40d8-9577-5c9df9382583}" name="L" x="52" y="-191" orientation="n" type="Generic"/>
+        <terminal uuid="{f215a24f-4476-46ec-a5e6-42f278f17346}" name="KNX_+" x="33" y="-2" orientation="s" type="Generic"/>
+    </description>
+</definition>

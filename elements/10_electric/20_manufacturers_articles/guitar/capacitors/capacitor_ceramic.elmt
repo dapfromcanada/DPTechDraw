@@ -1,0 +1,25 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="60" hotspot_x="35" hotspot_y="47">
+    <uuid uuid="{56cef815-4fba-abeb-b35c-b8f604cb12c2}"/>
+    <names>
+        <name lang="ca">Condensador ceràmic</name>
+        <name lang="cs">Keramický kondenzátor</name>
+        <name lang="en">Capacitor Ceramic</name>
+        <name lang="pt_BR">Capacitor cerâmico de disco (Filtro de tom / Treble Bleed)</name>
+        <name lang="zh">陶瓷电容器</name>
+    </names>
+    <informations>Author: Thomas McMillan Grant Bennett
+Name: Capacitor Ceramic
+Purpose:  To assiste in drawing guitar wiring diagrams
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <ellipse x="-12.5" y="-14.5" width="25" height="25" style="line-style:normal;line-weight:normal;filling:orange;color:black" antialias="false"/>
+        <line x1="-10" y1="-10" x2="-25" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="-10" x2="25" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-28" y="21.5" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{308abb05-a511-450f-9921-4aec824d7d6b}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{0915a904-aa79-4072-a958-3db6f57ee59c}" name="" x="25" y="-40" orientation="w" type="Generic"/>
+        <terminal uuid="{238286d7-3f14-4428-b66e-42be89e1f65d}" name="" x="-25" y="-40" orientation="e" type="Generic"/>
+    </description>
+</definition>

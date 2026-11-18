@@ -1,0 +1,29 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="30" hotspot_x="30" hotspot_y="16">
+    <uuid uuid="{1e79729b-624e-6ff2-07dc-5a5f80dc95d7}"/>
+    <names>
+        <name lang="ca">Calu pas escomesa</name>
+        <name lang="en">supply faucet</name>
+        <name lang="es">Llave acometida</name>
+        <name lang="pt_BR">alimentacao faucet</name>
+        <name lang="zh">入户阀门</name>
+    </names>
+    <informations>Rafael Ferrando.
+Mantenimiento de Instalaciones Térmicas</informations>
+    <description>
+        <line x1="-8.83" y1="5" x2="-8.83" y2="-4.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10.3" y1="5" x2="10.3" y2="-4.9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-8.83" y1="-4.92" x2="10.07" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-8.83" y1="5" x2="10.07" y2="-4.92" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0.62" y1="-0.2" x2="0.62" y2="-9.18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-4.1" y1="-9.18" x2="5.35" y2="-9.18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-18.94" y1="0" x2="-9.15" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10.56" y1="0" x2="19.39" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-12" y="-12" width="26" height="21" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-9" y="-26" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2aff19a6-abd0-4738-b34d-6ae5986ca640}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{91a92a6a-22bf-46af-9a14-202c979d0743}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{21c1b5ca-6ca7-4036-910f-e24402b0378f}" name="" x="20" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

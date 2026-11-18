@@ -1,0 +1,64 @@
+<definition version="0.100.0" type="element" link_type="simple" width="200" height="70" hotspot_x="95" hotspot_y="35">
+    <uuid uuid="{8a00a734-7f34-b779-d234-f5b3833c34fb}"/>
+    <names>
+        <name lang="ca">Interruptors Jaguar Multi Pickup</name>
+        <name lang="cs">Jaguar Multi Pickup Switches</name>
+        <name lang="en">Jaguar Multi Pickup Switches</name>
+        <name lang="pt_BR">Placa de chaves seletoras para guitarra Fender Jaguar</name>
+        <name lang="zh">捷豹多拾音器开关</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="75" y="-5" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-53" y="13" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="48" y="-3" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-41" y="-20" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-41" y="-3" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-53" y="-3" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <line x1="-60" y1="-30" x2="70" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="-3" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-41" y="13" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-7" y="-3" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="36" y="-3" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <line x1="-60" y1="-30" x2="-90" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-7" y="13" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <line x1="-90" y1="0" x2="-60" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="36" y="13" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="-20" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="48" y="-20" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <line x1="-60" y1="30" x2="70" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="13" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <line x1="70" y1="30" x2="100" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="48" y="13" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-12" y="-25" width="25" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="31" y="-25" width="25" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="100" y1="0" x2="70" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-58" y="-25" width="25" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="36" y="-20" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-7" y="-20" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <rect x="-53" y="-20" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" antialias="false"/>
+        <ellipse x="-75" y="-5" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-50" y="-79.5" z="30" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d99588b5-12c3-4e0d-aefc-709c2c1be664}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{803b4523-2184-40b8-814a-08d9af4d59c8}" name="" x="37" y="-20" orientation="n" type="Generic"/>
+        <terminal uuid="{c4c5786e-429e-42be-9b71-866ed2d838b7}" name="" x="-6" y="-2" orientation="n" type="Generic"/>
+        <terminal uuid="{1e052f9f-d5f3-416f-b4b3-c0f1a28f75f8}" name="" x="-40" y="-20" orientation="n" type="Generic"/>
+        <terminal uuid="{852dc5b5-911e-4c1f-bbeb-881437a3788e}" name="" x="-6" y="15" orientation="n" type="Generic"/>
+        <terminal uuid="{0d044ff5-407d-4728-83f2-473a6e9fa090}" name="" x="50" y="-20" orientation="n" type="Generic"/>
+        <terminal uuid="{4f4d3945-d9e2-4e60-93fa-8d1aea5f8f8a}" name="" x="-52" y="-20" orientation="n" type="Generic"/>
+        <terminal uuid="{df8c6600-886d-4490-b66e-235acd43d08f}" name="" x="-52" y="-2" orientation="n" type="Generic"/>
+        <terminal uuid="{a0b2d4be-ac3f-4370-9415-4e06df955640}" name="" x="5" y="15" orientation="n" type="Generic"/>
+        <terminal uuid="{0ba3612a-6f7b-4ede-8b55-553b8aa56179}" name="" x="50" y="-5" orientation="n" type="Generic"/>
+        <terminal uuid="{42c50941-d908-4eaf-911a-c199c840ac61}" name="" x="-6" y="-19" orientation="n" type="Generic"/>
+        <terminal uuid="{e78eef05-f365-4e38-a32e-31d6662034bd}" name="" x="6" y="-19" orientation="n" type="Generic"/>
+        <terminal uuid="{3dc9a03c-9405-46ac-870d-2362f72b1735}" name="" x="-52" y="15" orientation="n" type="Generic"/>
+        <terminal uuid="{637ba756-2141-457e-976b-48ab821950c3}" name="" x="6" y="-2" orientation="n" type="Generic"/>
+        <terminal uuid="{97e9ec00-e6f6-4407-ab03-611a7d1f0ca1}" name="" x="-40" y="15" orientation="n" type="Generic"/>
+        <terminal uuid="{07ea26cc-13d7-43c8-a83b-69ba51b3f645}" name="" x="-40" y="-2" orientation="n" type="Generic"/>
+        <terminal uuid="{292981fe-504b-4c8a-91df-fb77adeac45d}" name="" x="37" y="14" orientation="n" type="Generic"/>
+        <terminal uuid="{81ed9bfa-feba-4eac-881b-a8bc54e899e8}" name="" x="37" y="-2" orientation="n" type="Generic"/>
+        <terminal uuid="{e6336cf5-dad3-4942-b553-c2e58162c44a}" name="" x="49" y="14" orientation="n" type="Generic"/>
+    </description>
+</definition>

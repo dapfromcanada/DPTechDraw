@@ -1,0 +1,23 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="60" height="20" hotspot_x="13" hotspot_y="10">
+    <uuid uuid="{822d066a-2b30-0846-d3f2-3c73edfd828f}"/>
+    <names>
+        <name lang="ca">2000-407</name>
+        <name lang="cs">2000-407</name>
+        <name lang="de">2000-407</name>
+        <name lang="en">2000-407</name>
+        <name lang="fr">2000-407</name>
+        <name lang="pt_BR">2000-407</name>
+        <name lang="zh">wago_2000-0407-0000-0000</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Jumper for Series 2000, 2020, 2200</elementInformation>
+        <elementInformation show="1" name="designation">2000-407</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <polygon x1="-8.28" y1="3.81" x2="-8.28" y2="-3.87" x3="42.07" y3="-3.87" x4="42.07" y4="3.81" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black"/>
+        <text text="2000-407" x="9.12" y="1.37" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+    </description>
+</definition>

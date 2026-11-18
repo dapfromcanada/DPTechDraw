@@ -1,0 +1,14 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Potomci</name>
+        <name lang="de">Kinder</name>
+        <name lang="en">Children</name>
+        <name lang="fr">Enfants</name>
+        <name lang="it">Figlio</name>
+        <name lang="ko">하위항목</name>
+        <name lang="nl">Kinderen</name>
+        <name lang="pl">Podrzędne</name>
+        <name lang="pt_BR">Children</name>
+        <name lang="zh">子元件</name>
+    </names>
+</qet-directory>

@@ -1,0 +1,22 @@
+<definition version="0.100.0" type="element" link_type="simple" width="20" height="30" hotspot_x="10" hotspot_y="17">
+    <uuid uuid="{0cbaa212-f2b2-2ce4-823a-819c4ab8d984}"/>
+    <names>
+        <name lang="ca">Sonda temp.exterio</name>
+        <name lang="en">Exterior tempeture probe</name>
+        <name lang="es">Sonda de temperatura exterior</name>
+        <name lang="fr">Sonde température extérieur</name>
+        <name lang="pt_BR">Exteriou tempeture probe</name>
+        <name lang="zh">外部温度波</name>
+    </names>
+    <informations>Rafael Ferrando.
+Mantenimiento de Instalaciones Térmicas</informations>
+    <description>
+        <rect x="-4" y="0.18" width="6.3" height="10.82" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-0.9" y="-9.84" width="1.4" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-8" y="14" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c6421d72-2ae1-4b20-9088-bed4533568df}" font="Liberation Sans,3,-1,5,25,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{c8a9dfd2-17f8-4bb1-84be-e6431b1a6042}" name="" x="0" y="-10" orientation="n" type="Generic"/>
+    </description>
+</definition>

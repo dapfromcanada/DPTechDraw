@@ -1,0 +1,25 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="50" height="60" hotspot_x="26" hotspot_y="54">
+    <uuid uuid="{ecceeab8-66df-97a8-3d85-f849280904ea}"/>
+    <names>
+        <name lang="ca">Portaetiquetes d'aturada d'emergència</name>
+        <name lang="cs">Štítek ovladače "Nouzové zastavení"</name>
+        <name lang="fr">Porte étiquette ARRET D'URGENCE</name>
+        <name lang="pt_BR">portase étiquette ARRET D&amp;apos;URGENCE</name>
+        <name lang="zh">标签支架 ZBY2130</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Porte étiquette ARRET D'URGENCE</elementInformation>
+        <elementInformation show="1" name="designation">ZBY2130</elementInformation>
+        <elementInformation show="1" name="manufacturer">Schneider</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-20" y="-48" width="40" height="24" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:black" antialias="false"/>
+        <line x1="-22" y1="-50" x2="22" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-22" y1="-50" x2="-22" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="22" y1="-50" x2="22" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="ARRET" x="-10" y="-40" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="D'URGENCE" x="-19" y="-27" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+    </description>
+</definition>

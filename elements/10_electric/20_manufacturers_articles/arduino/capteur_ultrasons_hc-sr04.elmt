@@ -1,0 +1,37 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="50" hotspot_x="34" hotspot_y="17">
+    <uuid uuid="{0cf58d52-0d3b-67ed-d4f1-eacad48d82f7}"/>
+    <names>
+        <name lang="ca">Mòdul d'ultrasons HC-SR04</name>
+        <name lang="cs">Ultrazvukové čidlo vzdálenosti HC-SR04</name>
+        <name lang="en">Ultrasonic module HC-SR04</name>
+        <name lang="fr">Capteur HC-SR04</name>
+        <name lang="it">Sensore ultrasonico HC-SR04</name>
+        <name lang="nl">Ultrasoon afstandsensor HC-SR04</name>
+        <name lang="pl">Ultradźwiękowy czujnik odległości HC-SR04</name>
+        <name lang="pt_BR">Módulo ultrassônico HC-SR04</name>
+        <name lang="zh">超声波传感器HC-SR04</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Arduino</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <ellipse x="7" y="-9" width="22" height="22" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <text text="Gnd" x="11" y="2" rotation="90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Trig" x="-4" y="2" rotation="90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Echo" x="3" y="-1" rotation="90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-30" y="-12" width="61" height="36" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-28" y="-8" width="22" height="22" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <text text="Vcc" x="-11" y="3" rotation="90" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="HC-SR04" x="-7" y="-8" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-31" y="-34" z="9" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{451bd3b1-5d30-4add-b04b-bc91d01a9bbe}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{f12a70b3-cdeb-b0f5-1cf8-f929e7cdcda7}" name="" x="6" y="22" orientation="s" type="Generic"/>
+        <terminal uuid="{ed60c675-8167-6b07-936c-eb38f3bebdbf}" name="" x="12" y="22" orientation="s" type="Generic"/>
+        <terminal uuid="{95cac918-0cf5-2cbc-8e67-a72a762cd557}" name="" x="-2" y="22" orientation="s" type="Generic"/>
+        <terminal uuid="{f78b5cec-8027-0c36-c983-ebb528659a6c}" name="" x="-9" y="22" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,35 @@
+<definition version="0.100.0" type="element" link_type="simple" width="50" height="240" hotspot_x="26" hotspot_y="122">
+    <uuid uuid="{0f274edb-7ee2-e6ff-4b4d-c314e972bfd0}"/>
+    <names>
+        <name lang="ca">6ES7131-4BD01-0AA0</name>
+        <name lang="cs">6ES7131-4BD01-0AA0</name>
+        <name lang="en">6ES7131-4BD01-0AA0</name>
+        <name lang="pt_BR">Modulo de entradas digitais Siemens ET 200S DI4 (6ES7 131-4BD01-0AA0, 4 entradas 24VDC)</name>
+        <name lang="zh">西门子 6ES7131-4BD01-0AA0 数字量输入模块</name>
+    </names>
+    <informations>Author: The QElectroTech team
+     License: see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version: V2.0</informations>
+    <description>
+        <dynamic_text x="-20" y="-140.5" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{56668a01-6f61-41ac-88aa-6b4b5ed88773}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="1" x="-12" y="78" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="8" y="78" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-12" y="92" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6ES7 131" x="-17" y="107" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="DC24V" x="-17" y="-102" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4BD01-0AA0" x="-17" y="112" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="8" y="92" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4 DI" x="-17" y="-110" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-20" y="-120" width="40" height="234" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-15" y1="66" x2="-15" y2="-72" x3="-17" y3="-72" x4="-17" y4="-81" x5="17" y5="-81" x6="17" y6="-72" x7="15" y7="-72" x8="15" y8="66" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line x1="-15" y1="-66" x2="15" y2="-66" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-66" x2="0" y2="66" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-6" y="72" width="4" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-6" y="86" width="4" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="2" y="72" width="4" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="2" y="86.05" width="4" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

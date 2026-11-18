@@ -1,0 +1,25 @@
+<definition version="0.90" type="element" link_type="thumbnail" width="1420" height="80" hotspot_x="713" hotspot_y="40">
+    <uuid uuid="{ab2277a0-cbd2-2bab-f8e1-f8872ca39ccd}"/>
+    <names>
+        <name lang="ca">Carril DIN TS35 Cu 700 mm</name>
+        <name lang="cs">DIN-Rail TS35 Cu 700 mm</name>
+        <name lang="de">Tragschiene TS35 Cu 700 mm</name>
+        <name lang="en">DIN-Rail TS35 Cu 700 mm</name>
+        <name lang="fr">DIN-Rail TS35 Cu 700 mm</name>
+        <name lang="pt_BR">DIN-Rail TS35 Cu 700 mm</name>
+        <name lang="zh">0003_TS35铜导轨_0700mm</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">DIN-Rail TS35 Cu 700 mm</elementInformation>
+        <elementInformation show="1" name="designation">210-198</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-700" y="-35" width="1400" height="70" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLOrangeDarkOrange;color:black" antialias="false"/>
+        <rect x="-700" y="-25" width="1400" height="50" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLOrangeDarkOrange;color:black" antialias="false"/>
+        <line x1="-700" y1="0" x2="700" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="TS35 - 700mm" x="-698" y="23" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#e66100"/>
+    </description>
+</definition>

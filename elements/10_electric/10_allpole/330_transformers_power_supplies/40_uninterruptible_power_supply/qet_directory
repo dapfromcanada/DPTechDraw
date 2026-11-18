@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Záložní napájecí zdroje</name>
+        <name lang="da">Nødstrømsforsyning</name>
+        <name lang="de">Unterbrechungsfreie Stromversorgungen</name>
+        <name lang="el">Αδιάλειπτες παροχές ισχύος</name>
+        <name lang="en">Uninterruptible power supplies</name>
+        <name lang="es">Fuente de poder ininterrumpida</name>
+        <name lang="fr">Alimentations sans interruption</name>
+        <name lang="it">Alimentazione senza interruzione</name>
+        <name lang="ko">무정전 전원 공급 장치</name>
+        <name lang="nl">Voeding niet onderbreekbaar</name>
+        <name lang="pl">Zasilacze awaryjne</name>
+        <name lang="pt_BR">Fontes de alimentação ininterrupta</name>
+        <name lang="ru">Источники бесперебойного питания</name>
+        <name lang="zh">40_不间断电源</name>
+    </names>
+</qet-directory>

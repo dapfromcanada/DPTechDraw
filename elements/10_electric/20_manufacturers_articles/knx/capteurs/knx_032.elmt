@@ -1,0 +1,49 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="50" hotspot_x="30" hotspot_y="25">
+    <uuid uuid="{ad47db0f-49a7-d4fc-cb90-40d216cd6c8a}"/>
+    <names>
+        <name lang="ca">Entrada analògica, doble</name>
+        <name lang="cs">Dva analogové vstupy</name>
+        <name lang="el">Αναλογική είσοδος, διπλή</name>
+        <name lang="en">Analog input, 2-fold</name>
+        <name lang="es">Entrada analogica, 2 vias</name>
+        <name lang="fr">Deux entrées analogiques</name>
+        <name lang="it">Ingresso analogico, 2 can</name>
+        <name lang="nl">Analoog ingang, 2voud</name>
+        <name lang="pl">Dwa wejścia analogowe</name>
+        <name lang="pt_BR">Analógico Entrada, 2-fold</name>
+        <name lang="zh">KNX 传感器 032</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-10" y="-15" width="30" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-15" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-16" y1="-11" x2="-16" y2="11" x3="-15" y3="12" x4="-14" y4="11" x5="-14" y5="-11" x6="-15" y6="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="9" y="-9" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{38ae9d14-1fb2-4b98-b066-d2eb47891f6f}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>2</text>
+        </dynamic_text>
+        <polygon x1="-18" y1="-9" x2="-15" y2="-12" x3="-12" y3="-9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="9" y="-1" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{6d735dae-8153-4b73-8f50-4d7c4c37364f}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>U</text>
+        </dynamic_text>
+        <polygon x1="-18" y1="9" x2="-15" y2="12" x3="-12" y3="9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-7" y1="-8" x2="9" y2="-8" x3="9" y3="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-10" y1="15" x2="20" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-23" y="-39.5" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{16e876c6-9b04-4866-8b00-e039a1b0977e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{43ae9407-59fc-4346-8b4d-74140282fd7b}" name="" x="20" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{a56b80e0-4e67-4643-b45c-1e49cfbb066a}" name="" x="-10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{d84f991b-708e-44f0-b7ad-e5dc36feb3be}" name="" x="0" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{02cc32fe-3d47-4e70-a39c-f4b0c64ea3db}" name="" x="10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{ba0f965f-99cc-48ab-9f88-ef4cd03b8067}" name="" x="-10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{3f099c39-7f16-4296-8f23-8c4681d5fb37}" name="" x="0" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{53899653-2889-427c-9401-16d736ec671b}" name="" x="10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{3b2094d5-5a3e-4647-bb85-d16fce4e9045}" name="" x="-20" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{5e83d438-333c-4588-b48f-dfd69ae4640e}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{d8c850b1-fcf9-4047-ad29-fd374db08cee}" name="" x="-20" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{64013d70-e851-4940-9d95-f3decb7a329d}" name="" x="20" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{1302a694-9f9b-458b-8a67-72aaabdf946e}" name="" x="20" y="10" orientation="e" type="Generic"/>
+    </description>
+</definition>

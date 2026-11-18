@@ -1,0 +1,37 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="30" height="60" hotspot_x="15" hotspot_y="32">
+    <uuid uuid="{fee98545-048c-0b51-0bf2-14bf11cd3113}"/>
+    <names>
+        <name lang="ca">Filtre Schaffner</name>
+        <name lang="cs">Filtr Schaffner</name>
+        <name lang="el">Φίλτρο Schaff</name>
+        <name lang="en">Filter Schaffner</name>
+        <name lang="fr">Filtre_schaff</name>
+        <name lang="it">Filtro Schaff</name>
+        <name lang="nl">Filter Schaffner</name>
+        <name lang="pl">Filtr Schaff</name>
+        <name lang="pt_BR">Filtro Schaffner</name>
+        <name lang="zh">沙夫纳滤波器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Schaffer</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x1="-13" y1="19" x2="-6" y2="26" x3="6" y3="26" x4="13" y4="19" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-13" y="-23" width="26" height="41" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-3" y="-29" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-3" y1="-26" x2="2" y2="-26" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-29" x2="0" y2="-24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-10.5" y="-20" width="20" height="35" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="Filtre" x="4" y="8" rotation="-90" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-3" y="19" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-3" y1="22" x2="2" y2="22" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="19" x2="0" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-13" y1="-23" x2="-6" y2="-30" x3="6" y3="-30" x4="13" y4="-23" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="-25" y="-43" z="12" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{ea07f429-46a1-453d-8d73-2b3b100c64cd}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

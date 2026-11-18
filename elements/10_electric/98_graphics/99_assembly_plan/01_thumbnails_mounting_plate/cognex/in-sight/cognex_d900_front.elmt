@@ -1,0 +1,47 @@
+<definition version="0.90" type="element" link_type="thumbnail" width="70" height="130" hotspot_x="35" hotspot_y="60">
+    <uuid uuid="{86cea1cc-cb59-a01f-b4bf-c3ed431a8e38}"/>
+    <names>
+        <name lang="ca">Vista frontal de Cognex D900</name>
+        <name lang="en">Cognex D900 front view</name>
+        <name lang="fr">Cognex D900 vue de face</name>
+        <name lang="pt_BR">Cognex D900 front view</name>
+        <name lang="zh">康耐视D900正面</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">D900</elementInformation>
+        <elementInformation show="1" name="manufacturer">Cognex</elementInformation>
+    </elementInformations>
+    <informations>Scale : 1px = 1mm
+Echelle : 1px = 1mm</informations>
+    <description>
+        <line x1="25" y1="61" x2="12" y2="63" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-7" y="54" width="13" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="12" y="54" width="13" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <rect x="-30" y="-55" width="60" height="105" rx="2" ry="2" style="line-style:normal;line-weight:normal;filling:yellow;color:black" antialias="false"/>
+        <rect x="4" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="9" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-5" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="14" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-15" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-0.5" y="1" width="1" height="46" rx="0.5" ry="0.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-26" y="51" width="52" height="3" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="-25" y="54" width="13" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="25" y1="55" x2="12" y2="57" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="25" y1="58" x2="12" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-30" y="-55" width="60" height="55" rx="2" ry="2" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <ellipse x="-30" y="-55" width="60" height="60" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <ellipse x="-22.5" y="-47.5" width="45" height="45" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false"/>
+        <ellipse x="-21.5" y="3.5" width="5" height="5" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <line x1="26" y1="20" x2="-27" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="16.5" y="33.5" width="5" height="5" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <ellipse x="-21.5" y="33.5" width="5" height="5" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <ellipse x="16.5" y="3.5" width="5" height="5" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <arc x="-30" y="18" width="7" height="2" start="180" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="23" y="18" width="7" height="2" start="270" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-13.5" y="-38.5" width="27" height="27" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <terminal uuid="{4dea2b71-47b6-46ac-9255-5ca72c2c85e6}" name="" x="0" y="60" orientation="s" type="Generic"/>
+        <terminal uuid="{c35702a0-aed2-4520-bffb-e3ec76979406}" name="" x="-20" y="60" orientation="s" type="Generic"/>
+        <terminal uuid="{8eeedc48-43ec-4b2f-86c7-01a6781a33ce}" name="" x="20" y="60" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,83 @@
+<definition version="0.100.0" type="element" link_type="simple" width="170" height="270" hotspot_x="17" hotspot_y="39">
+    <uuid uuid="{4f7de6f4-efa0-dd24-ea88-ed362e886ed5}"/>
+    <names>
+        <name lang="ar">PS 307   5A</name>
+        <name lang="ca">PS 307 5A</name>
+        <name lang="cs">PS 307   5A</name>
+        <name lang="el">PS 307   5A</name>
+        <name lang="en">PS 307   5A</name>
+        <name lang="es">PS 307   5A</name>
+        <name lang="fr">PS 307   5A</name>
+        <name lang="it">PS 307 5A Alim. di potenza</name>
+        <name lang="nl">PS 307   5A</name>
+        <name lang="pl">6ES7307-1EA00-0AA0</name>
+        <name lang="pt">PS 307   5A</name>
+        <name lang="pt_BR">Modulo de alimentacao Siemens PS307 5A (6ES7 307-1EA00-0AA0, 120/230VAC -> 24VDC/5A)</name>
+        <name lang="zh">PS 307 5A 电源模块</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="-7" y="-51.95" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{46dd5f50-8776-4426-b578-8855e5f4eb35}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="0" y="25" width="20" height="33" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="-30" width="160" height="250" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="3" y="43" width="14" height="1" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="230V" x="2" y="39" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="3" y="45" width="14" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="21" y1="82" x2="21" y2="79" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="18.5" y="80.5" width="5" height="5" start="140" angle="265" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="21" y1="72" x2="21" y2="69" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="7" y="69" width="9" height="16" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="SELECTOR" x="21" y="48" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="VOLTAGE" x="21" y="43" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="125" y="-25" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{de15d1ea-46dc-4d06-bb18-d4ac224424f4}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>5A</text>
+        </dynamic_text>
+        <rect x="7" y="-19.25" width="6" height="27" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="145.5" y1="70" x2="145.5" y2="113" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="150" y1="70" x2="145.5" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5.5" y1="113" x2="145.5" y2="113" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5.5" y1="70" x2="-5.5" y2="113" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="70" x2="-5.5" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="68" x2="0" y2="87" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="3" y1="68" x2="3" y2="87" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="0" y="66" width="3" height="3" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="0" y="86" width="3" height="3" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="8" y="79.75" width="7" height="2.5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="DC 24V" x="14" y="7" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X" x="125" y="206" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="125" y="214" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="132" y="206" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="124" y1="208" x2="136" y2="208" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="130" y1="202" x2="130" y2="214" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="8" x="132" y="214" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-12" y="208.5" z="32" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{34b38058-c104-4b07-be42-fc9f78c55c54}" font="Liberation Sans,3,-1,5,25,0,0,0,0,0,Regular">
+            <text>307-1EA00-0AA0</text>
+        </dynamic_text>
+        <dynamic_text x="120" y="-30" z="33" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{d45d178c-cd35-49b2-b825-6061b65cadc8}" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular">
+            <text>PS 307</text>
+        </dynamic_text>
+        <ellipse x="-4" y="205" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-8" y="201" width="12" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="13" y1="-13.25" x2="7" y2="-13.25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="8.6" y="3.35" width="2.8" height="2.8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="8.6" y="-17.65" width="2.8" height="2.8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="8.6" y="-7.15" width="2.8" height="2.8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="13" y1="1.75" x2="7" y2="1.75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="13" y1="-8.75" x2="7" y2="-8.75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="13" y1="-2.75" x2="7" y2="-2.75" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="31" x2="20" y2="31" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{8caee0dc-acab-4745-be88-3c9fff597605}" name="" x="110" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{c98fad79-7588-45ad-b245-44d8b90d0f06}" name="" x="10" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{ea7ac9cf-4cbd-4d34-a35a-8c47d31cbdd4}" name="" x="100" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{f627545d-bf78-4cda-bf2e-d4df96108b75}" name="" x="120" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{9b58a218-43e2-4b3d-91df-2877406ae0cd}" name="" x="70" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{15ba732d-f02a-496e-b30a-93a5e89c2314}" name="" x="80" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{11aef91b-cc99-4e55-bcc1-b45119715d99}" name="" x="30" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{8630ae0d-6ede-46b7-913e-502fe7cd6e14}" name="" x="90" y="220" orientation="s" type="Generic"/>
+        <terminal uuid="{af27d751-0f7a-43c2-b689-630849afcb45}" name="" x="20" y="220" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Spotřebiče</name>
+        <name lang="de">Verbraucher und Aktoren</name>
+        <name lang="el">Καταναλώσεις και ενεργοποιητές</name>
+        <name lang="en">Consumers and actuators</name>
+        <name lang="es">Consumibles y actuadores</name>
+        <name lang="fr">Consommateurs et actionneurs</name>
+        <name lang="it">Utilizzatori e attuatori</name>
+        <name lang="ja">消費装置と作動装置</name>
+        <name lang="ko">부하 및 액추에이터</name>
+        <name lang="nl">Verbruikers en bewegingen</name>
+        <name lang="pl">Odbiorniki i urządzenia wykonawcze</name>
+        <name lang="pt_BR">Consumíveis e Atuadores</name>
+        <name lang="ru">Исполнительные механизмы</name>
+        <name lang="zh">负载与执行器</name>
+    </names>
+</qet-directory>

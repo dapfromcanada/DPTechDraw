@@ -1,0 +1,65 @@
+<definition version="0.100.0" type="element" link_type="simple" width="140" height="260" hotspot_x="74" hotspot_y="234">
+    <uuid uuid="{e3c00d5c-4f92-2e65-4b71-087e44441bb1}"/>
+    <names>
+        <name lang="ca">Shelly Pro 16:00</name>
+        <name lang="de">Shelly Pro 4PM</name>
+        <name lang="en">Shelly Pro 4PM</name>
+        <name lang="fr">Shelly Pro 4PM</name>
+        <name lang="pt_BR">Shelly Pro 4PM</name>
+        <name lang="zh">Shelly Pro 4PM</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">WiFi 4*Relay with power metering and display</elementInformation>
+        <elementInformation show="1" name="designation">Shelly Pro 4PM</elementInformation>
+        <elementInformation show="1" name="label">-A</elementInformation>
+        <elementInformation show="1" name="manufacturer">SHELLY GROUP SE</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">Shelly Pro 4PM</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+        <elementInformation show="1" name="supplier">shelly.cloud</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-60" y="-199.95" width="120" height="200" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayBlack;color:HTMLGrayBlack" antialias="false"/>
+        <text text="L" x="-2" y="-160" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="O2" x="17" y="-160" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="S3" x="19.14" y="-30" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="S2" x="35" y="-30" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="S1" x="47" y="-30" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="S4" x="5" y="-30" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="LAN" x="-48" y="-30" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="O3" x="-28.81" y="-160" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="O1" x="40" y="-160" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="O4" x="-52" y="-160" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="IP:" x="-60" y="15" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="18" y="-182.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="-51" y="-182.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="41" y="-182.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="-5" y="-182.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="-13" y="-27.7" width="10" height="9.5" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="5" y="-27.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <rect x="-60" y="-149.95" width="120" height="100" rx="0" ry="0" style="line-style:dashed;line-weight:thin;filling:none;color:green" antialias="false"/>
+        <text text="N" x="-11" y="-30.55" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <rect x="-59" y="-149" width="118" height="98" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="false"/>
+        <ellipse x="47" y="-27.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="19" y="-27.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="33" y="-27.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <ellipse x="-28" y="-182.95" width="10" height="10" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="true"/>
+        <rect x="-35" y="-140" width="80" height="55" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <rect x="-55" y="-20" width="30" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:HTMLGrayDarkSlateGray;color:HTMLGrayDimGray" antialias="false"/>
+        <dynamic_text x="-60" y="-223" z="29" text_width="-1" Halignment="AlignLeft" Valignment="AlignBottom" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0dc27683-ebd8-4a71-8b0a-20383148eb2f}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>-A</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{e0f5ada8-c74b-4701-9402-4dd08ffb47d5}" name="SW2" x="10" y="-17" orientation="s" type="Outer"/>
+        <terminal uuid="{c939d531-928a-4733-9e0b-e42c939b2c95}" name="O1" x="-46" y="-184" orientation="n" type="Outer"/>
+        <terminal uuid="{a93479fc-5dbb-4448-abb5-104b488435a9}" name="I2" x="23" y="-184" orientation="n" type="Outer"/>
+        <terminal uuid="{148577b3-f0eb-4c25-80f4-388eb5a2294c}" name="N" x="0" y="-184" orientation="n" type="Outer"/>
+        <terminal uuid="{41303e30-3cdb-4865-b447-d0ffc4a2f885}" name="L" x="24" y="-17" orientation="s" type="Outer"/>
+        <terminal uuid="{4f0434ed-9c07-4882-9249-3f047dc68936}" name="I1" x="46" y="-184" orientation="n" type="Outer"/>
+        <terminal uuid="{f0d33cee-545a-45b3-84b6-c7ad9d4d881e}" name="N" x="38" y="-17" orientation="s" type="Outer"/>
+        <terminal uuid="{9b44989f-b1b3-48b7-908a-8e3c4f1f1d71}" name="SW1" x="-40" y="0" orientation="s" type="Outer"/>
+        <terminal uuid="{3f42d95e-a2a0-4da2-8fb2-01ab4bb416c3}" name="SW1" x="-8" y="-17" orientation="s" type="Outer"/>
+        <terminal uuid="{1e9ad865-3207-42a6-b627-33a5072df73d}" name="O2" x="-23" y="-184" orientation="n" type="Outer"/>
+        <terminal uuid="{565590e5-d7b3-44aa-bc99-a14c4894c9d2}" name="+12" x="52" y="-17" orientation="s" type="Outer"/>
+    </description>
+</definition>

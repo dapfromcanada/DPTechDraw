@@ -1,0 +1,22 @@
+<definition height="160" type="element" width="210" hotspot_y="79" version="0.90" link_type="simple" hotspot_x="105">
+    <uuid uuid="{4938d463-9927-4e79-8880-4cc6847c0962}"/>
+    <names>
+        <name lang="en">vfu.usb.example.hmiet6400</name>
+        <name lang="pt_BR">vfu.usb.example.hmiet6400</name>
+        <name lang="zh">USB 接口示例（垂直安装）</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label">HMIET6400</elementInformation>
+        <elementInformation show="1" name="manufacturer">Schneider Electric</elementInformation>
+        <elementInformation show="1" name="quantity">HMI-USB Example-Visual Front Unit</elementInformation>
+    </elementInformations>
+    <informations>sgto</informations>
+    <description>
+        <rect y="-75" ry="6" antialias="false" rx="6" height="150" width="206" style="line-style:normal;line-weight:thin;filling:HTMLGraySlateGray;color:black" x="-103"/>
+        <rect y="-45" ry="0" antialias="false" rx="0" height="90" width="156" style="line-style:normal;line-weight:thin;filling:HTMLGrayDimGray;color:black" x="-78"/>
+        <rect y="-58" ry="0" antialias="false" rx="0" height="2" width="3" style="line-style:normal;line-weight:thin;filling:HTMLGreenSpringGreen;color:black" x="-43"/>
+        <text y="57" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" text="HMIET6400" x="-79"/>
+        <text y="65" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" text="[Front View]" x="-79"/>
+        <terminal y="75" name="" type="Generic" x="0" orientation="s" uuid="{fc17d8ac-6857-4971-b237-2b02e67a6966}"/>
+    </description>
+</definition>

@@ -1,0 +1,62 @@
+<definition version="0.80" type="element" link_type="simple" width="70" height="110" hotspot_x="9" hotspot_y="90">
+    <uuid uuid="{a4fd4c80-021a-8d00-03ef-713282c2099c}"/>
+    <names>
+        <name lang="ca">Rectificador de fre SEW BM*(H,S,E,P,K).</name>
+        <name lang="cs">SEW BM*(H,S,E,P,K) Brzdový usměrňovač</name>
+        <name lang="en">SEW BM*(H,S,E,P,K) brake rectifier</name>
+        <name lang="hu">SEW BM*(H,S,E,P,K) fék egyenirányító</name>
+        <name lang="pt_BR">Retificador de freio SEW BM*(H,S,E,P,K)</name>
+        <name lang="zh">SEW 制动整流器 BMH/BMS/BME/BMP/BMK</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="5" y="-52" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-4" y1="15" x2="56" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="5" y="-12" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="5" y="-42" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="3" x="14" y="-47" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="14" y="-57" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BMS" x="29" y="-46" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BMK" x="29" y="-16" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BMP" x="29" y="-26" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BME" x="29" y="-36" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="15" x="12" y="2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="14" y="-37" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="5" y="-62" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="14" x="12" y="-8" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="56" y1="15" x2="56" y2="-85" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="13" x="12" y="-17" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="59" y="-86" z="17" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{a8903059-abc9-44e6-9a7d-2671de58170e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="5" y="-2" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="57" y="-42" z="18" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{40493ca9-a7c1-4e53-a808-5eacc4ee0c54}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>function</info_name>
+        </dynamic_text>
+        <line x1="56" y1="-85" x2="-4" y2="-85" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="1" y="-25" width="21" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <line x1="-4" y1="-85" x2="-4" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="1" y="-75" width="21" height="40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <ellipse x="5" y="-22" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-1" x2="6" y2="1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="5" y="-72" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-21" x2="6" y2="-19" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-11" x2="6" y2="-9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-51" x2="6" y2="-49" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-41" x2="6" y2="-39" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-71" x2="6" y2="-69" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="8" y1="-61" x2="6" y2="-59" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="SEW" x="27" y="-73" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000"/>
+        <text text="BMH" x="29" y="-56" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="14" y="-66" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{9d8e371e-2e21-40a7-b10d-c0e5cee74732}" name="" x="0" y="-20" orientation="w" type="Generic"/>
+        <terminal uuid="{9dd43f14-4b33-49ef-9d48-83c439e505fc}" name="" x="0" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{ba604d40-627b-4295-b06a-b65413f0b205}" name="" x="0" y="-50" orientation="w" type="Generic"/>
+        <terminal uuid="{3c5c0cd0-89b1-4b7d-a9f4-4da6f982cf0b}" name="" x="0" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{530b4f31-1358-4358-bc6d-b08c6315bd77}" name="" x="0" y="-40" orientation="w" type="Generic"/>
+        <terminal uuid="{6acbcb13-fc2f-47a3-a9ea-005e9433a533}" name="" x="0" y="-70" orientation="w" type="Generic"/>
+        <terminal uuid="{c55657f0-729f-4601-9bd8-5fd1f2084300}" name="" x="0" y="-60" orientation="w" type="Generic"/>
+    </description>
+</definition>

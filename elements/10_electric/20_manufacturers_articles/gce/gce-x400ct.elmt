@@ -1,0 +1,51 @@
+<definition version="0.100.0" type="element" link_type="simple" width="130" height="200" hotspot_x="64" hotspot_y="92">
+    <uuid uuid="{77bfa81d-20d3-6b2b-7235-4f6972e78d5f}"/>
+    <names>
+        <name lang="ca">GCE-X400CT</name>
+        <name lang="cs">GCE-X400CT</name>
+        <name lang="fr">GCE-X400CT</name>
+        <name lang="pt_BR">Módulo de expansão para 4 transformadores de corrente (TC) GCE X400-CT</name>
+        <name lang="zh">GCE X400 CT 电流互感器模块</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="-8" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <ellipse x="-24" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <text text="RJ11" x="-19" y="76" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1      2      3      4" x="-39" y="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-19" y1="78" x2="-1" y2="78" x3="-1" y3="87" x4="-7" y4="87" x5="-7" y5="91.5" x6="-13" y6="91.5" x7="-13" y7="87" x8="-19" y8="87" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-24" y="68" width="27" height="29" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="8" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <ellipse x="5" y="-76" width="11" height="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-59" y="-83" width="120" height="180" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="26" y="-76" width="11" height="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-16" y="-76" width="11" height="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="IN" x="-42" y="85" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="OUT" x="-18" y="86" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-37" y="-76" width="11" height="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="1    2     3     4" x="-34" y="-50" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-42" y="-62" width="86" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-42" y1="-15" x2="-32" y2="-15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-40" y="4" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <rect x="28" y="-15" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Sel" x="33" y="-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GCE Electronics" x="-10" y="33" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="40" y1="37" x2="20" y2="37" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:eleve;filling:none;color:green" antialias="false"/>
+        <dynamic_text x="-48" y="-37" z="23" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f78c69c1-7e9d-4eb9-8d5f-7551378f04d1}" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-47" y1="78" x2="-29" y2="78" x3="-29" y3="87" x4="-35" y4="87" x5="-35" y5="91.5" x6="-41" y6="91.5" x7="-41" y7="87" x8="-47" y8="87" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-52" y="68" width="28" height="29" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="RJ11" x="-46" y="76" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="BUS V3" x="-39" y="67" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-52" y="58" width="55" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-52" y="-32" width="106" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{fbb68b5e-95c7-4c20-9fed-6d7a569ef03c}" name="" x="-31" y="-82" orientation="n" type="Generic"/>
+        <terminal uuid="{ea785913-46e3-4468-9104-6068c954452a}" name="" x="-10" y="-82" orientation="n" type="Generic"/>
+        <terminal uuid="{a91a1088-08f4-45ac-9964-88e86055b65e}" name="" x="11" y="-82" orientation="n" type="Generic"/>
+        <terminal uuid="{8353f41c-11a4-4d86-8960-ffb9abd7269a}" name="" x="32" y="-82" orientation="n" type="Generic"/>
+        <terminal uuid="{1f41045f-2f85-4e78-be04-296f9c0ca159}" name="" x="-38" y="98" orientation="s" type="Generic"/>
+        <terminal uuid="{374d0a5d-e144-4d07-b4b2-7b5b92193a55}" name="" x="-10" y="98" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,92 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="240" hotspot_x="34" hotspot_y="115">
+    <uuid uuid="{85d63ff7-7b45-da25-de96-b93128742801}"/>
+    <names>
+        <name lang="ca">en ana TM3AI4: disseny</name>
+        <name lang="cs">Karta analogových vstupů TM3AI4: Nákres</name>
+        <name lang="en">in ana TM3AI4: layout</name>
+        <name lang="fr">entrées analogiques TM3AI4: vue</name>
+        <name lang="pt_BR">entrada analogica TM3AI4: layout</name>
+        <name lang="zh">TM3模拟量输入4通道布局</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="-10" y="-53" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-63" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-93" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-63" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-83" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-73" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-43" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-43" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-53" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-32" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-11" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-21" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-21" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-11" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-73" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-93" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-32" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="82" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-83" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="21" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="5" x2="-5" y2="1.17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="7" y="-17.62" width="23" height="19.58" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-28" y="-109" width="27" height="110" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="31" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="51" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="103" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="61" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="51" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="71" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="93" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="41" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="71" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="103" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="21" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="82" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="31" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="61" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="41" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="93" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="11" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="11" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="12" x2="-5" y2="16" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="22" x2="-5" y2="26" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="32" x2="-5" y2="36" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="42" x2="-5" y2="46" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="52" x2="-5" y2="56" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="62" x2="-5" y2="66" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="72" x2="-5" y2="76" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="83" x2="-5" y2="87" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="94" x2="-5" y2="98" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="104" x2="-5" y2="108" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="PWR" x="18" y="-96" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-29.72" y="-109.56" width="60" height="225" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10.4" y="-99.66" width="5.6" height="2.66" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-31.4" y="-125.06" z="55" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{150c309a-1fea-4adb-9c7c-2bd3b46ca275}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="7" y1="-99.94" x2="7" y2="-6.91" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="7" y="-108.62" width="23" height="19.58" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="TM3AI4" x="27" y="-45" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-28" y="5" width="27" height="110" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-26" y1="5" x2="-26" y2="1.17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-13" y1="1" x2="-13" y2="-109" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-13" y1="5" x2="-13" y2="115" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-10" y="-103" width="6" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-102" x2="-5" y2="-98" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-92" x2="-5" y2="-88" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-82" x2="-5" y2="-78" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-72" x2="-5" y2="-68" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-62" x2="-5" y2="-58" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-52" x2="-5" y2="-48" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-42" x2="-5" y2="-38" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-31" x2="-5" y2="-27" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-20" x2="-5" y2="-16" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="-10" x2="-5" y2="-6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-25" y="-103" width="10" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{1c612bd0-a141-4c01-8b66-ca1480b38c3e}" name="" x="-15" y="115" orientation="s" type="Generic"/>
+    </description>
+</definition>

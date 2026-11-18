@@ -1,0 +1,200 @@
+<definition version="0.80" type="element" link_type="simple" width="580" height="70" hotspot_x="290" hotspot_y="33">
+    <uuid uuid="{ad196c44-3cbc-94ba-70b8-d6ce89d12d24}"/>
+    <names>
+        <name lang="ca">Controlador central de llum intel·ligent</name>
+        <name lang="cs">Centrální inteligentní ovladač světla</name>
+        <name lang="de">Central Smart Light Controller</name>
+        <name lang="en">Central Smart Light Controller</name>
+        <name lang="pt_BR">Controlador central completo de iluminacao inteligente Microsens CSLC V2</name>
+        <name lang="zh">CSLC v2 总成</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="90" y="-20" width="20" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="90" y="5" width="20" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-254.49" y1="8.88" x2="-246.91" y2="8.88" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-65" y1="14" x2="-65" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-135" y1="14" x2="-135" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="40" y="5" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="40" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="5" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Power 2" x="-205" y="29" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="0" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-40" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-40" y="5" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED20" x="155" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-20" y1="-20" x2="-20" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-20" y1="5" x2="-20" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-96.19" y="-0.39" width="3.79" height="3.63" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="20" y1="5" x2="20" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED14" x="155" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="20" y1="-20" x2="20" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="-20" x2="60" y2="-6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-129.62" y="-14.1" width="18.95" height="9.08" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="5" x2="60" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-100" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-186.68" y="-14.1" width="45.49" height="5.45" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-165" y="14" width="40" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-245" y1="15" x2="-245" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-188.85" y1="4.25" x2="-188.85" y2="11.51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-328.83" y="-66.76" z="28" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{5012f62f-ca2e-4c54-a619-08d9e68d7114}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>description</info_name>
+        </dynamic_text>
+        <line x1="-155" y1="14" x2="-155" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-145" y1="14" x2="-145" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED8" x="-13" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-243.12" y1="8.88" x2="-235.54" y2="8.88" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-285" y="-30" width="570" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-239.33" y1="5.25" x2="-239.33" y2="12.51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LED5" x="46.81" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LED4" x="26.27" y="-22.18" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="In" x="-245.44" y="-5" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="USB" x="-127.72" y="-15.91" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Out" x="-237.85" y="-5" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Reset" x="-220" y="-6" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LED2" x="-14" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Out2" x="-57.6" y="12.33" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Signal In" x="-163.21" y="30.49" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Sys" x="-266.28" y="-5" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-279.55" y="-19.55" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Out1" x="-121" y="12" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-236" y="-15.91" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="Pwr" x="-275.76" y="-5" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Card" x="-171.52" y="-15.91" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-71.76" y="5.06" width="3.79" height="3.63" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="LED1" x="-33.06" y="-22.18" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-139.36" y1="12.14" x2="-139.36" y2="4.88" x3="-128" y3="4.88" x4="-128" y4="12.14" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <ellipse x="-273.87" y="-15.91" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-264.39" y="-15.91" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-254.91" y="-15.91" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-273.87" y="-25" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-243.12" y="5.25" width="7.58" height="7.26" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="2" x="-279.55" y="-10.47" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-75" y1="14" x2="-75" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Power 1" x="-257" y="29" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-95" y1="14" x2="-95" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-255" y1="15" x2="-255" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-101.87" y="5.06" width="3.79" height="3.63" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-199.95" y="-17.73" width="1.9" height="1.82" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-215.11" y="-17.73" width="-1.9" height="1.82" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="-85" y1="14" x2="-85" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-245.44" y="-15.91" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-195" y1="14" x2="-195" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-66.07" y="-0.39" width="3.79" height="3.63" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-236" y="-25" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="260" y="-20" width="20" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED22" x="195" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-131.78" y1="1.25" x2="-131.78" y2="8.51" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="LED3" x="6.53" y="-22.18" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Factory" x="-204" y="-6" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-264.39" y="-25" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-254.91" y="-25" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LED6" x="66" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-245.44" y="-25" width="5.69" height="5.45" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LED10" x="25.38" y="3.06" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-205" y1="14" x2="-205" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED16" x="195" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-80" y1="-20" x2="-80" y2="-6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-204" y1="7.88" x2="-196.43" y2="7.88" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LED23" x="215" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-137.46" y1="1.25" x2="-137.46" y2="8.51" x3="-131.78" y3="4.88" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="LED11" x="45.54" y="3.06" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-81.23" y1="12.33" x2="-81.23" y2="1.43" x3="-77.44" y3="1.43" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="LED17" x="215" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="260" y="5" width="20" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-215" y="14" width="30" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-265" y="15" width="30" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-192.64" y1="7.88" x2="-185.05" y2="7.88" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-192.64" y="4.25" width="7.58" height="7.26" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="210" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED19" x="135" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S1" x="98" y="-21" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-69.86" y1="12.33" x2="-69.86" y2="6.88" x3="-66.07" y3="1.43" x4="-58.49" y4="1.43" x5="-58.49" y5="12.33" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="LED13" x="135" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LED7" x="-34" y="3.06" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-77.44" y="-0.39" width="3.79" height="3.63" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="LED24" x="235" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LED18" x="235" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LED12" x="64.65" y="3.06" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-204" y="4.25" width="7.58" height="7.26" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="210" y="5" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="LED15" x="175" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="LED9" x="6.32" y="2.81" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-215.38" y1="11.51" x2="-207.8" y2="11.51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LED21" x="175" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="170" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="S4" x="268" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-211.59" y1="4.25" x2="-211.59" y2="11.51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="170" y="5" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="S2" x="98" y="3" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S3" x="268" y="-22" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="130" y="-20" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="130" y="5" width="40" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="150" y1="-20" x2="150" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="190" y1="-20" x2="190" y2="-5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="230" y1="-20" x2="230" y2="-6" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="150" y1="5" x2="150" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="190" y1="5" x2="190" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="230" y1="5" x2="230" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-115" y="14" width="60" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Signal Out" x="-101" y="30" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-105" y1="14" x2="-105" y2="24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-111.35" y1="12.33" x2="-111.35" y2="1.43" x3="-107.56" y3="1.43" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-100" y1="12.33" x2="-100" y2="6.88" x3="-96.19" y3="1.43" x4="-88.61" y4="1.43" x5="-88.61" y5="12.33" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <ellipse x="-107.56" y="-0.39" width="3.79" height="3.63" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <polygon x1="-162.1" y1="12.14" x2="-162.1" y2="4.88" x3="-150.73" y3="4.88" x4="-150.73" y4="12.14" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-154.52" y1="1.25" x2="-154.52" y2="8.51" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-160.21" y1="1.25" x2="-160.21" y2="8.51" x3="-154.52" y3="4.88" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <ellipse x="-254.49" y="5.25" width="7.58" height="7.26" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-265.87" y1="12.51" x2="-258.28" y2="12.51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-262.07" y1="5.25" x2="-262.07" y2="12.51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{0f6ca163-e4cd-44c3-a2b7-2c301c346eaf}" name="" x="-80" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{40c9b50d-e9d4-468f-ac8b-d90f6731a825}" name="" x="220" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{900c23cb-1548-47e1-bb9e-698c7b60ed5f}" name="" x="240" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{078b2f04-8838-4cb2-8b03-4314916c2018}" name="" x="160" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{811da742-a33b-4c73-875e-328a52be609f}" name="" x="270" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{00bd9efe-aa69-48f2-8935-3e7682e27147}" name="" x="-140" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{d1c44101-4d09-4804-a29c-a34a9616a6f3}" name="" x="-160" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{7859887e-9618-4943-a6c5-8031bc36de51}" name="" x="10" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{be5dbd88-d795-4e36-8cb0-bcd6c93c995c}" name="" x="-60" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{a5904b76-5685-4216-a1fb-55449efcc75d}" name="" x="50" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{8cd11e72-3e66-498c-959b-13f41f35453f}" name="" x="-250" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{898deafb-add7-4702-b6a4-60417071d8e7}" name="" x="-240" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{c6eef475-9f76-46c8-8384-8c50b8a3a87b}" name="" x="-10" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{c6bbabf3-c32e-46ef-861d-c80b93f0d103}" name="" x="-30" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{34244ae7-8ffb-4a59-8dee-dc2efd8d9271}" name="" x="-150" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{dfd0d786-1a9d-4e06-b8ad-9b672401d330}" name="" x="100" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{dcd5e213-3209-41e2-a176-7a130a6db2c5}" name="" x="-260" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{54382b49-c385-4220-b9aa-9ff551ce9c3c}" name="" x="-70" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{6420aecd-b106-4d84-a953-6f028d350283}" name="" x="70" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{114f2060-25de-4496-9cd3-56d4bf73f95a}" name="" x="-120" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{a5b76484-fa0e-4dd7-b166-12d5c0a88d2b}" name="" x="30" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{11a3f3e0-276e-40ab-93b0-2619db496db8}" name="" x="70" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{c2c7b5d4-c636-4b7b-bd21-2b17732478e2}" name="" x="-10" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{1608afec-9f59-4476-8c8d-437d504ea955}" name="" x="100" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{ba4ead55-b6f9-45be-b43c-6f6d59cca65f}" name="" x="10" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{bff26d02-0595-46f0-96f2-ab182343939c}" name="" x="180" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{89f3840f-f091-4cb5-bef1-c71305a7767b}" name="" x="-70" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{2ea598ec-1892-4f9e-8800-e897a0c6da11}" name="" x="-100" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{e38f9979-7c45-41f1-a766-039f3dcafda9}" name="" x="-200" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{8c085143-3d40-4cbb-b99a-2e396487c16d}" name="" x="-90" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{ca7cd0cc-ce49-4069-966b-a37ffc5671fe}" name="" x="140" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{b169faf0-3087-4f35-aa2d-09cffcfb8350}" name="" x="50" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{b5d4fc65-143b-4ba6-9c5c-8eae5a13d871}" name="" x="-190" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{692e9e1c-b520-4ed6-a9dd-5c755d4d904f}" name="" x="-210" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{aac2d36f-f077-4779-a6e4-a8bbd8372792}" name="" x="30" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{57165d2a-579c-4b07-92bd-50fdb11c7f48}" name="" x="-110" y="18" orientation="s" type="Generic"/>
+        <terminal uuid="{dba47f0b-3620-48dd-9bce-b6aef05558cf}" name="" x="-130" y="19" orientation="s" type="Generic"/>
+        <terminal uuid="{22fc194d-60de-422f-8f05-d55b9e8b5d09}" name="" x="-30" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{d29b7f88-2d88-49c5-891c-a3bf6f88407c}" name="" x="270" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{b6397468-0c54-455f-bce5-d4fe80f7b263}" name="" x="160" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{ef088d21-f926-4612-8075-4820376e1cc2}" name="" x="240" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{a7951f04-0b85-458c-8176-c3ff37314f78}" name="" x="200" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{22a26448-a95d-4177-9639-70fcb564d3fb}" name="" x="140" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{62e467ff-ef50-43c6-8478-27797473b43b}" name="" x="180" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{0640fe11-e94f-4aea-bd4f-d96d24c0a2c1}" name="" x="200" y="-10" orientation="n" type="Generic"/>
+        <terminal uuid="{13091fb2-9311-4f4b-bf89-fd05804d1204}" name="" x="220" y="10" orientation="s" type="Generic"/>
+        <terminal uuid="{f1d4bbfd-436d-4a2b-9cdb-02a79c0a9916}" name="" x="-90" y="18" orientation="s" type="Generic"/>
+    </description>
+</definition>

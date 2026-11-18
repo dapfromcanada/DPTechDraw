@@ -1,0 +1,11 @@
+*.snap
+.flatpak-builder
+# Qt build output
+*.user
+# doxygen Doxyfile output
+doc/*
+!doc/QElectroTech.qch
+QElectroTech.tag
+!doc/doc-utils
+# Local build output
+/build/

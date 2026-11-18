@@ -1,0 +1,18 @@
+<qet-directory>
+    <names>
+        <name lang="ar">هندسية</name>
+        <name lang="cs">Architektura</name>
+        <name lang="de">Architektur</name>
+        <name lang="el">Αρχιτεκτονικά</name>
+        <name lang="en">Architectural</name>
+        <name lang="es">Arquitectura</name>
+        <name lang="fr">Architecture</name>
+        <name lang="it">Planimetrici</name>
+        <name lang="ko">건축</name>
+        <name lang="nl">Plattegrond</name>
+        <name lang="pl">Rysunek architektoniczno-budowlany</name>
+        <name lang="pt_BR">Architectural</name>
+        <name lang="ru">Архитектурные</name>
+        <name lang="zh">建筑电气</name>
+    </names>
+</qet-directory>

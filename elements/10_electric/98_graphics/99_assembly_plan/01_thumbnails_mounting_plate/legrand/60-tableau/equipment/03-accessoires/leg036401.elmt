@@ -1,0 +1,22 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="130" height="130" hotspot_x="3" hotspot_y="64">
+    <uuid uuid="{99857404-f759-4dd1-5f8f-cba731ba692e}"/>
+    <names>
+        <name lang="ca">Suports de muntatge a la paret</name>
+        <name lang="cs">Konzoly pro montáž na zeď</name>
+        <name lang="fr">Pattes de fixation murale</name>
+        <name lang="pt_BR">Pattes de fixation murale</name>
+        <name lang="zh">Legrand 036401 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Pattes fixation murale (X4) - pour coffret Atlantic - 300 kg -</elementInformation>
+        <elementInformation show="1" name="designation">LEG036401</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+        <elementInformation show="1" name="quantity">0,25</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <line x1="0" y1="-62" x2="0" y2="62" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-122.5" y="-62.36" width="245" height="125" start="270" angle="180" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <polygon x1="7" y1="-61.91" x2="22" y2="-61" x3="40" y3="-58" x4="60" y4="-54" x5="78.18" y5="-47.41" x6="89.85" y6="-41.76" x7="111.31" y7="-25.14" x8="121.19" y8="-6.58" x9="121.85" y9="0.15" x10="120" y10="10" x11="113" y11="23" x12="106.46" y12="30.16" x13="99" y13="36" x14="90.84" y14="41.49" x15="80" y15="47" x16="70" y16="51" x17="60" y17="54" x18="52" y18="56" x19="47" y19="57" x20="36" y20="59" x21="29" y21="60" x22="20" y22="61" x23="10" y23="62" x24="0" y24="62" x25="0" y25="-62" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:white"/>
+    </description>
+</definition>

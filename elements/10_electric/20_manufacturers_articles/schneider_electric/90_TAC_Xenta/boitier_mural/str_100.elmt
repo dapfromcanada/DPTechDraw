@@ -1,0 +1,46 @@
+<definition version="0.100.0" type="element" link_type="simple" width="130" height="200" hotspot_x="62" hotspot_y="92">
+    <uuid uuid="{7e7a3daa-c07d-6d9d-dd3a-9229e5d98297}"/>
+    <names>
+        <name lang="ar">STR_100</name>
+        <name lang="ca">STR 100</name>
+        <name lang="cs">STR 100</name>
+        <name lang="en">STR 100</name>
+        <name lang="es">STR 100</name>
+        <name lang="fr">STR_100</name>
+        <name lang="it">STR 100</name>
+        <name lang="nl">STR 100</name>
+        <name lang="pl">STR 100</name>
+        <name lang="pt_BR">STR 100</name>
+        <name lang="zh">100号直通接头</name>
+    </names>
+    <informations>Auteur : C V C 71
+Langue : Fr
+
+Cet élément est optimisé pour un folio de 15 colones X 50 px et de 6 lignes X 80 px.
+
+Bonne utilisation !</informations>
+    <description>
+        <dynamic_text x="72.5" y="-91.95" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b9817602-3d49-49e7-b8d9-576a8bfccd40}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="STR 100" x="-24" y="-71" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-56.45" y1="80" x2="60" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-56.45" y1="-88.87" x2="59" y2="-88.87" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-56.45" y1="100" x2="-56.45" y2="-88.87" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="-61" x2="60" y2="-88.87" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="60" y1="100" x2="60" y2="51" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-56.45" y1="100" x2="60" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-50" y="-60" width="112" height="110" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="95" x2="10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="95" x2="0" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="5" y="85" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-5" y="85" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="10" y="96" width="0" height="3" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="96" width="0" height="3" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="12" x="6" y="93" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="11" x="-4" y="93" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{22302e1b-fd56-4609-8609-66dd81c56c66}" name="" x="0" y="100" orientation="s" type="Generic"/>
+        <terminal uuid="{c5343189-00f9-4ba3-bfd7-59f1917df240}" name="" x="10" y="100" orientation="s" type="Generic"/>
+    </description>
+</definition>

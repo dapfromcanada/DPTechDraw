@@ -1,0 +1,31 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="70" hotspot_x="45" hotspot_y="59">
+    <uuid uuid="{a5196231-2335-f4f3-ec36-5200c50feb8c}"/>
+    <names>
+        <name lang="ca">Pom giratori Jaguar</name>
+        <name lang="cs">Jaguar Rotary Knob</name>
+        <name lang="en">Jaguar Rotary Knob</name>
+        <name lang="pt_BR">Potenciômetro deslizante / giratório Fender Jaguar</name>
+        <name lang="zh">捷豹旋转旋钮</name>
+    </names>
+    <informations>Author: Thomas McMillan Grant Bennett
+Name: Jaguar Rotary Knob
+Purpose:  To assiste in drawing guitar wiring diagrams
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-40" y="-10" width="80" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:bdiag;color:black" antialias="false"/>
+        <rect x="-40" y="-10" width="80" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:fdiag;color:black" antialias="false"/>
+        <rect x="-5" y="-30" width="10" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-40" width="40" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-15" y="-48" width="5" height="8" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-2" y="-48" width="5" height="8" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="11" y="-48" width="5" height="8" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="6" y="-27.5" z="8" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a5a2f218-be66-4f5b-8300-ea8f31d0df6b}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="-2" y="-4" width="4" height="4" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <terminal uuid="{51a9659b-f59e-4589-a8fc-43dca77917be}" name="" x="-13" y="-48" orientation="n" type="Generic"/>
+        <terminal uuid="{8da95adc-ce25-4fbd-b581-23b9faa9a4a4}" name="" x="1" y="-47" orientation="n" type="Generic"/>
+        <terminal uuid="{b6c1564a-668f-42e8-9b84-7f26b21477ad}" name="" x="14" y="-47" orientation="n" type="Generic"/>
+    </description>
+</definition>

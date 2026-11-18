@@ -1,0 +1,29 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="20" height="140" hotspot_x="3" hotspot_y="11">
+    <uuid uuid="{76cf92a4-9edb-9b08-0df3-19a62bb06ade}"/>
+    <names>
+        <name lang="ca">037177 - Viking3 - 1 unió 1 entrada 1 sortida 4mm² pas 6mm Gris</name>
+        <name lang="cs">037177 - Svorkovnice viking 3 -šroub -pro vodič -1 připojit - plastová základna -strana 6.</name>
+        <name lang="fr">037177 - Viking3 - 1 jonction 1 entrée 1 sortie 4mm² pas 6mm Gris</name>
+        <name lang="pt_BR">037177 - Viking3 - 1 jonction 1 Entrada 1 Saída 4mm2 pas 6mm Gris</name>
+        <name lang="zh">037177-维京3-1进1出1信号-绿色</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Bloc de jonction de passage à vis Viking3 avec 1 jonction 1 entrée 1 sortie section 4mm² - pas 6mm - vert</elementInformation>
+        <elementInformation show="1" name="designation">037177</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud VALMARY</informations>
+    <description>
+        <rect x="0" y="0" width="13" height="117" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenLimeGreen;color:black" antialias="false"/>
+        <rect x="0" y="7" width="13" height="103" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenLimeGreen;color:black" antialias="false"/>
+        <rect x="0" y="52" width="13" height="13" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenLimeGreen;color:black" antialias="false"/>
+        <ellipse x="4.5" y="54" width="4" height="4" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <ellipse x="4.5" y="59" width="4" height="4" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <ellipse x="3.5" y="67" width="6" height="6" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <polygon x1="4.3" y1="71.8" x2="8.3" y2="67.8" x3="8.8" y3="68.3" x4="4.8" y4="72.3" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <ellipse x="3.5" y="44" width="6" height="6" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <polygon x1="4.3" y1="48.8" x2="8.3" y2="44.8" x3="8.8" y3="45.3" x4="4.8" y4="49.3" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <terminal uuid="{620e3bd7-f71f-2eab-80f8-735c9b88eb49}" name="" x="7" y="117" orientation="s" type="Generic"/>
+        <terminal uuid="{2d006c5d-e3d7-a579-7812-258c0a77cb28}" name="" x="7" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

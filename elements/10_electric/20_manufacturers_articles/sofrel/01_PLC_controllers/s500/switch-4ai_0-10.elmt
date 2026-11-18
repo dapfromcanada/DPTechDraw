@@ -1,0 +1,54 @@
+<definition version="0.80" type="element" link_type="simple" width="60" height="50" hotspot_x="5" hotspot_y="3">
+    <uuid uuid="{9991460c-2b55-bde6-2e3b-b7ad8311b089}"/>
+    <names>
+        <name lang="ca">Interruptor 4Ai 0-10V</name>
+        <name lang="cs">Přepínač 4Ai 0-10V</name>
+        <name lang="fr">Switch 4Ai 0-10V</name>
+        <name lang="pt_BR">Interruptor 4Ai 0-10V</name>
+        <name lang="zh">4AI 0-10V开关量输入模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Carte d'entrées analogiques</elementInformation>
+        <elementInformation show="1" name="designation">4-Ai</elementInformation>
+        <elementInformation show="1" name="label">4-AI</elementInformation>
+        <elementInformation show="1" name="manufacturer">Sofrel</elementInformation>
+    </elementInformations>
+    <informations>s.deffaux</informations>
+    <description>
+        <rect x="0" y="0" width="50" height="40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <rect x="38.28" y="7" width="3" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="34.25" y="7" width="3" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="22" y="7" width="3" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="42.31" y="7" width="3" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="26" y="14" width="3" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="34.25" y="14" width="3" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="22" y="14" width="3" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="42.31" y="7" width="3" height="7.5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="38.28" y="14" width="3" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="C" x="31" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="A" x="23" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="F" x="43" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="30.15" y="7" width="3" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="D" x="35" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="B" x="27" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="G" x="32" y="36" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="E" x="39" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="H" x="12" y="4" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="35.26" y="25" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="26" y="7" width="3" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="1" x="22" y="25" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="31.16" y="25" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="26.14" y="25" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="43.31" y="25" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="39.29" y="25" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="B" x="5" y="25" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="10" y="5" width="5" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="A" x="5" y="10" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="10" y="15" width="5" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="9.5" y="32" width="20" height="5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="8.59" y="32" width="10.06" height="5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="20" y="5" width="27" height="20" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="30.15" y="14" width="3" height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="0-10V" x="5" y="39" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+    </description>
+</definition>

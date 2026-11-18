@@ -1,0 +1,73 @@
+<definition version="0.100.0" type="element" link_type="simple" width="300" height="120" hotspot_x="140" hotspot_y="55">
+    <uuid uuid="{a3e6628a-82c0-4ffd-fb07-cce64df59999}"/>
+    <names>
+        <name lang="ar">MC07 FSC11B</name>
+        <name lang="ca">MC07 FSC11B</name>
+        <name lang="cs">MC07 FSC11B</name>
+        <name lang="en">MC07 FSC11B</name>
+        <name lang="fr">MC07 FSC11B</name>
+        <name lang="it">MC07 FSC11B</name>
+        <name lang="nl">MC07 FSC11B</name>
+        <name lang="pl">MC07 FSC11B</name>
+        <name lang="pt_BR">MC07 FSC11B</name>
+        <name lang="zh">MC07 FSC11B 变频器</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text text="SC11" x="-34.34" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="-73.34" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="T" x="-68" y="-25" rotation="180" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="ST12" x="-105.06" y="-24.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="87" y="34.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{4be87bbb-3717-406f-af70-399b33bb75f8}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>ON_</text>
+        </dynamic_text>
+        <text text="H" x="-132" y="-19" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X45" x="-111" y="-7" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-49.5" y1="-21" x2="-49.5" y2="-17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="SC12" x="-5.34" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L" x="-102" y="-19" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="37" y="40" width="52" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="GND" x="25.82" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S1" x="-105" y="49" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="S2" x="21" y="49" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="117.14" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24VIO" x="141.31" y="-21.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="SC22" x="86" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="63" y="40" width="26" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <text text="SC21" x="57" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X46" x="48" y="-7" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="155.5" y1="-21" x2="155.5" y2="-17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="7" x="148" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-32" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="28" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-2" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="58" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="118" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="88" y="-20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="FSC11B" x="45" y="25" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-133" y1="-17" x2="155" y2="-17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-134" y1="-21" x2="-134" y2="-17" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-93" y="5.5" z="32" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0d822ae7-8f47-4f86-896f-20779a5a692e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="ST11" x="-133.34" y="-25.76" rotation="315" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-90" y="40" width="52" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-64" y="40" width="26" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <dynamic_text x="-40" y="35.5" z="36" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{4ce54207-b38d-48d2-9232-bab5e571eff1}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text>ON_</text>
+        </dynamic_text>
+        <rect x="-137" y="-44" width="294" height="103" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{b7140335-f0fb-4b13-9515-65407d2aafb4}" name="" x="-130" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{29eb2d03-d502-4eef-8557-2e0999b2a0f4}" name="" x="-100" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{7c638091-d92d-4c67-a8f3-7ca536e946ed}" name="" x="-70" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{82b960a5-44a6-4fa0-b26a-3b15acf6947b}" name="" x="-30" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{b30c9944-101b-43e5-8612-1ed8816681f1}" name="" x="0" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{0228d0f5-691d-4f38-a860-8886d6474a3d}" name="" x="30" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{876b1ac2-c4c1-42d4-8221-da33d2e525c1}" name="" x="60" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{2d1e7001-9bfc-484f-bff3-f73ab958ef1e}" name="" x="90" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{9cd90314-156c-479d-ad86-bc616fbfef9e}" name="" x="120" y="-44" orientation="n" type="Generic"/>
+        <terminal uuid="{e95b9927-40ba-4dab-aaa8-d08015a56a3a}" name="" x="150" y="-44" orientation="n" type="Generic"/>
+    </description>
+</definition>

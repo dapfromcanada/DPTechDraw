@@ -1,0 +1,79 @@
+<definition version="0.100.0" type="element" link_type="simple" width="940" height="90" hotspot_x="15" hotspot_y="37">
+    <uuid uuid="{6c96595b-bbc8-7edf-4e69-b4d0a389a021}"/>
+    <names>
+        <name lang="ca">ABE7-S16E2E1/2</name>
+        <name lang="cs">ABE7-S16E2E1/2</name>
+        <name lang="fr">ABE7-S16E2E1/2</name>
+        <name lang="pt_BR">ABE7-S16E2E1/2</name>
+        <name lang="zh">ABE7-S16E2E1_2 信号适配器</name>
+    </names>
+    <informations>SIEMENS S7-300 (digital inputs)</informations>
+    <description>
+        <dynamic_text x="806" y="-14" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{74c297df-9d2b-4946-bdda-53d108ae3634}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="305" y="-14" z="2" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{222abdcb-1092-49bd-a026-58dab0bdc2f9}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="206" y="-14" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{4cbdd317-8a91-4d87-a9b9-15cf7d2fc9d8}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="507" y="-14" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{76c93c26-16da-4d1a-a38e-7ec1d64d4227}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="104" y="-14" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{2c0e15ab-22b5-4889-8319-f5b52ad57ecf}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="707" y="-14" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{be2ba5b5-4060-4ac4-a0ba-24456f4f2e6c}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="406" y="-14" z="7" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{d28a6701-5c23-41a4-b227-ee757d42dc78}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="604" y="-13.55" z="8" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{95438105-de52-4e84-bc30-9d5ec59037cf}" font="Liberation Sans,6,-1,5,0,0,0,0,0,0,Regular">
+            <text>%I</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <polygon x1="410" y1="-29" x2="410" y2="-20" x3="430" y3="-20" x4="430" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="510" y1="-29" x2="510" y2="-20" x3="530" y3="-20" x4="530" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="610" y1="-29" x2="610" y2="-20" x3="630" y3="-20" x4="630" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="310" y1="-29" x2="310" y2="-20" x3="330" y3="-20" x4="330" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="210" y1="-29" x2="210" y2="-20" x3="230" y3="-20" x4="230" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="110" y1="-29" x2="110" y2="-20" x3="130" y3="-20" x4="130" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="108" x="114" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="112" x="514" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="110" x="313" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="109" x="213" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="114" x="714" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="111" x="413" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="113" x="614" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="710" y1="-29" x2="710" y2="-20" x3="730" y3="-20" x4="730" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="115" x="814" y="-21" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="810" y1="-29" x2="810" y2="-20" x3="830" y3="-20" x4="830" y4="-29" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="406" y="17" z="25" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{7054ae6d-2276-40d6-bd91-8a802fbbe8db}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>ABE7-S16E2E1</text>
+            <color>#31363b</color>
+        </dynamic_text>
+        <dynamic_text x="530" y="17.5" z="26" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{de5a72bb-981a-44f2-b5ef-41b4cdb67cc9}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="0" y1="-30" x2="920" y2="-30" x3="920" y3="50" x4="0" y4="50" x5="910" y5="50" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="0" y1="-30" x2="-10" y2="-10" x3="10" y3="10" x4="0" y4="50" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{578d70e9-06cb-45ee-922d-402f62275ee6}" name="" x="620" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{a1e7c0a4-0b23-4145-9795-5adc9f77685b}" name="" x="120" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{694c0738-1612-4a28-b8c2-504ece0bb453}" name="" x="820" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{f37ab7c2-1b2a-4d01-9abf-f87ed739a141}" name="" x="520" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{da56710d-ce3b-4a59-aa3a-4d0311807ffb}" name="" x="420" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{3fae9633-7ab3-421c-94b7-90b49d7c5b67}" name="" x="720" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{24e1b401-0662-463d-a9b4-e227466ac4da}" name="" x="320" y="-29" orientation="n" type="Generic"/>
+        <terminal uuid="{32576bcc-40c3-49ea-a5a8-477bdea3d848}" name="" x="220" y="-29" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,75 @@
+<definition version="0.90" type="element" link_type="thumbnail" width="90" height="180" hotspot_x="48" hotspot_y="88">
+    <uuid uuid="{c9445aa6-684b-2acb-4e45-614ea69e4670}"/>
+    <names>
+        <name lang="ca">ACA 516D</name>
+        <name lang="cs">ACA 516D</name>
+        <name lang="de">ACA 516D</name>
+        <name lang="en">ACA 516D</name>
+        <name lang="fr">ACA 516D</name>
+        <name lang="pt_BR">ACA 516D</name>
+        <name lang="zh">013_海格_单极加中线漏电断路器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Fehlerstrom-Leitungsschutzschalter RCBO FILS 1P+N B16A</elementInformation>
+        <elementInformation show="1" name="designation">ACA516D</elementInformation>
+        <elementInformation show="1" name="label">-F1</elementInformation>
+        <elementInformation show="1" name="manufacturer">Hager</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-36" y="-83" width="72" height="166" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-26" y="-75" width="16" height="150" rx="8" ry="8" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-24.5" y="60.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <ellipse x="-24.5" y="-73.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="-21" y1="64" x2="-15" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="-70" x2="-15" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="-75" width="16" height="150" rx="8" ry="8" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="-64" x2="-15" y2="-70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="70" x2="-15" y2="64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-18" y1="-70" x2="-18" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-18" y1="64" x2="-18" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="67" x2="-15" y2="67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="-67" x2="-15" y2="-67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-36" y="-60" width="72" height="120" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-36" y="-44" width="72" height="88" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-36" y="-40" width="72" height="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-36" y="13" width="72" height="4" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-36" y="17" width="36" height="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLCyanLightCyan;color:black" antialias="false"/>
+        <rect x="-29" y="-13" width="22" height="35" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="-35" y="7" width="34" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <text text=":hager" x="12" y="-34" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#99c1f1"/>
+        <rect x="-36" y="-66" width="4" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <dynamic_text x="-39" y="-28" z="25" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{b1ec99a8-82b4-d386-74e6-a3912bc4dc2c}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>B16</text>
+        </dynamic_text>
+        <rect x="32" y="-66" width="4" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <ellipse x="11.5" y="-73.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <dynamic_text x="-39" y="-36" z="28" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{71f7e225-64bb-5d1d-7f9a-f68cd8b7f9ec}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>ACA 516D</text>
+        </dynamic_text>
+        <rect x="-36" y="-38" width="48" height="4" rx="0" ry="0" style="line-style:normal;line-weight:none;filling:HTMLBlueLightSkyBlue;color:black" antialias="false"/>
+        <text text="0" x="-22" y="0" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <line x1="15" y1="-70" x2="21" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="-64" x2="21" y2="-70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="18" y1="-70" x2="18" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="-67" x2="21" y2="-67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-27.5" y="22" z="35" text_width="-1" Halignment="AlignHCenter" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9bdfc964-8cb0-daaf-5eca-41be42f96c4b}" font="Liberation Sans,5,-1,5,25,0,0,0,0,0,Regular">
+            <text>-F1</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="11.5" y="60.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="15" y1="64" x2="21" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="70" x2="21" y2="64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="8" y="-35" z="39" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{e1339825-7e65-2b4c-c767-947dcb8dec60}" font="Liberation Sans,3,-1,5,0,0,0,0,0,0,Regular">
+            <text>IΔn 0,01 A</text>
+        </dynamic_text>
+        <line x1="18" y1="64" x2="18" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="67" x2="21" y2="67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="N" x="27" y="-70" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#c0bfbc"/>
+        <text text="N" x="27" y="79.5" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#c0bfbc"/>
+        <rect x="1" y="34" width="34" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:blue;color:black" antialias="false"/>
+        <text text="T" x="15.72" y="45.5" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#c0bfbc"/>
+        <line x1="0" y1="-83" x2="0" y2="83" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

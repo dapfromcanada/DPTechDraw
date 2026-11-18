@@ -1,0 +1,14 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Náhledy montážního plánu</name>
+        <name lang="de">Aufbauplanzeichnungen</name>
+        <name lang="en">Thumbnails for assembly plan</name>
+        <name lang="fr">Vignettes pour mise en armoire</name>
+        <name lang="it">Miniature per schemi di montaggio</name>
+        <name lang="ja">組立図用サムネイル</name>
+        <name lang="nl">Opbouwtekeningen</name>
+        <name lang="pl">Budowa rozdzielnic i sterownic</name>
+        <name lang="pt_BR">Thumbnails fou assembly plan</name>
+        <name lang="zh">装配图</name>
+    </names>
+</qet-directory>

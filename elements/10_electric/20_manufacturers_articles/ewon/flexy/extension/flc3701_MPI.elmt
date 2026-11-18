@@ -1,0 +1,49 @@
+<definition version="0.90" type="element" link_type="simple" width="70" height="200" hotspot_x="65" hotspot_y="183">
+    <uuid uuid="{b7a0f1f2-c693-ef27-554b-cbb9a6e4dc8a}"/>
+    <names>
+        <name lang="ca">flc3701_MPI</name>
+        <name lang="en">flc3701_MPI</name>
+        <name lang="pt_BR">Módulo de expansão de comunicação MPI/Profibus Ewon FLC3701</name>
+        <name lang="zh">MPI 扩展模块 FLC3701</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">flc3701_MPI</elementInformation>
+        <elementInformation show="1" name="manufacturer">Ewon</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="MTK" x="-22" y="-168" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="FLC 3701" x="-39" y="8" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="MPI" x="-4" y="-146" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="MPI" x="-30" y="-168" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-54" y="-130" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="true" text_from="UserText" uuid="{5d5c5757-1a91-45fd-9b7b-b6e994a95f8c}" font="Liberation Sans,5,-1,5,25,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-37.51" y1="-96.89" x2="-38.83" y2="-97.6" x3="-39.33" y3="-99" x4="-39.36" y4="-130" x5="-38.91" y5="-131.43" x6="-37.6" y6="-132.13" x7="-36" y7="-132.34" x8="-36" y8="-140" x9="-35.24" y9="-143" x10="-33.16" y10="-145.18" x11="-30.29" y11="-146.08" x12="-27.35" y12="-145.46" x13="-25.08" y13="-143.46" x14="-24" y14="-140.59" x15="-24" y15="-133.53" x16="-21.84" y16="-133.52" x17="-20.71" y17="-132.65" x18="-20.58" y18="-131.11" x19="-20.62" y19="-98.62" x20="-20.75" y20="-97.08" x21="-21.6" y21="-95.87" x22="-23.08" y22="-95.62" x23="-24" y23="-95" x24="-24" y24="-88.83" x25="-24.84" y25="-85.9" x26="-27" y26="-83.76" x27="-29.87" y27="-82.93" x28="-32.8" y28="-83.63" x29="-35" y29="-85.69" x30="-36" y30="-88.59" x31="-36" y31="-96.32" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <ellipse x="-32.25" y="-92.3" width="4.86" height="4.86" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <rect x="-34" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-29.87" y1="-144.46" x2="-25.45" y2="-141.91" x3="-25.45" y3="-136.82" x4="-29.87" y4="-134.27" x5="-34.27" y5="-136.82" x6="-34.27" y6="-141.91" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="-38" y1="-103.58" x2="-37.88" y2="-102" x3="-37.26" y3="-100.64" x4="-36" y4="-99.75" x5="-25.69" y5="-97.44" x6="-24.19" y6="-97.67" x7="-22.94" y7="-98.51" x8="-22.27" y8="-99.88" x9="-22" y9="-101.4" x10="-22" y10="-127.71" x11="-22.25" y11="-129.24" x12="-22.87" y12="-130.64" x13="-24.1" y13="-131.5" x14="-25.6" y14="-131.61" x15="-34.52" y15="-129.78" x16="-35.91" y16="-129.18" x17="-37" y17="-128.22" x18="-37.79" y18="-126.83" x19="-38" y19="-125.31" antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <rect x="-10" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-29.83" y1="-95" x2="-25.41" y2="-92.46" x3="-25.41" y3="-87.37" x4="-29.83" y4="-84.82" x5="-34.23" y5="-87.37" x6="-34.23" y6="-92.46" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-26" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-60" y="-210" z="14" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{91b94312-45d2-4e8d-934d-8247b95d18b5}" font="Liberation Sans,7,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="-34.26" y="-118.49" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="-18" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-34.26" y="-112.65" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="-60" y="-180" width="60" height="190" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-34.26" y="-106.88" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="-60" y="-167" width="60" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-28.26" y="-104.48" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-28.26" y="-110.25" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-28.26" y="-116" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-28.26" y="-121.8" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-28.26" y="-127.52" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-34.26" y="-124.2" width="2.57" height="2.57" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <ellipse x="-32.29" y="-141.75" width="4.86" height="4.86" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+    </description>
+</definition>

@@ -1,0 +1,35 @@
+<definition version="0.100.0" type="element" link_type="simple" width="80" height="130" hotspot_x="40" hotspot_y="15">
+    <uuid uuid="{7d9f87be-d24c-5ce3-9d33-7bd3e9464f42}"/>
+    <names>
+        <name lang="ca">Esborrador a 6 contactes</name>
+        <name lang="en">Wiper to 6 contacts</name>
+        <name lang="nl">Sleepcontact naar 6 polen</name>
+        <name lang="pt_BR">Chave seletora deslizante com 6 contatos</name>
+        <name lang="zh">弹球机电磁威廉姆斯单元雨刮器至06</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="-15" y="75" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="95" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="55" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="100" x2="-15" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="80" x2="-15" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="15" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="35" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="60" x2="-15" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-10" width="40" height="120" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="40" x2="-15" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="-5" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="0" x2="-15" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="20" x2="-15" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-2" y1="-3" x2="-2" y2="3" x3="-5" y3="0" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <terminal uuid="{ff030139-a0e9-4ba6-99cd-bddfbfaaf5c0}" name="" x="-30" y="100" orientation="w" type="Generic"/>
+        <terminal uuid="{0f3a7744-4781-461c-ae14-e7e9b1dc1614}" name="" x="-30" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{b35fb170-1103-4997-9baa-bf19e65ea242}" name="" x="-30" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{50dd17fb-6f0c-41e1-b6e5-a50752e7d48b}" name="" x="-30" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{1060bc80-375d-430b-ab85-72f607b7c581}" name="" x="30" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{33269401-62e9-4a9f-ba69-a6b5f1fc4166}" name="" x="-30" y="80" orientation="w" type="Generic"/>
+        <terminal uuid="{0dde40ce-ea63-42f0-94cd-20d906551281}" name="" x="-30" y="60" orientation="w" type="Generic"/>
+    </description>
+</definition>

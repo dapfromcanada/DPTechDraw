@@ -1,0 +1,33 @@
+<definition version="0.100.0" type="element" link_type="slave" width="30" height="60" hotspot_x="22" hotspot_y="30">
+    <uuid uuid="{70f791a2-e9a7-a67a-89db-15a81e37a786}"/>
+    <names>
+        <name lang="ca">Contacte simple (NC / temporitzador de retard d'encesa i apagat)</name>
+        <name lang="cs">Kontakt NC zpožděný přítah i odpad</name>
+        <name lang="en">Simple contact (NC / switch-on and off delay timer)</name>
+        <name lang="fr">Contact simple NF (tempo travail et repos)</name>
+        <name lang="pt_BR">Contato simples NF temporizado na energização e desenergização</name>
+        <name lang="zh">常闭延时工作复位触点</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">delayOnOff</kindInformation>
+        <kindInformation name="state">NC</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x1="5" y1="-10" x2="0" y2="10" x3="0" y3="20" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="-25" y="-5" width="10" height="10" start="270" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line x1="-14.8" y1="1.5" x2="2" y2="1.5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-9" x2="6" y2="-9" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-14.8" y1="-1.5" x2="2.5" y2="-1.5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="9" y="-12" z="6" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{eb70ae75-4571-4a6c-912e-492db81b4a97}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc x="-15" y="-5" width="10" height="10" start="90" angle="180" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line x1="0" y1="-20" x2="0" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{0ad02d4f-4540-4c99-8036-24c9dc663859}" name="" x="0" y="-20" orientation="n" type="Generic"/>
+        <terminal uuid="{90ef43d2-5366-42d8-8581-acba4a6302df}" name="" x="0" y="20" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,61 @@
+<definition version="0.100.0" type="element" link_type="simple" width="50" height="140" hotspot_x="25" hotspot_y="74">
+    <uuid uuid="{7117aa94-ab12-20f4-d343-35462c17b0a1}"/>
+    <names>
+        <name lang="ca">CAN bus cRIO</name>
+        <name lang="cs">cRIO 9853 - modul CAN-bus</name>
+        <name lang="en">cRIO bus CAN</name>
+        <name lang="es">cRIO 9853 - puertos CAN</name>
+        <name lang="fr">cRIO bus CAN</name>
+        <name lang="it">cRIO 9853 - modulo CAN-bus</name>
+        <name lang="nl">cRIO bus CAN</name>
+        <name lang="pl">cRIO 9853 - porty High-Speed CAN</name>
+        <name lang="pt_BR">Módulo de comunicação de barramento CAN High-Speed NI cRIO-9853 (2 portas CAN)</name>
+        <name lang="zh">cRIO 9853 2路CAN接口模块</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text text=" bus&#10;CAN" x="-8" y="-63" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Port 1" x="-6" y="-31" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="0" y="-23" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="Port 2" x="-6" y="14" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-20" y="-50" width="40" height="110" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-3" y="-9" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="-13" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-2" y="-1" width="3" height="3" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="-11" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="-21" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="-7" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="-17" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="-15" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="-19" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-5" y1="-4" x2="-5" y2="-24" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="-24" x2="4" y2="-25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="4" y1="-3" x2="4" y2="-25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="4" y1="-3" x2="-5" y2="-4" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-2" y="-30" width="3" height="3" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="23" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-2" y="45" width="3" height="3" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="37" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="33" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="35" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="25" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="39" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-3" y="29" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="31" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="0" y="27" width="2" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-5" y1="42" x2="-5" y2="22" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="22" x2="4" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="4" y1="43" x2="4" y2="21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="4" y1="43" x2="-5" y2="42" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-2" y="16" width="3" height="3" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-29" y="64.5" z="35" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{cc03fac7-c4f9-4b2d-b01c-e832933c31d0}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="NI 9853" x="-13" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-20" y1="-40" x2="20" y2="-40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{420cfe30-6206-42e2-84ca-191597d8fc03}" name="" x="-2" y="32" orientation="w" type="Generic"/>
+        <terminal uuid="{5e77e804-39b7-41eb-9142-9153fb2ddb5f}" name="" x="-2" y="-14" orientation="w" type="Generic"/>
+    </description>
+</definition>

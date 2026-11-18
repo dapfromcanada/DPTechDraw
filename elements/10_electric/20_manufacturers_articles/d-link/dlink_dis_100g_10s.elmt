@@ -1,0 +1,117 @@
+<definition version="0.90" type="element" link_type="simple" width="90" height="430" hotspot_x="45" hotspot_y="232">
+    <uuid uuid="{e6fcfc76-e8c1-6992-442a-c5933f68797d}"/>
+    <names>
+        <name lang="ar">D-Link_DIS-100G-10S</name>
+        <name lang="ca">D-Link_DIS-100G-10S</name>
+        <name lang="cs">D-Link_DIS-100G-10S</name>
+        <name lang="de">D-Link_DIS-100G-10S</name>
+        <name lang="en">D-Link_DIS-100G-10S</name>
+        <name lang="es">D-Link_DIS-100G-10S</name>
+        <name lang="fr">D-Link_DIS-100G-10S</name>
+        <name lang="it">D-Link_DIS-100G-10S</name>
+        <name lang="nl">D-Link_DIS-100G-10S</name>
+        <name lang="pl">D-Link_DIS-100G-10S</name>
+        <name lang="pt_BR">Switch industrial Gigabit nao gerenciavel 8 portas RJ45 e 2 SFP D-Link DIS-100G-10S</name>
+        <name lang="zh">D-Link DIS-100G-10S 交换机</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">DIS-100G-10S</elementInformation>
+        <elementInformation show="1" name="manufacturer">D-Link</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="7" y="-74" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="16" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="-104" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="-44" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="-134" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <line x1="29.8" y1="175.7" x2="30.2" y2="175.7" end1="none" end2="none" length1="1" length2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="7" y="-14" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="76" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="46" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenYellowGreen;color:black" antialias="false"/>
+        <rect x="7" y="-121" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="7" y="-1" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="7" y="-91" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="7" y="-61" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="7" y="59" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="7" y="-31" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="7" y="-151" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <rect x="-10" y="56" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="7" y="29" width="3" height="5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:black" antialias="false"/>
+        <dynamic_text x="-64" y="-143" z="18" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{91b94312-45d2-4e8d-934d-8247b95d18b5}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-18.6" y="126" width="8.6" height="28.2" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:HTMLYellowYellow" antialias="false"/>
+        <rect x="14" y="96" width="8.6" height="28.05" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:HTMLYellowYellow" antialias="false"/>
+        <rect x="-10" y="-64" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="96" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="-154" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="-124" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="14" y="126" width="8.6" height="28.05" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:HTMLYellowYellow" antialias="false"/>
+        <rect x="-10" y="-4" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-7" y1="-121" x2="-7" y2="-99" x3="7" y3="-99" x4="7" y4="-104" x5="10" y5="-104" x6="10" y6="-107" x7="12" y7="-107" x8="12" y8="-113" x9="10" y9="-113" x10="10" y10="-116" x11="7" y11="-116" x12="7" y12="-121" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-10" y="126" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-8" y1="107" x2="-8" y2="113" x3="-6" y3="113" x4="-6" y4="116" x5="-6" y5="121" x6="-3" y6="121" x7="11" y7="121" x8="11" y8="99" x9="-3" y9="99" x10="-6" y10="99" x11="-6" y11="104" x12="-6" y12="107" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-10" y="-94" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-18.8" y="95.9" width="8.6" height="28.2" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:HTMLYellowYellow" antialias="false"/>
+        <polygon x1="-7" y1="-151" x2="-7" y2="-129" x3="7" y3="-129" x4="7" y4="-134" x5="10" y5="-134" x6="10" y6="-137" x7="12" y7="-137" x8="12" y8="-143" x9="10" y9="-143" x10="10" y10="-146" x11="7" y11="-146" x12="7" y12="-151" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-8" y1="137" x2="-8" y2="143" x3="-6" y3="143" x4="-6" y4="146" x5="-6" y5="151" x6="-3" y6="151" x7="11" y7="151" x8="11" y8="129" x9="-3" y9="129" x10="-6" y10="129" x11="-6" y11="134" x12="-6" y12="137" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-7" y1="-61" x2="-7" y2="-39" x3="7" y3="-39" x4="7" y4="-44" x5="10" y5="-44" x6="10" y6="-47" x7="12" y7="-47" x8="12" y8="-53" x9="10" y9="-53" x10="10" y10="-56" x11="7" y11="-56" x12="7" y12="-61" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-10" y="-34" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x1="-7" y1="-91" x2="-7" y2="-69" x3="7" y3="-69" x4="7" y4="-74" x5="10" y5="-74" x6="10" y6="-77" x7="12" y7="-77" x8="12" y8="-83" x9="10" y9="-83" x10="10" y10="-86" x11="7" y11="-86" x12="7" y12="-91" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-10" y="26" width="24" height="28" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="ALM" x="-10" y="180" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-7" y1="-1" x2="-7" y2="21" x3="7" y3="21" x4="7" y4="16" x5="10" y5="16" x6="10" y6="13" x7="12" y7="13" x8="12" y8="7" x9="10" y9="7" x10="10" y10="4" x11="7" y11="4" x12="7" y12="-1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="-7" y1="59" x2="-7" y2="81" x3="7" y3="81" x4="7" y4="76" x5="10" y5="76" x6="10" y6="73" x7="12" y7="73" x8="12" y8="67" x9="10" y9="67" x10="10" y10="64" x11="7" y11="64" x12="7" y12="59" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="DIS-100G-10S" x="-26.4" y="-200" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-7" y1="-31" x2="-7" y2="-9" x3="7" y3="-9" x4="7" y4="-14" x5="10" y5="-14" x6="10" y6="-17" x7="12" y7="-17" x8="12" y8="-23" x9="10" y9="-23" x10="10" y10="-26" x11="7" y11="-26" x12="7" y12="-31" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="PWR" x="-20" y="-187" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-7" y1="29" x2="-7" y2="51" x3="7" y3="51" x4="7" y4="46" x5="10" y5="46" x6="10" y6="43" x7="12" y7="43" x8="12" y8="37" x9="10" y9="37" x10="10" y10="34" x11="7" y11="34" x12="7" y12="29" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="6" x="1" y="-170" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P8" x="-18" y="74" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P7" x="-18" y="44" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P1" x="-28" y="180" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P5" x="-18.21" y="-15.79" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="SFP" x="-20" y="-175" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P2" x="12" y="180" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P6" x="-18" y="14" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="_" x="19" y="182" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="8" y="184" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="D-Link" x="-25" y="-210" rotation="0" font="Liberation Sans,12,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P4" x="-18" y="-46" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P9" x="15" y="113" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="_" x="-21" y="182" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="15" y="-170" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+" x="-32" y="184" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-1" y="-192" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-1" y="-180" width="6" height="5.62" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="13" y="-180" width="6" height="5.62" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="P3" x="-18" y="-76" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P10" x="14" y="143" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P1" x="-18" y="-136" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P2" x="-18" y="-106" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-40" y="-230" width="80" height="420" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="30" y1="190" x2="30" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="26" y1="180" x2="34" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="28" y1="178.5" x2="32" y2="178.5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="177.1" x2="31" y2="177.1" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{043989b6-cbf6-409e-a107-8fe7ad20a17b}" name="" x="10" y="-110" orientation="e" type="Generic"/>
+        <terminal uuid="{45c165bf-2c00-4704-80c3-594b79f9adb7}" name="" x="10" y="-140" orientation="e" type="Generic"/>
+        <terminal uuid="{015e6c78-011d-4c3d-81ee-bcac3fc21787}" name="" x="0" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{f1cdef52-ab84-49a6-b441-d1924f9ff506}" name="" x="20" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{bc230f0d-ee9a-4bb0-996f-09d161942702}" name="" x="-10" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{1a1b0942-da45-47a1-bb07-164fbacd6970}" name="" x="10" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{168bae35-99d8-4536-9975-b35d30d8d8ca}" name="" x="-30" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{dbf4cd2e-4633-48ca-8bad-c94ec9f943ed}" name="" x="10" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{f7cb8b6d-f794-4d34-946d-407d4ac91439}" name="" x="-20" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{939671fd-e728-471e-9a03-e3bfced8e972}" name="" x="10" y="-80" orientation="e" type="Generic"/>
+        <terminal uuid="{c2f1a100-fc18-4a91-a717-d7c1db279433}" name="" x="10" y="-20" orientation="e" type="Generic"/>
+        <terminal uuid="{71a12056-ad0a-47d7-8b94-51ef22701e8b}" name="" x="30" y="190" orientation="s" type="Generic"/>
+        <terminal uuid="{1412ea07-f4c2-4642-922b-b49f09ed44ef}" name="" x="10" y="70" orientation="e" type="Generic"/>
+        <terminal uuid="{ba33b692-533a-4e31-a52e-e6ef0891369b}" name="" x="-5" y="110" orientation="w" type="Generic"/>
+        <terminal uuid="{d3c4a4ce-4483-4c8f-b749-067866017ac1}" name="" x="-5" y="140" orientation="w" type="Generic"/>
+        <terminal uuid="{79a28c51-25d0-4c8b-a1d4-7fe063a0403c}" name="" x="10" y="40" orientation="e" type="Generic"/>
+        <terminal uuid="{6b19384c-f498-4c61-a4bf-5b8f51b91a29}" name="" x="10" y="-50" orientation="e" type="Generic"/>
+    </description>
+</definition>

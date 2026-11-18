@@ -1,0 +1,26 @@
+<definition version="0.100.0" type="element" link_type="simple" width="80" height="70" hotspot_x="40" hotspot_y="15">
+    <uuid uuid="{6caf4a0e-f01b-6b4b-ab49-231295c92e6f}"/>
+    <names>
+        <name lang="ca">Esborratxa a 3 contactes</name>
+        <name lang="en">Wiper to 3 contacts</name>
+        <name lang="nl">Sleepcontact naar 3 polen</name>
+        <name lang="pt_BR">Chave seletora deslizante com 3 contatos</name>
+        <name lang="zh">弹球机电磁威廉姆斯单元雨刮器至03</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="-15" y="15" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="35" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-10" width="40" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="40" x2="-15" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="-5" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="0" x2="-15" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="20" x2="-15" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-2" y1="-3" x2="-2" y2="3" x3="-5" y3="0" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <terminal uuid="{0c6b5b59-70cf-4342-a245-bf303a5a5f56}" name="" x="30" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{1f1a237a-75a7-472e-ab8c-5aee5f3bfbf2}" name="" x="-30" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{37b472c4-b132-432a-8ac2-af36760dff8b}" name="" x="-30" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{0e13d6a7-c78f-4290-8cc6-36802e188cce}" name="" x="-30" y="40" orientation="w" type="Generic"/>
+    </description>
+</definition>

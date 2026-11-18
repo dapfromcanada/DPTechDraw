@@ -1,0 +1,17 @@
+<qet-directory>
+    <names>
+        <name lang="cs">AnalogIN</name>
+        <name lang="da">AnalogIN</name>
+        <name lang="de">AnalogIN</name>
+        <name lang="el">AnalogIN</name>
+        <name lang="en">AnalogIN</name>
+        <name lang="fr">AnalogIN</name>
+        <name lang="it">AnalogIN</name>
+        <name lang="ko">디지털IN</name>
+        <name lang="nl">AnalogIN</name>
+        <name lang="pl">AnalogIN</name>
+        <name lang="pt_BR">AnalogIN</name>
+        <name lang="ru">AnalogIN</name>
+        <name lang="zh">模拟输入</name>
+    </names>
+</qet-directory>

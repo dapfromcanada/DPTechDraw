@@ -1,0 +1,50 @@
+<definition version="0.100.0" type="element" link_type="simple" width="80" height="70" hotspot_x="39" hotspot_y="37">
+    <uuid uuid="{b9979842-09a9-0312-eb06-8049c3888530}"/>
+    <names>
+        <name lang="ca">VUVG-L18-B52-T-G14-1R8L (8031533)</name>
+        <name lang="cs">VUVG-L18-B52-T-G14-1R8L (8031533)</name>
+        <name lang="en">VUVG-L18-B52-T-G14-1R8L (8031533)</name>
+        <name lang="pt_BR">Válvula solenoide pneumática 5/2 vias duplo solenoide Festo VUVG B52 (Bistável)</name>
+        <name lang="zh">Festo VUVG-L18-B52-T-G14-1R8L 电磁阀</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Festo</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text text="+/-" x="17" y="8" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <arc x="17" y="-25.8" width="6" height="6" start="96" angle="84" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="+/-" x="-3" y="8" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="n.c." x="-24" y="-2" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-35" y="-20" width="71" height="50" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="4" x="18" y="-9" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-60" y="-24" z="7" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{473e43f0-b6d5-4aca-8f65-70b7c1bb2a2e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc x="17" y="-25.8" width="6" height="6" start="359" angle="84" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="19" y="-23" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="20" y1="-29.8" x2="20" y2="-25.8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-3" y="-25.8" width="6" height="6" start="96" angle="84" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-3" y="-25.8" width="6" height="6" start="359" angle="84" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="2" y1="15" x2="2" y2="23" x3="18" y3="15" x4="18" y4="23" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect x="-1" y="-23" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <rect x="6" y="-4" width="8" height="14" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="-29.8" x2="0" y2="-25.8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="14" y1="-1" x2="6" y2="7" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="M8" x="-31" y="-14" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-22" y="-9" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-2" y="-9" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="10" y1="10" x2="10" y2="19" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="-23" y="-25.8" width="6" height="6" start="96" angle="84" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-23" y="-25.8" width="6" height="6" start="359" angle="84" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-21" y="-23" width="2" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line x1="-20" y1="-29.8" x2="-20" y2="-25.8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="0" y1="-7" x2="0" y2="3" x3="6" y3="3" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x1="14" y1="3" x2="20" y2="3" x3="20" y3="-7" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <terminal uuid="{39e24f10-e97d-a1c3-0577-c5245cd98dec}" name="" x="0" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{dc3e2aac-f69f-df3f-66db-10aa540c762e}" name="" x="20" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{0031ac91-4b84-2346-fbef-38715b97e0f8}" name="" x="-20" y="-30" orientation="n" type="Generic"/>
+    </description>
+</definition>

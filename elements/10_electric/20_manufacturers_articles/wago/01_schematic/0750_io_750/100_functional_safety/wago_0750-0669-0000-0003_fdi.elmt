@@ -1,0 +1,69 @@
+<definition version="0.100.0" type="element" link_type="simple" width="730" height="110" hotspot_x="365" hotspot_y="51">
+    <uuid uuid="{8d1db50f-0d12-bfd3-fc28-df485938e54b}"/>
+    <names>
+        <name lang="ca">750-669/000-003 (FDI)</name>
+        <name lang="cs">750-669/000-003 (FDI)</name>
+        <name lang="de">750-669/000-003 (FDI)</name>
+        <name lang="en">750-669/000-003 (FDI)</name>
+        <name lang="fr">750-669/000-003 (FDI)</name>
+        <name lang="pt_BR">750-669/000-003 (FDI)</name>
+        <name lang="zh">wago_0750-0669-0000-0003_故障数字输入</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">4FDI / 4FRO 48VAC / 60VDC / 6A PROFIsafe V2 iPar</elementInformation>
+        <elementInformation show="1" name="designation">750-669/000-003</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <text text="18" x="-296.55" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0V" x="-306" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="+24V" x="-351.8" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="360" y1="-40" x2="-360" y2="-40" x3="-360" y3="50" x4="360" y4="50" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="220" y="29.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{115d71d6-1e1b-457a-8d1c-6ba5484654fc}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="17" x="-336.55" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="360" y1="-40" x2="360" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashdotted;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-302.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="3" x="-76" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-342.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <text text="T2" x="-79" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I3" x="162" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="165" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-156" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I1" x="-159" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="T2" x="241" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="246" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-236" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="T1" x="-239" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I4" x="321" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="326" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="4" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="WAGO 750-669/000-003 (FDI)" x="-339" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I2" x="1" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="T1" x="82" y="-24" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="86" y="-42" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4FDI / 4FRO 48VAC / 60VDC / 6A PROFIsafe V2 iPar" x="-130" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="157.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-82.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="237.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-162.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="317.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-242.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="77.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-2.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <terminal uuid="{ca3236d7-2e19-4d58-bf24-b4a40431df74}" name="24V.17" x="-340" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{481e0c91-eb82-4ecb-b03b-87a6efec68c3}" name="T1.5" x="80" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{5604236b-ea4b-433f-be19-82297483c623}" name="I1.2" x="-160" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{1cd0b033-6917-40ce-a66f-de026d76f119}" name="T2.3" x="-80" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{31104c2c-00f2-4638-88c3-c6fc4754e333}" name="T1.1" x="-240" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{60f992d8-4251-4653-95c0-3dda20d0ac71}" name="T2.7" x="240" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{a56c182e-7577-4a2f-9d95-6f6d2781046a}" name="I3.6" x="160" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{968fff10-5a72-41da-a4ce-f71394491fc3}" name="I4.8" x="320" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{6652e007-7be1-46ea-9d1e-5e9897ee2453}" name="I2.4" x="0" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{ee4b3380-64c4-4ee2-a1f1-3d52fc581262}" name="0V.18" x="-300" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

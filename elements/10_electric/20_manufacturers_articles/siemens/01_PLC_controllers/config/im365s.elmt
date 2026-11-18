@@ -1,0 +1,40 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="270" hotspot_x="17" hotspot_y="43">
+    <uuid uuid="{fab45fe9-c3f3-739a-fe7d-b25f2cb41272}"/>
+    <names>
+        <name lang="ar">IM365 SEND 365-0BA01-0AA0</name>
+        <name lang="ca">IM365 ENVIAR 365-0BA01-0AA0</name>
+        <name lang="cs">IM365 SEND 365-0BA01-0AA0</name>
+        <name lang="el">IM365 SEND 365-0BA01-0AA0</name>
+        <name lang="en">IM365 SEND 365-0BA01-0AA0</name>
+        <name lang="es">IM365 Emisor 365-0BA01-0AA0</name>
+        <name lang="fr">IM365 SEND 365-0BA01-0AA0</name>
+        <name lang="it">IM365 Trasmettitore 365-0BA01-0AA0</name>
+        <name lang="nl">IM365 Zender 365-0BA01-0AA0</name>
+        <name lang="pl">IM365 SEND 365-0BA01-0AA0</name>
+        <name lang="pt">6ES7 365-0BA01-0AA0</name>
+        <name lang="pt_BR">Modulo de interface Siemens IM365 Envio (6ES7 365-0BA01-0AA0, rack mestre S7-300)</name>
+        <name lang="zh">IM365 S 接口模块</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="-7" y="-61.95" z="1" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e4b5e8d5-0eed-4cde-b190-1bc3e0bf72e7}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-10" y="-30" width="80" height="250" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="33" y="-24" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{fc33c06e-9660-4d2c-baae-ea865a284595}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>SEND</text>
+        </dynamic_text>
+        <dynamic_text x="-12" y="210" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{afa03399-8f34-4e8b-9eb4-602ae3bbe292}" font="Liberation Sans,3,-1,5,25,0,0,0,0,0,Regular">
+            <text>335-0BA01-0AA0</text>
+        </dynamic_text>
+        <dynamic_text x="32" y="-33" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{631381d7-804e-4e42-9c8d-0d1dc1dea556}" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular">
+            <text>IM 365</text>
+        </dynamic_text>
+        <ellipse x="-4" y="206" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-8" y="202" width="12" height="12" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="120" x2="69" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{52124ef6-6b2f-44c1-9761-660cd84a1b6f}" name="" x="36" y="217" orientation="n" type="Generic"/>
+    </description>
+</definition>

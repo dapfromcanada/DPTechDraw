@@ -1,0 +1,48 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="50" hotspot_x="30" hotspot_y="25">
+    <uuid uuid="{bceec94e-836e-68ab-b859-fd12a77003ac}"/>
+    <names>
+        <name lang="ca">Acoblador de línia</name>
+        <name lang="cs">Spojka vedení</name>
+        <name lang="en">Line coupler</name>
+        <name lang="es">Acoplador de línea</name>
+        <name lang="fr">Coupleur de ligne</name>
+        <name lang="it">Accoppiatore di linea</name>
+        <name lang="nl">Lijn koppelaar</name>
+        <name lang="pl">Sprzęgło linii</name>
+        <name lang="pt_BR">Line coupler</name>
+        <name lang="zh">KNX 006 元件</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-10" y="-15" width="30" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="20" y="-15" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="24" y1="-11" x2="24" y2="11" x3="25" y3="12" x4="26" y4="11" x5="26" y5="-11" x6="25" y6="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-20" y="-15" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="22" y1="-9" x2="25" y2="-12" x3="28" y3="-9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="22" y1="9" x2="25" y2="12" x3="28" y3="9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-16" y1="-11" x2="-16" y2="11" x3="-15" y3="12" x4="-14" y4="11" x5="-14" y5="-11" x6="-15" y6="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-18" y1="-9" x2="-15" y2="-12" x3="-12" y3="-9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-18" y1="9" x2="-15" y2="12" x3="-12" y3="9" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="8" y1="-10" x2="8" y2="-4" x3="2" y3="-7" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="2" y1="4" x2="2" y2="10" x3="8" y3="7" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="-22" y="-38.5" z="12" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a3c34e4c-74ca-4047-b2a5-49b99e529480}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{68c20ea1-546a-4921-a4af-1600182cd5aa}" name="" x="-20" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{2b95988b-7e43-42b6-8567-a3f98286d289}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{f35d1f66-e4ef-4df8-a653-478022c40226}" name="" x="-20" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{b02c17c9-7051-4126-8143-9f8bfa38fa1a}" name="" x="30" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{845f5260-d3b5-47b7-b6ac-8570849c352b}" name="" x="30" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{fa016bf6-37e2-44a6-b466-6c04ac2f162d}" name="" x="30" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{b324e1b4-6801-4f79-878c-e00ab89cdca1}" name="" x="-10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{8196eaff-da8a-4d52-b6f2-ded1c028354d}" name="" x="0" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{1f644f3c-545f-45a1-a671-732a060d45ae}" name="" x="10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{de1e18d5-3c77-4d09-b9fd-34b7216da4d6}" name="" x="-10" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{fbf45b86-2c29-46b1-988f-ea04398fd4a2}" name="" x="0" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{e89d40db-fac4-4d24-bc1e-9ff897fd3af8}" name="" x="10" y="15" orientation="s" type="Generic"/>
+        <terminal uuid="{38f9b3e4-dee9-474a-83da-f9cf67351802}" name="" x="20" y="-15" orientation="n" type="Generic"/>
+        <terminal uuid="{71aa5c69-ac98-43a3-ab5f-116be67f3360}" name="" x="20" y="15" orientation="s" type="Generic"/>
+    </description>
+</definition>

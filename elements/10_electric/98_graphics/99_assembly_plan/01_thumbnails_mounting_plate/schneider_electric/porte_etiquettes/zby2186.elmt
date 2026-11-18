@@ -1,0 +1,24 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="50" height="60" hotspot_x="25" hotspot_y="54">
+    <uuid uuid="{7f2081b8-0d4e-ac43-42f5-b9d4ab0dda6e}"/>
+    <names>
+        <name lang="ca">Portaetiquetes I-0-II</name>
+        <name lang="cs">Štítek ovladače I-0-II</name>
+        <name lang="fr">Porte étiquette I-0-II</name>
+        <name lang="pt_BR">portase étiquette I-0-II</name>
+        <name lang="zh">标签支架 ZBY2186</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Porte étiquette I-0-II</elementInformation>
+        <elementInformation show="1" name="designation">ZBY2186</elementInformation>
+        <elementInformation show="1" name="manufacturer">Schneider</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-20" y="-48" width="40" height="24" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="-22" y1="-50" x2="22" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-22" y1="-50" x2="-22" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="22" y1="-50" x2="22" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="I-0-II" x="-12.63" y="-30.15" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+    </description>
+</definition>

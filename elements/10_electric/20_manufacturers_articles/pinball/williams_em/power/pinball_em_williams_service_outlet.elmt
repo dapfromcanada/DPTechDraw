@@ -1,0 +1,20 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="30" hotspot_x="30" hotspot_y="15">
+    <uuid uuid="{9abf9170-6505-92f3-9b4e-3be667323596}"/>
+    <names>
+        <name lang="ca">Punt de servei</name>
+        <name lang="en">Service outlet</name>
+        <name lang="nl">Servicestopcontact</name>
+        <name lang="pt_BR">Tomada de servico</name>
+        <name lang="zh">威廉姆斯弹球机维修插座</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="-10" y="-10" width="20" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="0" x2="-20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-4" y1="-5" x2="-4" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="4" y1="-5" x2="4" y2="5" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{1ced2415-e90e-48c5-aa77-ef84f8f8a729}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{3034e96d-8a0a-4f6c-845a-d3ba6f37440a}" name="" x="20" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,89 @@
+<definition version="0.80" type="element" link_type="simple" width="740" height="120" hotspot_x="370" hotspot_y="54">
+    <uuid uuid="{39e87f34-efc6-eb8f-d691-fb3e8fc25eab}"/>
+    <names>
+        <name lang="ar">750-658/040-000</name>
+        <name lang="ca">750-658/040-000</name>
+        <name lang="cs">750-658/040-000</name>
+        <name lang="de">750-658/040-000</name>
+        <name lang="el">750-658/040-000</name>
+        <name lang="en">750-658/040-000</name>
+        <name lang="es">750-658/040-000</name>
+        <name lang="fr">750-658/040-000</name>
+        <name lang="it">750-658/040-000</name>
+        <name lang="nl">750-658/040-000</name>
+        <name lang="pl">750-658/040-000</name>
+        <name lang="pt">750-658/040-000</name>
+        <name lang="pt_BR">750-658/040-000</name>
+        <name lang="zh">WAGO 0750-0658-0040-0000 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">CAN Gateway CANopen</elementInformation>
+        <elementInformation show="1" name="designation">750-658/040-000</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="200" y1="50" x2="200" y2="15" x3="300" y3="15" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line x1="290" y1="25" x2="310" y2="25" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="293" y1="30" x2="307" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="Node ID:" x="45" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="296" y1="35" x2="304" y2="35" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="CAN-L" x="-197" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="300" y1="25" x2="300" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="101" y="-42.5" z="9" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="UserText" uuid="{da0c1eff-28d3-4771-9a19-ac340004c8c6}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>1</text>
+        </dynamic_text>
+        <text text="CAN-H" x="-277" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="280" y1="14" x2="280" y2="50" end1="circle" end2="none" length1="1" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="24V" x="-355" y="-11" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0V" x="-355" y="9" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-40" y1="50" x2="-40" y2="-11.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <text text="Shield" x="284" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Shield" x="204" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-37" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CAN-GND" x="-117" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0V" x="44" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="40" y1="50" x2="40" y2="8.5" end1="none" end2="circle" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <line x1="-360" y1="10" x2="360" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-360" y1="-10" x2="360" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="WAGO 750-658/040-000" x="-331" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="219" y="-42.5" z="24" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{1cc4a387-0d04-4662-a469-bef20422a0b2}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="1" x="-278" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="-197" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-117" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="-37" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="43" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="123" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="203" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="283" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CAN Gateway" x="-139" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-42.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-122.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-202.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-282.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="277.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="197.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="117.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <polygon x1="-362" y1="-10" x2="-356" y2="-10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="-12.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="-362" y1="10" x2="-356" y2="10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="7.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{9febe12f-32f5-0468-8c7d-1643da5ec0f3}" name="Pow.N.In" x="-360" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{35636e87-c6b9-bf8c-f7fd-47da7b488fa8}" name="Pow.L.In" x="-360" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{dda8eeec-9f94-c90b-9a8c-917f2e2ddbbb}" name="Pow.N.Out" x="360" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{ac745804-1901-53eb-d451-121a64df141f}" name="Pow.L.Out" x="360" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{daf98feb-c6fd-95e5-7627-52d99afa601a}" name="1" x="-280" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{9f2ca5b9-8325-e8db-5df9-a063d5393356}" name="5" x="-200" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{593fac9e-a7ff-f515-c188-2bcab6c58ff6}" name="2" x="-120" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{886a55ef-ac31-6875-4351-619cba932c0e}" name="6" x="-40" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{15fe10db-6317-85d0-9d42-35815c990b55}" name="3" x="40" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{5f6feccf-3b01-1eb5-c0fb-f6ef544e2691}" name="4" x="200" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{2ca77240-9559-613c-5423-a89a9ed35ccd}" name="8" x="280" y="50" orientation="s" type="Generic"/>
+    </description>
+</definition>

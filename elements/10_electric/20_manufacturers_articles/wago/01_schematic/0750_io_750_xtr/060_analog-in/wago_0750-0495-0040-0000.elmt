@@ -1,0 +1,68 @@
+<definition version="0.90" type="element" link_type="simple" width="730" height="110" hotspot_x="365" hotspot_y="50">
+    <uuid uuid="{61c1493d-6757-417b-630e-49dfca884947}"/>
+    <names>
+        <name lang="ca">750-495/040-000</name>
+        <name lang="cs">750-495/040-000</name>
+        <name lang="de">750-495/040-000</name>
+        <name lang="en">750-495/040-000</name>
+        <name lang="fr">750-495/040-000</name>
+        <name lang="pt_BR">750-495/040-000</name>
+        <name lang="zh">WAGO 0750-0495-0040-0000 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">3ph. power measurement 690V 1A XTR</elementInformation>
+        <elementInformation show="1" name="designation">750-495/040-000</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="I2+" x="84" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I3−" x="186" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I1−" x="24" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IN+" x="244" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I1+" x="4" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="IN−" x="265" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I2−" x="105" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="I3+" x="165" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L3" x="-275" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L2" x="-295" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L1" x="-315" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="WAGO 750-495/040-000" x="-339" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="N" x="-254" y="-23" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3-ph. power measurement 690V / 1A /XTR" x="-130" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="220" y="29.5" z="21" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{f448b8e7-91ea-42e3-a32d-44e7eb0ef305}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <ellipse x="187.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="87.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="247.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-132.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="27.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="267.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-272.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="7.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="167.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-112.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="107.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-292.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-92.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-312.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-152.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-252.5" y="-42.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <terminal uuid="{e7b703f5-ab11-c92e-c3a2-a7fb4240ff94}" name="L1" x="-310" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{b4561f77-6ad9-ad6a-acfd-0c950625bbc9}" name="L2" x="-290" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{23fbb39a-e7cc-2595-fcda-49904f9a1686}" name="L3" x="-270" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{a51da75a-36da-b751-41d4-0061920cc380}" name="N" x="-250" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{155f293e-4889-0857-0792-c622afb84308}" name="I1+" x="10" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{b03dd8fd-e874-7084-7505-97bfe8e3e738}" name="I1-" x="30" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{4dca3c2c-8cf4-22fc-6c2f-920b8ec28a94}" name="I2+" x="90" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{7a9db89c-94f0-426b-eddd-bb505d375dfc}" name="I2-" x="110" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{068e17ef-7711-438b-4c97-0ad687dcf947}" name="I3+" x="170" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{31d6af5a-d87a-c0c5-2bf2-81d020ea6610}" name="I3-" x="190" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{0e21f4cf-64b9-ff24-c2de-1dc3c7c6c9d8}" name="IN+" x="250" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{1a134449-7725-9de2-1013-6c8046a9f344}" name="IN-" x="270" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

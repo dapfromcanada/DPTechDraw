@@ -1,0 +1,24 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="30" hotspot_x="30" hotspot_y="10">
+    <uuid uuid="{932d4672-8247-510c-4231-938a1cfea8e6}"/>
+    <names>
+        <name lang="ca">Bobina flipper</name>
+        <name lang="en">Flipper coil</name>
+        <name lang="nl">Flipperspoel</name>
+        <name lang="pt_BR">Flipper Bobina</name>
+        <name lang="zh">威廉姆斯电磁弹珠台拨片线圈</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <arc x="0" y="-4" width="8" height="8" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="8" y="-4" width="8" height="8" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-16" y="-4" width="8" height="8" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-8" y="-4" width="8" height="8" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-20" y1="0" x2="-16" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="16" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="0" x2="0" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-2" y="0" width="4" height="4" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <terminal uuid="{e4b13953-3d15-4d79-a6f0-293113a3e5d2}" name="" x="-20" y="0" orientation="w" type="Generic"/>
+        <terminal uuid="{72d6e1f7-e14e-449a-996e-2205dca7cc8b}" name="" x="20" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{00db80d6-fb44-49f4-8323-c1fa063f2075}" name="" x="0" y="10" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,64 @@
+<definition version="0.100.0" type="element" link_type="simple" width="260" height="100" hotspot_x="35" hotspot_y="10">
+    <uuid uuid="{95c66736-f4cd-585c-6b4d-7d3a718d34ed}"/>
+    <names>
+        <name lang="ca">Comptador d'energia</name>
+        <name lang="cs">Elektroměr</name>
+        <name lang="de">Energiezähler</name>
+        <name lang="en">Energy meter</name>
+        <name lang="fr">Compteur Energie</name>
+        <name lang="pt_BR">Medidor de energia</name>
+        <name lang="zh">溯高美</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Socomec</elementInformation>
+    </elementInformations>
+    <informations>S.Deffaux</informations>
+    <description>
+        <text text="1" x="17" y="19.39" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L3" x="194" y="70.05" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L2" x="104" y="70.05" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="160" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="130" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="70" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="190" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="40" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-30" y="0" width="250" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="100" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="160" y="55" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="190" y="55" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="70" y="55" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="100" y="55" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="5" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="55" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="55" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="50" x2="220" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="30" x2="220" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="SOCOMEC COUNTIS E 23" x="35" y="45" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="N" x="-14" y="20" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="46.87" y="18.46" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="77.08" y="18.18" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="105.26" y="18.54" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="136.47" y="18.66" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="166.11" y="18.91" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="197.32" y="18.66" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L1" x="-16" y="70" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L1" x="14" y="70" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L2" x="73.86" y="70.32" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L3" x="164" y="70" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <terminal uuid="{c13b3c18-0d4d-4c18-a48c-60540e7357f0}" name="4" x="110" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{26cd2c54-c06a-4918-9bca-adc966714ef1}" name="7" x="200" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{9918b34d-42a4-4fd9-852c-e88aeac95979}" name="L1.2" x="20" y="80" orientation="s" type="Generic"/>
+        <terminal uuid="{d2faa845-e807-467f-970a-4a26adbf4c82}" name="L2.1" x="80" y="80" orientation="s" type="Generic"/>
+        <terminal uuid="{56cc3952-5cce-4b58-9717-5748d2c7449d}" name="N" x="-10" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{77101e32-e2bf-4157-9438-25249ee8820d}" name="L3.2" x="200" y="80" orientation="s" type="Generic"/>
+        <terminal uuid="{3d15fb55-c8fb-405b-b987-19f6bd59ce70}" name="5" x="140" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{32fc849e-8af1-4383-a25f-b43c02c69609}" name="2" x="50" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{da9d969c-93a1-4b37-87f6-92b17b54113c}" name="L2.2" x="110" y="80" orientation="s" type="Generic"/>
+        <terminal uuid="{64feb894-8a62-45ed-8e06-26094bcdd1ab}" name="1" x="20" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{ef28c6c9-94a5-45f5-bdf9-360a79c6f011}" name="3" x="80" y="0" orientation="n" type="Generic"/>
+        <terminal uuid="{d7437ff6-1ae7-4a2f-b8b3-b0fd76b9f063}" name="L1.1" x="-10" y="80" orientation="s" type="Generic"/>
+        <terminal uuid="{ed5d7702-ca2e-4c2c-8e1e-08034e5f997a}" name="L3.1" x="170" y="80" orientation="s" type="Generic"/>
+        <terminal uuid="{5cbf39b5-e091-4e24-867a-fa37b456ab5a}" name="6" x="170" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

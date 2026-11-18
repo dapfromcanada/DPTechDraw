@@ -1,0 +1,21 @@
+<qet-directory>
+    <names>
+        <name lang="ar">مُرحلات حرارية</name>
+        <name lang="cs">Tepelná relé</name>
+        <name lang="da">Termiske relæer</name>
+        <name lang="de">Überstromrelais</name>
+        <name lang="el">Θερμικά</name>
+        <name lang="en">Thermal relays</name>
+        <name lang="es">Relés térmicos</name>
+        <name lang="fr">Relais thermiques</name>
+        <name lang="hu">Hőkioldók</name>
+        <name lang="it">Relè termici</name>
+        <name lang="ko">열동 계전기</name>
+        <name lang="nl">Thermisch blokken</name>
+        <name lang="pl">Przekaźniki termiczne</name>
+        <name lang="pt">Relés térmicos</name>
+        <name lang="pt_BR">Relés térmicos</name>
+        <name lang="ru">Тепловые реле</name>
+        <name lang="zh">30_热继电器</name>
+    </names>
+</qet-directory>

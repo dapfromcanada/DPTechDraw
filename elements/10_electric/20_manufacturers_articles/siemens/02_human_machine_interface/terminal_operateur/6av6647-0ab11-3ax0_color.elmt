@@ -1,0 +1,46 @@
+<definition version="0.80" type="element" link_type="simple" width="240" height="210" hotspot_x="15" hotspot_y="31">
+    <uuid uuid="{7b4de0ec-b6f4-efbd-cff0-debc6e18222a}"/>
+    <names>
+        <name lang="ar">6AV6647-0AB11-3AX0_1</name>
+        <name lang="ca">6AV6647-0AB11-3AX0_COLOR</name>
+        <name lang="cs">6AV6647-0AB11-3AX0_1</name>
+        <name lang="en">6AV6647-0AB11-3AX0_COLOR</name>
+        <name lang="fr">6AV6647-0AB11-3AX0_COULEUR</name>
+        <name lang="pl">6AV6647-0AB11-3AX0_1</name>
+        <name lang="pt">6AV6647-0AB11-3AX0_1</name>
+        <name lang="pt_BR">Painel de toque IHM Siemens KTP400 Basic Color (6AV6 647-0AB11-3AX0, 4 pol TFT colorido, PROFINET)</name>
+        <name lang="zh">6AV6647-0AB11-3AX0 彩色触摸屏</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Siemens</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-9" y="-28" width="230" height="197" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:HTMLWhiteHoneydew;color:black" antialias="false"/>
+        <text text="P1" x="28" y="150" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="PROFINET" x="6" y="136" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L+" x="166" y="160" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="X1" x="14" y="150" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="KTP600 BASIC MONO" x="-6" y="-17" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24VDC" x="168" y="150" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="M" x="187" y="160" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="187.5" y="165.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="173" y1="168" x2="187" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="167.5" y="165.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="166" y1="168" x2="167" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="140" width="30" height="28" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="160" y1="168" x2="160" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="161" y1="140" x2="200" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="200" y1="140" x2="200" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="193" y1="168" x2="199" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="-10" width="191" height="130" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:cyan;color:black" antialias="false"/>
+        <rect x="12" y="165" width="26" height="3" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="192" y="170.5" z="20" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="ElementInfo" uuid="{7cf2a61a-12c5-472b-ae59-dcc308cf5a01}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{3c321555-09c9-41bb-a419-38e4a99de6eb}" name="" x="170" y="171" orientation="s" type="Generic"/>
+        <terminal uuid="{2356c7d3-37e1-43d2-b9d5-2c204400a597}" name="" x="190" y="171" orientation="s" type="Generic"/>
+        <terminal uuid="{e126b89c-4359-428b-840a-8fddbb3a97f9}" name="" x="25" y="169" orientation="s" type="Generic"/>
+    </description>
+</definition>

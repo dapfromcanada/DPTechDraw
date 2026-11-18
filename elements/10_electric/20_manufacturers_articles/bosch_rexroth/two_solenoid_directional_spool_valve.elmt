@@ -1,0 +1,78 @@
+<definition version="0.100.0" type="element" link_type="simple" width="260" height="80" hotspot_x="135" hotspot_y="45">
+    <uuid uuid="{88d0bc0b-cc72-6ff8-425f-66102d87b966}"/>
+    <names>
+        <name lang="ca">Vàlvula direccional de dos solenoides</name>
+        <name lang="cs">Dvojcívkový elektroventil</name>
+        <name lang="en">Two solenoid directional spool valve</name>
+        <name lang="es">Válvula direccional de corredera de dos solenoides</name>
+        <name lang="pt_BR">Valvula direcional hidraulica de carretel com 2 solenoides Bosch Rexroth</name>
+        <name lang="zh">双电磁铁方向滑阀</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="25.87" y="-1.53" width="28" height="16" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-94.13" y="-1.53" width="28" height="16" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="39.87" y1="-9.53" x2="39.87" y2="-1.53" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="4" y="-28" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{fd323f68-f7bd-6a8a-c61c-95674656c912}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>3</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-116" y="-28" z="4" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{d8ac1d68-a4a0-dca4-4b30-a72a614d2c49}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>1</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="64" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{ca2d17af-b9b7-5aa2-ed39-8a05c03289fd}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>4</text>
+        </dynamic_text>
+        <dynamic_text x="-56" y="-28" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{daf42f21-d46a-6d84-2af8-afe3f0a7001c}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>2</text>
+        </dynamic_text>
+        <line x1="-80.13" y1="-9.53" x2="-80.13" y2="-1.53" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="39.87" y1="14.47" x2="39.87" y2="22.47" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-80.13" y1="14.47" x2="-80.13" y2="22.47" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-25" y1="-1" x2="-15" y2="-1" x3="-25" y3="14" x4="-15" y4="14" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-20" y1="6.47" x2="26" y2="6.47" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-27" y="-28" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{4e772f3d-27d5-6a05-dd8e-acde870bdc4b}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>PE</text>
+        </dynamic_text>
+        <dynamic_text x="93" y="-28" z="13" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{fa27ff75-02bd-66a5-38c0-ef0d0e6e9236}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>PE</text>
+        </dynamic_text>
+        <dynamic_text x="-142.47" y="-41" z="14" text_width="-1" Halignment="AlignRight" Valignment="AlignVCenter" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{22f830ef-6b68-24d7-4e42-57a5cb076aba}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-65.13" y1="6.47" x2="-20" y2="6.47" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-123" y="-20" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{542e9d09-f910-4435-769b-193e5b9d42ce}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>24 VDC</text>
+        </dynamic_text>
+        <dynamic_text x="-3" y="-20" z="15" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{76fef9de-d7b9-2a9a-5365-b823d7cdfca8}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>24 VDC</text>
+        </dynamic_text>
+        <dynamic_text x="-60" y="-20" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{968bee0a-665f-3c77-34d8-3b9c106ef127}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>GND</text>
+        </dynamic_text>
+        <dynamic_text x="60" y="-20" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{afdebbd5-9d43-598c-4309-2088ecc6db91}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>GND</text>
+        </dynamic_text>
+        <dynamic_text x="-111" y="-5" z="17" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{4cae06d0-e5f6-f409-6914-f1bd7d4043ca}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>a</text>
+        </dynamic_text>
+        <dynamic_text x="55" y="-5" z="18" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{b1053dbe-761b-e395-64e3-105c116d4f2f}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>b</text>
+        </dynamic_text>
+        <rect x="-130" y="-40" width="250" height="70" rx="0" ry="0" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-112" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="8" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="98" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-22" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-52" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="68" y="-30" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{d60ed19d-db6f-4460-ab5e-72b73a7cc143}" name="" x="-110" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{048630e9-82a7-4c86-a2f1-3cc11a6068f2}" name="" x="-50" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{b2536ba6-d4fc-4a87-af41-91feac148e71}" name="" x="-20" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{a4dbeee3-0146-42ff-907e-8d24e97dd053}" name="" x="100" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{763b5e78-1405-462d-b3f9-9cb9dcf34e31}" name="" x="10" y="-35" orientation="n" type="Generic"/>
+        <terminal uuid="{b52a7154-cc61-47cd-b929-f671bdcf275d}" name="" x="70" y="-35" orientation="n" type="Generic"/>
+    </description>
+</definition>

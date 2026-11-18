@@ -1,0 +1,18 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="110" height="40" hotspot_x="5" hotspot_y="5">
+    <uuid uuid="{bde94fc4-3552-2761-e718-068eb8896b3e}"/>
+    <names>
+        <name lang="ca">Conducte de cablejat de 30 mm</name>
+        <name lang="cs">Instalační žlab 30 mm</name>
+        <name lang="de">Verdrahtungskanal 30mm</name>
+        <name lang="en">Wiring duct 30mm</name>
+        <name lang="fr">Goulotte de câblage 30mm</name>
+        <name lang="pt_BR">fiacao duct 30mm</name>
+        <name lang="zh">30mm线槽</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="0" y="0" width="100" height="30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray" antialias="false"/>
+        <line x1="0" y1="0" x2="100" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="0" y1="30" x2="100" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

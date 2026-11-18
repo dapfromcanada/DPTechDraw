@@ -1,0 +1,24 @@
+<definition version="0.80" type="element" link_type="thumbnail" width="910" height="1130" hotspot_x="5" hotspot_y="2">
+    <uuid uuid="{1b995eb4-8110-82ce-c160-9f7d58748aee}"/>
+    <names>
+        <name lang="ca">035503 - Caixa Atlantic 500x400x200 Metall IP66 IK10 RAL7035</name>
+        <name lang="cs">035503 - Skříň Atlantic 500x400x200 ocelová IP66 IK10 RAL7035</name>
+        <name lang="fr">035503 - Coffret Atlantic 500x400x200 Métal IP66 IK10 RAL7035</name>
+        <name lang="pt_BR">035503 - Coffret Atlantic 500x400x200 Métal IP66 IK10 RAL7035</name>
+        <name lang="zh">035503-大西洋-500x400x200-金属-聚丙烯</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Coffret métal vertical Atlantic métal IP66 IK10 - 500x400x200mm - RAL7035</elementInformation>
+        <elementInformation show="1" name="designation">035503</elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+    </elementInformations>
+    <informations>Arnaud VALMARY</informations>
+    <description>
+        <rect x="0" y="0" width="900" height="1125" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="808.55" y="1030.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="808.55" y="75.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="72.55" y="1030.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="72.55" y="75.45" width="19.1" height="19.1" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <rect x="50" y="50" width="800" height="1025" rx="0" ry="0" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

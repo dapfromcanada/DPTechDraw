@@ -1,0 +1,76 @@
+<definition version="0.100.0" type="element" link_type="simple" width="740" height="120" hotspot_x="370" hotspot_y="54">
+    <uuid uuid="{46490a8a-73b6-bbdc-777c-f99fdbafe31b}"/>
+    <names>
+        <name lang="ca">750-1652</name>
+        <name lang="cs">750-1652</name>
+        <name lang="de">750-1652</name>
+        <name lang="en">750-1652</name>
+        <name lang="fr">750-1652</name>
+        <name lang="pt_BR">750-1652</name>
+        <name lang="zh">WAGO 0750-1652-0000-0000 通信模块</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Serial Interface RS-232 / RS-485</elementInformation>
+        <elementInformation show="1" name="designation">750-1652</elementInformation>
+        <elementInformation show="1" name="manufacturer">WAGO</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations>
+    <description>
+        <rect x="-360" y="-40" width="720" height="90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="Mode:" x="98" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="138" y="-42.5" z="3" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="UserText" uuid="{53bb737c-b86d-4ace-b7a5-cad92243dba9}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text>RS-232</text>
+        </dynamic_text>
+        <text text="TxD / Y" x="44" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="204" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RTS / Z" x="-276" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Shield" x="284" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="24V" x="-355" y="-11" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="0V" x="-355" y="9" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Shield" x="-36" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="RxD / A" x="124" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="CTS / B" x="-196" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="-116" y="48" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="117.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-202.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="37.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-282.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="277.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-42.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="197.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <ellipse x="-122.5" y="47.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line x1="-360" y1="10" x2="360" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-360" y1="-10" x2="360" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="WAGO 750-1652" x="-331" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="219" y="-42.5" z="25" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{eb303924-7dbd-4d49-bfee-249faba3676e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="1" x="-278" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="43" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="-197" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="123" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-117" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="7" x="203" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-37" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="283" y="58" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Serial Interface RS-232 / RS-485" x="-139" y="-27" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-362" y1="-10" x2="-356" y2="-10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="-12.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon x1="-362" y1="10" x2="-356" y2="10" closed="false" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black"/>
+        <arc x="360" y="7.5" width="5" height="5" start="90" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{47300325-7abd-7cf0-c1f3-18502f12d570}" name="Pow.N.In" x="-360" y="10" orientation="w" type="Generic"/>
+        <terminal uuid="{c9465415-7727-f624-0b28-ec7caeec49de}" name="Pow.L.In" x="-360" y="-10" orientation="w" type="Generic"/>
+        <terminal uuid="{5b84f115-53c4-f39e-8d69-5612e41e3d35}" name="Pow.N.Out" x="360" y="10" orientation="e" type="Generic"/>
+        <terminal uuid="{a88ecea3-4dd7-11da-8b1f-a5f779c2fad6}" name="Pow.L.Out" x="360" y="-10" orientation="e" type="Generic"/>
+        <terminal uuid="{ee758ab4-3c3b-1411-1f45-7b3d6678a29d}" name="1" x="-280" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{e6ac3c96-04f1-36e1-a7cb-df181803d0b9}" name="2" x="-200" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{07ad01ef-12f2-6b94-3d81-1de136cb5e5c}" name="3" x="-120" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{633675a6-dc0b-6d3f-bcd0-7440a8bbeaed}" name="4" x="-40" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{ebe6c9cf-50c2-0638-2f56-f696d43f9b18}" name="5" x="40" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{21f59c34-bc58-fa7a-8d82-c8fddf1c1db4}" name="6" x="120" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{a70b182a-3908-b6f5-0738-8a333e5b16aa}" name="7" x="200" y="50" orientation="s" type="Generic"/>
+        <terminal uuid="{797b0f72-6954-cf95-feba-d56cd5c10701}" name="8" x="280" y="50" orientation="s" type="Generic"/>
+    </description>
+</definition>

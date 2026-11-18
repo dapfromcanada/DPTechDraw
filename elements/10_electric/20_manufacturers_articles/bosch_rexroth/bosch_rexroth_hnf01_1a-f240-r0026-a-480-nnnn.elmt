@@ -1,0 +1,51 @@
+<definition version="0.100.0" type="element" link_type="simple" width="110" height="70" hotspot_x="60" hotspot_y="40">
+    <uuid uuid="{4bfe6708-29c9-7bfc-d04e-e24606b6c383}"/>
+    <names>
+        <name lang="ca">HNF01.1A-F240-R0026-A-480-NNNN (R911306539)</name>
+        <name lang="cs">HNF01.1A-F240-R0026-A-480-NNNN (R911306539)</name>
+        <name lang="en">HNF01.1A-F240-R0026-A-480-NNNN (R911306539)</name>
+        <name lang="pt_BR">Filtro de rede IndraDrive 26A 480V Bosch Rexroth HNF01.1A-F240-R0026-A-480-NNNN (R911306539)</name>
+        <name lang="zh">博世力士乐HNF01.1A-F240-R0026-A-480-NNNN</name>
+    </names>
+    <informations>EN 60617: 06-14-03</informations>
+    <description>
+        <text text="26A" x="-52" y="-5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="37.5" y="-2.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L3.1" x="13" y="14" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L1" x="-24" y="-19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="3" y1="20" x2="17" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-17" y1="20" x2="-3" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="L2.1" x="-7" y="14" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L2" x="-5" y="-19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-2.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="PE" x="26" y="-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="L3" x="15" y="-19" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="17.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-22.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-2.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="17.5" y="17.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-70" y="-33" z="16" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{7c4d8831-a483-4fc3-8e06-1a2a56516bd7}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="L1.1" x="-28" y="14" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-17" y1="-30" x2="-3" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="3" y1="-30" x2="17" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-22.5" y="-32.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-23" y1="-30" x2="-35" y2="-30" x3="-35" y3="20" x4="-23" y4="20" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="23" y1="-30" x2="40" y2="-30" x3="40" y3="-3" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="40" y1="3" x2="40" y2="20" x3="23" y3="20" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="3" y1="-10" x2="-3" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <arc x="-9" y="-8" width="10" height="8" start="90" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="-8" y="-8" width="8" height="6" start="0" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="0" y="-8" width="8" height="6" start="180" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <arc x="-1" y="-10" width="10" height="8" start="270" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <terminal uuid="{9c59136d-82fc-45b2-8c07-e4ab2b0988d1}" name="" x="0" y="-33" orientation="n" type="Generic"/>
+        <terminal uuid="{796ba961-3378-4068-901b-0b7e1596e339}" name="" x="-20" y="-33" orientation="n" type="Generic"/>
+        <terminal uuid="{d3c58f23-4e0c-4f0e-bb7b-1ed93311d7a9}" name="" x="-20" y="23" orientation="s" type="Generic"/>
+        <terminal uuid="{d32dc62d-ed5a-45db-86eb-3c17b6862952}" name="" x="0" y="23" orientation="s" type="Generic"/>
+        <terminal uuid="{b215206f-878c-424a-adfd-f9446e33609c}" name="" x="20" y="-33" orientation="n" type="Generic"/>
+        <terminal uuid="{a7258f91-1577-4f5b-b714-940126d2ed16}" name="" x="20" y="23" orientation="s" type="Generic"/>
+        <terminal uuid="{258e26c2-12ba-44be-8687-e36f13f0a53a}" name="" x="43" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

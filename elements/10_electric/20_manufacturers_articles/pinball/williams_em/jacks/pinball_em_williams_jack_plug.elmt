@@ -1,0 +1,18 @@
+<definition version="0.100.0" type="element" link_type="simple" width="40" height="20" hotspot_x="20" hotspot_y="10">
+    <uuid uuid="{719bbfa7-7544-bcb1-5d81-3bbbc938ec93}"/>
+    <names>
+        <name lang="ca">Endoll</name>
+        <name lang="en">Plug</name>
+        <name lang="nl">Contactpin</name>
+        <name lang="pt_BR">plugue</name>
+        <name lang="zh">弹球机电威廉姆斯插头</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <rect x="-2" y="-5" width="4" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="0" x2="-2" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="2" y1="0" x2="10" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{f1c00138-2e02-4435-9371-5338bd599fb3}" name="" x="10" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{e2c80e86-d9eb-4845-bcd2-dbcff66418e7}" name="" x="-10" y="0" orientation="w" type="Generic"/>
+    </description>
+</definition>

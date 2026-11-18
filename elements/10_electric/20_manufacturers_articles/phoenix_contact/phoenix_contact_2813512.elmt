@@ -1,0 +1,52 @@
+<definition version="0.100.0" type="element" link_type="simple" width="110" height="90" hotspot_x="35" hotspot_y="38">
+    <uuid uuid="{3686868c-e19b-151b-722f-ae5d389bb5da}"/>
+    <names>
+        <name lang="ca">Amplificador divisor Phoenix Contact 2813512</name>
+        <name lang="en">Splitter amplifier Phoenix Contact 2813512</name>
+        <name lang="fr">Amplificateur-séparateur Phoenix Contact 2813512</name>
+        <name lang="pt_BR">Splitter amplifier Phoenix contato 2813512</name>
+        <name lang="zh">菲尼克斯电气_2813512</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">2813512</elementInformation>
+        <elementInformation show="1" name="manufacturer">Phoenix Contact</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="1" x="36" y="45" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="56" y="-32" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2" x="56" y="45" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="36" y="-32" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="6" y="-32" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="-20" y1="-20" x2="20" y2="-20" x3="-20" y3="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-16" y1="20" x2="20" y2="20" x3="1" y3="2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="20" y1="16" x2="3" y2="0" x3="20" y3="-17" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="U" x="-10" y="-6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="In" x="-2" y="15" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="Out" x="7" y="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <polygon x1="40" y1="40" x2="40" y2="30" x3="-10" y3="30" x4="-10" y4="20" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="60" y1="40" x2="60" y2="25" x3="14" y3="25" x4="14" y4="20" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="40" y1="-30" x2="40" y2="-10" x3="20" y3="-10" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="60" y1="-30" x2="60" y2="10" x3="20" y3="10" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-10" y1="-30" x2="-10" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="10" y1="-30" x2="10" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-30" y="-30" width="100" height="70" rx="0" ry="0" style="line-style:dotted;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="7" x="-14" y="-32" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="UB" x="-18" y="-24" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="-2" y="-24" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="U" x="34" y="-24" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND" x="48" y="-24" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="U" x="34" y="37" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="GND1" x="46" y="37" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="80" y="-10" z="26" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{543b8699-77f7-4213-b7dc-27657289ec93}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{156d0ab8-a6c0-43fa-9196-2d653fee1b06}" name="" x="60" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{f2089031-b744-4ad7-ae40-7fcf90ea31e3}" name="" x="40" y="40" orientation="s" type="Generic"/>
+        <terminal uuid="{9e7c831f-0b45-47ac-8f8d-985330c87d93}" name="" x="60" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{61363a65-186d-4552-bf50-63e5a7a5468b}" name="" x="-10" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{5b72892d-0818-4426-903b-faf9dcb635fd}" name="" x="40" y="-30" orientation="n" type="Generic"/>
+        <terminal uuid="{2dc63a20-95aa-41a5-bbc6-b3d6881f6d2f}" name="" x="10" y="-30" orientation="n" type="Generic"/>
+    </description>
+</definition>

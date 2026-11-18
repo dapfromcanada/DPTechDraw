@@ -1,0 +1,69 @@
+<definition version="0.100.0" type="element" link_type="simple" width="160" height="60" hotspot_x="75" hotspot_y="55">
+    <uuid uuid="{1c4c9420-f220-6394-edd8-04a8109c431b}"/>
+    <names>
+        <name lang="ca">Interruptor selector de recollida de 3 vies</name>
+        <name lang="cs">3 Way Pickup Selector Switch</name>
+        <name lang="en">3 Way Pickup Selector Switch</name>
+        <name lang="pt_BR">Chave seletora de captadores 3 posições (Padrão Gibson / Fender)</name>
+        <name lang="zh">3路选择器</name>
+    </names>
+    <informations>Author: Thomas McMillan Grant Bennett
+Name: 3 Way Selector Switch
+Purpose:  To assiste in drawing guitar wiring diagrams
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="18" y="-45" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="-6" y="-45" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="42" y="-45" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="-42" y="-23" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="30" y="-23" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <rect x="-18" y="-23" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="71.5" y="-8.5" width="7" height="7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="6" y="-23" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <line x1="41" y1="-45" x2="41" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-43" y1="-3" x2="-43" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-19" y1="-3" x2="-19" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="17" y1="-45" x2="17" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="29" y1="-3" x2="29" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-7" y1="-45" x2="-7" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="5" y1="-3" x2="5" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-70" y="-10" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-3" x2="-10" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="26" y1="-45" x2="26" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="50" y1="-45" x2="50" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="2" y1="-45" x2="2" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-34" y1="-3" x2="-34" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="38" y1="-3" x2="38" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="70" y="-10" width="10" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="14" y1="-3" x2="14" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="7.75" y="-20" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="-68.5" y="-8.5" width="7" height="7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-16.25" y="-20" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="-4.25" y="-42" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="-40.25" y="-20" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="31.75" y="-20" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="19.75" y="-42" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="43.75" y="-42" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <rect x="-60" y="-25" width="5" height="25" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="65" y="-25" width="5" height="25" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-60" y="-30" width="130" height="5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-55" y="-5" width="120" height="5" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-30" y="-45" width="7.5" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <line x1="-31" y1="-45" x2="-31" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-22" y1="-45" x2="-22" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-28.25" y="-42" width="3.5" height="8" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <line x1="-55" y1="-10" x2="65" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-40" y="0" z="42" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{80bee70a-a12e-4519-96ac-4611a454b2b4}" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{0365f756-b538-4c4e-bd9b-65e19319186b}" name="" x="-3" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{4835760a-afb6-444a-b013-4aed2bcc8d5c}" name="" x="-27" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{75dc4971-28c1-478d-8c6e-e7e81679b6ff}" name="" x="46" y="-40" orientation="n" type="Generic"/>
+        <terminal uuid="{faeb1fed-bf81-4dbf-8c8f-0fb77d4be5bc}" name="" x="10" y="-17" orientation="n" type="Generic"/>
+        <terminal uuid="{701c21d4-47a8-490a-b193-df2283f2d538}" name="" x="-39" y="-17" orientation="n" type="Generic"/>
+        <terminal uuid="{fbc9fd17-785f-4ed9-bef1-8c8cad4bc332}" name="" x="-15" y="-17" orientation="n" type="Generic"/>
+        <terminal uuid="{40b9cef6-8e29-4234-afe3-c95a7854c7b7}" name="" x="34" y="-17" orientation="n" type="Generic"/>
+        <terminal uuid="{e185a806-b598-4244-858a-4102617804c3}" name="" x="22" y="-40" orientation="n" type="Generic"/>
+    </description>
+</definition>

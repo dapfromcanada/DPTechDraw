@@ -1,0 +1,16 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Výpočetní technika</name>
+        <name lang="de">Computertechnik</name>
+        <name lang="el">Τεχνολογία υπολογιστών</name>
+        <name lang="en">Computer science</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">INformatica</name>
+        <name lang="ko">컴퓨터 과학</name>
+        <name lang="nl">Computer wetenschap</name>
+        <name lang="pl">Komputery</name>
+        <name lang="pt_BR">Computer science</name>
+        <name lang="ru">Компьютеры</name>
+        <name lang="zh">计算机科学</name>
+    </names>
+</qet-directory>

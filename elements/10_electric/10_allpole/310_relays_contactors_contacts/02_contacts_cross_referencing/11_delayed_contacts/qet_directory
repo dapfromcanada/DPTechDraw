@@ -1,0 +1,20 @@
+<qet-directory>
+    <names>
+        <name lang="ar">مؤقتة</name>
+        <name lang="cs">Zpožděné kontakty</name>
+        <name lang="da">Forsinkede kontakter</name>
+        <name lang="de">Verzögert</name>
+        <name lang="el">Χρονικά</name>
+        <name lang="en">Delayed switches</name>
+        <name lang="es">Comutadores de retardo</name>
+        <name lang="fr">Temporisés</name>
+        <name lang="it">Temporizzati</name>
+        <name lang="ko">지연 접점</name>
+        <name lang="nl">Contacten vertraagd</name>
+        <name lang="pl">Zestyki zwierające z opóźnieniem</name>
+        <name lang="pt">Temporizados</name>
+        <name lang="pt_BR">Temporizados</name>
+        <name lang="ru">Контакты с задержкой</name>
+        <name lang="zh">延时触点</name>
+    </names>
+</qet-directory>

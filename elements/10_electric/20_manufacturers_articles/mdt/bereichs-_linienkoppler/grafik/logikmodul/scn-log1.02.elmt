@@ -1,0 +1,54 @@
+<definition version="0.80" type="element" link_type="simple" width="100" height="210" hotspot_x="14" hotspot_y="203">
+    <uuid uuid="{31bfc230-c200-6a53-04d7-544e885ec494}"/>
+    <names>
+        <name lang="ca">SCN-LOG1.02</name>
+        <name lang="de">SCN-LOG1.02</name>
+        <name lang="en">SCN-LOG1.02</name>
+        <name lang="pt_BR">Módulo lógico e processador de funções KNX MDT SCN-LOG1.02</name>
+        <name lang="zh">逻辑模块1.02</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">KNX BUS Power Supply</elementInformation>
+        <elementInformation show="1" name="designation">SCN-LOG1.02</elementInformation>
+        <elementInformation show="1" name="label">-SL</elementInformation>
+        <elementInformation show="1" name="manufacturer">MDT</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations>Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB</informations>
+    <description>
+        <text text="U2" x="66" y="-90" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="0" y="-200" width="80" height="200" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <ellipse x="60" y="-134" width="16" height="16" style="line-style:normal;line-weight:normal;filling:HTMLBlueDarkBlue;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="Prog." x="62" y="-124" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <text text="KNX" x="8" y="-53" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="MDT" x="54" y="-57" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="www.MDT.de" x="55" y="-54" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="18" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="0" y="-50" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="28" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" antialias="false"/>
+        <rect x="0" y="-170" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="3" x="19" y="-88" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="66" y="-114" width="4" height="4" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <ellipse x="13" y="-92" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <rect x="36" y="-14" width="3" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <text text="SCN-LOG1.02" x="2" y="-142" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="Logikmodul" x="2" y="-135" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <arc x="9" y="-61" width="11" height="5" start="2" angle="178" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <text text=">1s" x="63" y="-103" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="2" x="19" y="-106" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="13" y="-110" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <text text="1" x="19" y="-124" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="13" y="-128" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <text text="4" x="19" y="-70" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="13" y="-74" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <dynamic_text x="0" y="-172" z="34" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="CompositeText" uuid="{4a09f995-3be6-471f-9a1c-8daa331b05bb}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>-SL</text>
+            <info_name>plant</info_name>
+            <composite_text>%{plant}%{label}</composite_text>
+        </dynamic_text>
+        <terminal uuid="{f9194d95-7297-4f0b-8a3b-f8468d459b86}" name="KNX_-" x="23" y="-2" orientation="s" type="Generic"/>
+        <terminal uuid="{f215a24f-4476-46ec-a5e6-42f278f17346}" name="KNX_+" x="33" y="-2" orientation="s" type="Generic"/>
+    </description>
+</definition>

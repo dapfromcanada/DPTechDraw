@@ -1,0 +1,29 @@
+<definition version="0.100.0" type="element" link_type="simple" width="80" height="90" hotspot_x="40" hotspot_y="15">
+    <uuid uuid="{32447a43-b09a-904a-0759-98ee0a444121}"/>
+    <names>
+        <name lang="ca">Esborratxa a 4 contactes</name>
+        <name lang="en">Wiper to 4 contacts</name>
+        <name lang="nl">Sleepcontact naar 4 polen</name>
+        <name lang="pt_BR">Chave seletora deslizante com 4 contatos</name>
+        <name lang="zh">弹球机电磁威廉姆斯单元雨刮器至04</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <ellipse x="-15" y="55" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="15" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="35" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="60" x2="-15" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" y="-10" width="40" height="80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="40" x2="-15" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-15" y="-5" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="0" x2="-15" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-30" y1="20" x2="-15" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-5" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="-2" y1="-3" x2="-2" y2="3" x3="-5" y3="0" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <terminal uuid="{b05f603b-11d4-401f-b830-a3a663ed81bf}" name="" x="-30" y="60" orientation="w" type="Generic"/>
+        <terminal uuid="{59841a28-147c-41e5-a86d-e36fe65dfaa7}" name="" x="-30" y="20" orientation="w" type="Generic"/>
+        <terminal uuid="{229cf62a-74db-4d91-ab93-f22e81dd7fc4}" name="" x="30" y="0" orientation="e" type="Generic"/>
+        <terminal uuid="{3af14a7e-acd8-4354-9824-a6519732d83b}" name="" x="-30" y="40" orientation="w" type="Generic"/>
+        <terminal uuid="{ba8c1207-7828-4c12-94ea-3d6db9f1c963}" name="" x="-30" y="0" orientation="w" type="Generic"/>
+    </description>
+</definition>

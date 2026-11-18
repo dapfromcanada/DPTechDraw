@@ -1,0 +1,57 @@
+<definition version="0.100.0" type="element" link_type="simple" width="50" height="200" hotspot_x="16" hotspot_y="30">
+    <uuid uuid="{7d257ef2-aee0-8cc8-2299-a501bbcf36bd}"/>
+    <names>
+        <name lang="ar">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="ca">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="cs">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="en">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="fr">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="pl">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="pt">ET 200S 2AI FACE 6ES7134-4GB01-0AB0</name>
+        <name lang="pt_BR">Modulo de entradas analogicas Siemens ET 200S AI2 (6ES7 134-4GB01-0AB0, 2 entradas 4-20mA) - vista frontal</name>
+        <name lang="zh">6ES7 134-4GB01-0AB0 正面</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <ellipse x="17.5" y="137.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="17.5" y="117.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="17.5" y="157.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-2.5" y="137.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="-2.5" y="97.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <ellipse x="17.5" y="97.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="2" x="-7" y="117" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="6" x="14" y="117" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="5" x="13" y="97" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="4" x="-6" y="156" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="1" x="-7" y="97" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="8" x="14" y="156" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-2.5" y="117.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text text="7" x="13" y="136" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="2AI" x="4" y="23" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="3" x="-7" y="135" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <line x1="-10" y1="91" x2="-10" y2="167" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-28" x2="-10" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <ellipse x="-2.5" y="157.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="6" y1="168" x2="7" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="168" x2="5" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="-28" x2="2" y2="-28" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="30" y1="-28" x2="30" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-9" y1="90" x2="30" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-10" y1="50" x2="30" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="3" y1="-28" x2="30" y2="-28" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="7" y1="168" x2="29" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="0" y="169" z="28" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{50bfa5d9-1469-405c-809a-e4dcbd55a5c7}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{147c7647-0f9e-4487-a11e-5c0b237275d3}" name="" x="20" y="102" orientation="s" type="Generic"/>
+        <terminal uuid="{53424c76-0304-4707-9888-cf9040bce204}" name="" x="20" y="122" orientation="s" type="Generic"/>
+        <terminal uuid="{f3e1d283-2e76-4128-9e76-21d333df83ad}" name="" x="0" y="162" orientation="s" type="Generic"/>
+        <terminal uuid="{a8cf46be-24da-465e-841b-95bcb060343b}" name="" x="0" y="102" orientation="s" type="Generic"/>
+        <terminal uuid="{99e4945e-494b-4800-8850-fd4fe372cf51}" name="" x="0" y="142" orientation="s" type="Generic"/>
+        <terminal uuid="{0fb66c02-b3a0-4883-b541-7fbdd99e2385}" name="" x="20" y="142" orientation="s" type="Generic"/>
+        <terminal uuid="{ff1ba8a3-20fd-4973-8be6-94c3a3a6e633}" name="" x="0" y="122" orientation="s" type="Generic"/>
+        <terminal uuid="{07828a0c-6e76-4b33-ae5f-2cbf39d0f9a9}" name="" x="20" y="162" orientation="s" type="Generic"/>
+    </description>
+</definition>

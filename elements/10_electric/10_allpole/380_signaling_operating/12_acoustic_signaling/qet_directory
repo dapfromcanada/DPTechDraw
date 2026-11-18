@@ -1,0 +1,16 @@
+<qet-directory>
+    <names>
+        <name lang="cs">Akustická signalizace</name>
+        <name lang="de">Akustische Meldeeinrichtungen</name>
+        <name lang="el">Συσκευές ηχητικής σήμανσης</name>
+        <name lang="en">Acoustic signaling devices</name>
+        <name lang="es">Dispositivos de señalamiento acustico</name>
+        <name lang="fr">Signalements sonores</name>
+        <name lang="it">Segnalazione acustica</name>
+        <name lang="ko">음향 신호 장치</name>
+        <name lang="pl">Sygnalizatory dźwiękowe</name>
+        <name lang="pt_BR">Dispositivos de sinalizacao acustica</name>
+        <name lang="ru">Звуковая сигнализация</name>
+        <name lang="zh">12_声音信号</name>
+    </names>
+</qet-directory>

@@ -1,0 +1,74 @@
+<definition version="0.100.0" type="element" link_type="thumbnail" width="80" height="170" hotspot_x="40" hotspot_y="85">
+    <uuid uuid="{b0b9e531-d1fb-5d58-c43c-a9fbf0af1d65}"/>
+    <names>
+        <name lang="ca">CDA 240D</name>
+        <name lang="cs">CDA 240D</name>
+        <name lang="de">CDA 240D</name>
+        <name lang="en">CDA 240D</name>
+        <name lang="fr">CDA 240D</name>
+        <name lang="pt_BR">CDA 240D</name>
+        <name lang="zh">011_海格_单极加中线漏电保护器</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">RCD 40A 30mA</elementInformation>
+        <elementInformation show="1" name="designation">CDA240D</elementInformation>
+        <elementInformation show="1" name="label">-F1</elementInformation>
+        <elementInformation show="1" name="manufacturer">Hager</elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-36" y="-83" width="72" height="166" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-26" y="-75" width="16" height="150" rx="8" ry="8" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="10" y="-75" width="16" height="150" rx="8" ry="8" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-36" y="-60" width="72" height="120" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-36" y="-44" width="72" height="88" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <polygon x1="-4.42" y1="-80" x2="3.45" y2="-80" x3="3.45" y3="-69" x4="-4.42" y4="-69" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon x1="-4.42" y1="80" x2="3.45" y2="80" x3="3.45" y3="83" x4="-4.42" y4="83" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <rect x="-36" y="-40" width="72" height="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="-29" y="-29" width="22" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false"/>
+        <rect x="8" y="-28" width="22" height="10" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLBlueDodgerBlue;color:black" antialias="false"/>
+        <rect x="8" y="13" width="22" height="4" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="-36" y="13" width="72" height="4" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-36" y="17" width="72" height="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLCyanLightCyan;color:black" antialias="false"/>
+        <rect x="-29" y="-13" width="22" height="35" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="-29" y="7" width="22" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="-36" y="-66" width="4" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <rect x="32" y="-66" width="4" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false"/>
+        <text text=":hager" x="11" y="-34" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#99c1f1"/>
+        <rect x="-35" y="-38" width="45" height="4" rx="0" ry="0" style="line-style:normal;line-weight:none;filling:HTMLBlueLightSkyBlue;color:black" antialias="false"/>
+        <text text="0" x="-22" y="0" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <ellipse x="-24.5" y="-73.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="-21" y1="-70" x2="-15" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="-64" x2="-15" y2="-70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-18" y1="-70" x2="-18" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="-67" x2="-15" y2="-67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="11.5" y="-73.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="15" y1="-70" x2="21" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="-64" x2="21" y2="-70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="18" y1="-70" x2="18" y2="-64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-10.5" y="22" z="30" text_width="-1" Halignment="AlignHCenter" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{53643c92-3410-a7f0-cbf1-87e66ffffdf6}" font="Liberation Sans,5,-1,5,25,0,0,0,0,0,Regular">
+            <text>-F1</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="15" y1="-67" x2="21" y2="-67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <ellipse x="-24.5" y="60.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="-21" y1="64" x2="-15" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="70" x2="-15" y2="64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-7" y="-4" z="35" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{8ff8a0a2-df4d-0cc5-8860-59fa4649643f}" font="Liberation Sans,3,-1,5,0,0,0,0,0,0,Regular">
+            <text>40A / IΔn 0,03 A</text>
+        </dynamic_text>
+        <line x1="-18" y1="64" x2="-18" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="-21" y1="67" x2="-15" y2="67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-7" y="-14" z="37" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="UserText" uuid="{3cf86196-8c70-a3d3-e34c-1cc95978954e}" font="Liberation Sans,4,-1,5,0,0,0,0,0,0,Regular">
+            <text>CDA 240D</text>
+        </dynamic_text>
+        <ellipse x="11.5" y="60.5" width="13" height="13" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <line x1="15" y1="64" x2="21" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="70" x2="21" y2="64" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="18" y1="64" x2="18" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="15" y1="67" x2="21" y2="67" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="17" y1="-26" x2="21" y2="-26" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:white" antialias="false"/>
+        <line x1="19" y1="-26" x2="19" y2="-20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:white" antialias="false"/>
+    </description>
+</definition>

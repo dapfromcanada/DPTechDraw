@@ -1,0 +1,62 @@
+<definition version="0.90" type="element" link_type="simple" width="70" height="200" hotspot_x="68" hotspot_y="183">
+    <uuid uuid="{e478ea4b-dc17-d31f-637d-2da832228bbc}"/>
+    <names>
+        <name lang="ca">flb3601_usb</name>
+        <name lang="en">flb3601_usb</name>
+        <name lang="pt_BR">Módulo de expansão com portas USB adicionais Ewon FLB3601</name>
+        <name lang="zh">USB 扩展模块 FLB3601</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">flb3601_usb</elementInformation>
+        <elementInformation show="1" name="manufacturer">Ewon</elementInformation>
+    </elementInformations>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text text="FLB 3601" x="-39" y="8" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-38" y="-137" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-127" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-142" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-132" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="P2" x="-14" y="-168" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-40" y="-144" width="2" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="USB" x="-2.95" y="-146.49" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <text text="P3" x="-6" y="-168" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-38" y="-82" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-42" y="-148" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-32" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-92" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="P1" x="-22" y="-168" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <dynamic_text x="-60" y="-210" z="14" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="true" text_from="ElementInfo" uuid="{fca15532-d165-8878-63df-f3f6d327e30b}" font="Liberation Sans,7,-1,5,0,0,0,0,0,0,Regular">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="STAT" x="-30.35" y="-168" rotation="270" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000"/>
+        <rect x="-38" y="-42" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-42" y="-98" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-42" y="-48" width="10" height="30" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-37" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-87" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-34" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-27" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-38" y="-77" width="1" height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-40" y="-44" width="2" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-40" y="-94" width="2" height="22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-10" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-44" y="-50" width="14" height="34" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-44" y="-100" width="14" height="34" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-26" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-18" y="-165" width="6" height="6" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="-60" y="-180" width="60" height="190" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-60" y="-167" width="60" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-44" y="-150" width="14" height="34" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-63" y="-142" z="42" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="UserText" uuid="{0f8c947c-9faf-de53-b475-00b27b1f1bb7}" font="Liberation Sans,3,-1,5,0,0,0,0,0,0,Regular">
+            <text>P1</text>
+        </dynamic_text>
+        <dynamic_text x="-63" y="-92" z="42" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="UserText" uuid="{e22de561-0191-5de4-e7d6-f7300d298afd}" font="Liberation Sans,3,-1,5,0,0,0,0,0,0,Regular">
+            <text>P2</text>
+        </dynamic_text>
+        <dynamic_text x="-63" y="-42" z="42" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="270" keep_visual_rotation="false" text_from="UserText" uuid="{e8ef5bda-e64c-1b2c-5d6d-fcaf64dadfe7}" font="Liberation Sans,3,-1,5,0,0,0,0,0,0,Regular">
+            <text>P3</text>
+        </dynamic_text>
+    </description>
+</definition>

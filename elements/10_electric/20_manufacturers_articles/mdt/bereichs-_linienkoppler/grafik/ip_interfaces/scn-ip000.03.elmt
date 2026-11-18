@@ -1,0 +1,78 @@
+<definition version="0.80" type="element" link_type="simple" width="100" height="210" hotspot_x="14" hotspot_y="203">
+    <uuid uuid="{6815e662-2203-ff4d-cd70-b40d402a0f13}"/>
+    <names>
+        <name lang="ca">SCN-IP000.03</name>
+        <name lang="de">SCN-IP000.03</name>
+        <name lang="en">SCN-IP000.03</name>
+        <name lang="pt_BR">Interface IP Ethernet KNX MDT SCN-IP000.03</name>
+        <name lang="zh">SCN-IP000.03 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">IP Interface</elementInformation>
+        <elementInformation show="1" name="designation">SCN-IP000.03</elementInformation>
+        <elementInformation show="1" name="label">-XX</elementInformation>
+        <elementInformation show="1" name="manufacturer">MDT</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations>Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB</informations>
+    <description>
+        <rect x="0" y="-200" width="80" height="200" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <text text="CE" x="60" y="-57" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="60" y1="-181" x2="60" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="KNX" x="57" y="-135" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="58" y1="-181" x2="58" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="MDT" x="54" y="-123" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="56" y1="-181" x2="56" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="www.MDT.de" x="55" y="-120" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="54" y1="-181" x2="54" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="62" y1="-181" x2="62" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="-50" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="-170" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="64" y1="-181" x2="64" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="66" y1="-181" x2="66" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line x1="58" y1="-78" x2="28" y2="-78" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <rect x="2" y="-131" width="45" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:yellow;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="68" y1="-181" x2="68" y2="-179" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="SCN-IP000.03" x="2" y="-142" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="47" y="-195" width="28" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="56" y1="-187" x2="56" y2="-187" x3="50" y3="-187" x4="50" y4="-179" x5="72" y5="-179" x6="72" y6="-187" x7="66" y7="-187" x8="66" y8="-189" x9="64" y9="-189" x10="64" y10="-191" x11="58" y11="-191" x12="58" y12="-189" x13="56" y13="-189" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="IP Interface" x="2" y="-135" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <arc x="58" y="-143" width="11" height="5" start="2" angle="178" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <rect x="53" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="63" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" antialias="false"/>
+        <rect x="71" y="-14" width="3" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <text text="Function" x="21" y="-57" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="32" y="-73" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <ellipse x="43" y="-43" width="6" height="6" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="32" y="-42" width="4" height="4" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <text text="Prog." x="34" y="-32" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="43" y1="-79" x2="43" y2="-110" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <ellipse x="43" y="-62" width="6" height="6" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <ellipse x="50" y="-73" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <ellipse x="32" y="-87" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <ellipse x="50" y="-87" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <ellipse x="32" y="-108" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <ellipse x="50" y="-108" width="4" height="4" style="line-style:normal;line-weight:normal;filling:orange;color:orange" antialias="false"/>
+        <text text="GA" x="25" y="-69" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="PA" x="43" y="-69" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="Traffic" x="15" y="-83" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="Bus State" x="8" y="-104" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="IP" x="31" y="-93" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#00008b"/>
+        <text text="TP" x="49" y="-93" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" color="#00008b"/>
+        <dynamic_text x="7" y="-135" z="156" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" rotation="0" text_from="UserText" uuid="{60bee164-d6ab-4c7f-9bb9-9b662558c325}" font="Liberation Sans,8,-1,5,0,0,0,0,0,0,Regular">
+            <text>1.1.2</text>
+            <info_name>plant</info_name>
+            <color>#00008b</color>
+        </dynamic_text>
+        <dynamic_text x="0" y="-172" z="158" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="CompositeText" uuid="{4a09f995-3be6-471f-9a1c-8daa331b05bb}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>-XX</text>
+            <info_name>plant</info_name>
+            <composite_text>%{plant}%{label}</composite_text>
+        </dynamic_text>
+        <terminal uuid="{dbe4cad8-730b-43ed-9611-b77ef23568ad}" name="Network" x="61" y="-191" orientation="n" type="Generic"/>
+        <terminal uuid="{ec0e5198-2396-4a96-82e7-8fc93f0c699c}" name="KNX_NL +" x="68" y="-2" orientation="s" type="Generic"/>
+        <terminal uuid="{c0345af5-29b1-43c8-bbd0-c1288d2a1011}" name="KNX_NL -" x="58" y="-2" orientation="s" type="Generic"/>
+    </description>
+</definition>

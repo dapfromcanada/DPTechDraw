@@ -1,0 +1,84 @@
+<definition version="0.80" type="element" link_type="simple" width="100" height="210" hotspot_x="14" hotspot_y="203">
+    <uuid uuid="{9a3f845b-ea0d-1dcd-046a-1b5b01defa38}"/>
+    <names>
+        <name lang="ca">STV-0320.02</name>
+        <name lang="de">STV-0320.02</name>
+        <name lang="en">STV-0320.02</name>
+        <name lang="pt_BR">Fonte de alimentação KNX 320mA MDT STV-0320.02</name>
+        <name lang="zh">STV-0320.02 元件</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">KNX BUS Power Supply</elementInformation>
+        <elementInformation show="1" name="designation">STV-0320.02</elementInformation>
+        <elementInformation show="1" name="label">-SV</elementInformation>
+        <elementInformation show="1" name="manufacturer">MDT</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations>Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB</informations>
+    <description>
+        <text text="U2" x="66" y="-90" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <arc x="35" y="-106" width="5" height="5" start="2" angle="178" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <arc x="40" y="-106" width="5" height="5" start="179" angle="181" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <rect x="0" y="-200" width="80" height="200" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <text text="U1 BUS" x="62" y="-100" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="50Hz" x="14" y="-99" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="320mA" x="37" y="-83" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="230VAC" x="13" y="-103" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="50" y1="-94" x2="44" y2="-94" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="55" y1="-101" x2="55" y2="-105" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="57" y1="-101" x2="57" y2="-105" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="CE" x="60" y="-70" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="27" y1="-103" x2="33" y2="-103" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="56" y1="-100" x2="56" y2="-106" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="50" y1="-92" x2="44" y2="-92" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="33" y1="-88" x2="53" y2="-108" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="-5...+45°C" x="34" y="-109" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="30VDC" x="62" y="-103" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="I>max" x="7" y="-68" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="12" y="-195" width="56" height="15" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:HTMLGreenLimeGreen;color:black" antialias="false"/>
+        <ellipse x="35" y="-193" width="10" height="10" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <ellipse x="60" y="-134" width="16" height="16" style="line-style:normal;line-weight:normal;filling:HTMLBlueDarkBlue;color:HTMLBlueDarkBlue" antialias="false"/>
+        <text text="Reset" x="62" y="-124" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff"/>
+        <ellipse x="54" y="-193" width="10" height="10" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <line x1="35" y1="-188" x2="45" y2="-188" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="KNX" x="8" y="-53" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="54" y1="-188" x2="64" y2="-188" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="MDT" x="54" y="-57" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="www.MDT.de" x="55" y="-54" rotation="0" font="Liberation Sans,2,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="16" y="-193" width="10" height="10" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <line x1="16" y1="-188" x2="26" y2="-188" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="18" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false"/>
+        <rect x="0" y="-50" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="28" y="-16" width="10" height="15" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" antialias="false"/>
+        <rect x="0" y="-170" width="80" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text text="RUN" x="10" y="-84" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <line x1="68" y1="-139" x2="68" y2="-150" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="68" y1="-139" x2="12" y2="-139" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <ellipse x="66" y="-114" width="4" height="4" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <ellipse x="13" y="-78" width="4" height="4" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <text text="L" x="20" y="-142" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <ellipse x="13" y="-94" width="4" height="4" style="line-style:normal;line-weight:normal;filling:green;color:green" antialias="false"/>
+        <rect x="36" y="-14" width="3" height="6" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:red" antialias="false"/>
+        <text text="STV-0320.02" x="2" y="-130" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="Bus power supply" x="2" y="-123" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <arc x="9" y="-61" width="11" height="5" start="2" angle="178" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="true"/>
+        <text text="N" x="38" y="-142" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <text text="PE" x="56" y="-142" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#00008b"/>
+        <rect x="33" y="-108" width="20" height="20" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <rect x="53" y="-108" width="6" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="12" y1="-139" x2="12" y2="-150" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <line x1="59" y1="-103" x2="61" y2="-103" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDarkBlue" antialias="false"/>
+        <dynamic_text x="0" y="-172" z="126" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" text_from="CompositeText" uuid="{4a09f995-3be6-471f-9a1c-8daa331b05bb}" font="Liberation Sans,9,-1,5,0,0,0,0,0,0,Regular">
+            <text>-SV</text>
+            <info_name>plant</info_name>
+            <composite_text>%{plant}%{label}</composite_text>
+        </dynamic_text>
+        <terminal uuid="{09773ea2-4214-4fb6-8daf-194e174ec2dc}" name="PE" x="59" y="-193" orientation="n" type="Generic"/>
+        <terminal uuid="{f215a24f-4476-46ec-a5e6-42f278f17346}" name="KNX_+" x="33" y="-2" orientation="s" type="Generic"/>
+        <terminal uuid="{ea630bff-01b5-4a4c-a095-220452da0adc}" name="L" x="21" y="-193" orientation="n" type="Generic"/>
+        <terminal uuid="{f9194d95-7297-4f0b-8a3b-f8468d459b86}" name="KNX_-" x="23" y="-2" orientation="s" type="Generic"/>
+        <terminal uuid="{12c8188c-5232-4644-a533-c886c59e319d}" name="N" x="40" y="-193" orientation="n" type="Generic"/>
+    </description>
+</definition>
