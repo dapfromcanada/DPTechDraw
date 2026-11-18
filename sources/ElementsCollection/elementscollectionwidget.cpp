@@ -340,7 +340,8 @@ void ElementsCollectionWidget::customContextMenu(const QPoint &point)
 			{
 				if (!feci->isMacrosCollection()) {
 					m_context_menu->addAction(m_new_element);
-					m_context_menu->addAction(m_import_edz);
+					// DPTechDraw: "Import an EPLAN part (.edz)" removed
+					// from this menu (code kept).
 				}
 				m_context_menu->addAction(m_new_directory);
 				if (!feci->isCollectionRoot())

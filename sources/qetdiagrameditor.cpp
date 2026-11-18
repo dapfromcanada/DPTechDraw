@@ -263,6 +263,9 @@ void QETDiagramEditor::setUpAutonumberingWidget()
 				|QDockWidget::DockWidgetMovable
 				|QDockWidget::DockWidgetFloatable);
 	addDockWidget(Qt::RightDockWidgetArea, m_autonumbering_dock);
+		// DPTechDraw: hidden, and left out of the panels menu
+	m_autonumbering_dock->toggleViewAction()->setVisible(false);
+	m_autonumbering_dock->hide();
 }
 
 /**
@@ -899,16 +902,15 @@ void QETDiagramEditor::setUpMenu()
 	menu_project -> addSeparator();
 	menu_project -> addAction(m_project_add_diagram);
 	menu_project -> addAction(m_remove_diagram_from_project);
-	menu_project -> addAction(m_clean_project);
 	menu_project -> addSeparator();
 	menu_project -> addAction(m_add_summary);
 	menu_project -> addAction(m_add_nomenclature);
 	menu_project -> addAction(m_csv_export);
 	menu_project -> addAction(m_project_export_conductor_num);
-	menu_project -> addAction(m_terminal_strip_dialog);
-	menu_project -> addAction(m_project_terminalBloc);
 	menu_project -> addAction(m_project_export_wiring_list);
-	menu_project -> addAction(m_terminal_numbering);
+	// DPTechDraw: removed from the menu (code kept): "Clean project",
+	// "Terminal strip manager (DEV)", "Launch terminal strip plugin" and
+	// "Automatic terminal numbering". Not needed for simple drawings.
 #ifdef QET_EXPORT_PROJECT_DB
 	menu_project -> addSeparator();
 	menu_project -> addAction(m_export_project_db);
@@ -922,12 +924,8 @@ void QETDiagramEditor::setUpMenu()
 
 
 	// menu Affichage
-	QMenu *projects_view_mode = menu_affichage -> addMenu(QET::Icons::ConfigureToolbars, tr("Afficher les projets"));
-	projects_view_mode -> setTearOffEnabled(true);
-	projects_view_mode -> addAction(m_windowed_view_mode);
-	projects_view_mode -> addAction(m_tabbed_view_mode);
-
-	menu_affichage -> addSeparator();
+	// DPTechDraw: projects always open as tabs, so the "show projects as
+	// tabs / as windows" choice is gone (see readSettings()).
 	menu_affichage -> addAction(m_mode_selection);
 	menu_affichage -> addAction(m_mode_visualise);
 	menu_affichage -> addSeparator();
@@ -2114,10 +2112,7 @@ void QETDiagramEditor::slot_updateWindowsMenu()
 	windows_menu -> addAction(m_close_file);
 	//windows_menu -> addAction(closeAllAct);
 
-	// actions de reorganisation des fenetres
-	windows_menu -> addSeparator();
-	windows_menu -> addAction(m_tile_window);
-	windows_menu -> addAction(m_cascade_window);
+	// DPTechDraw: "Tile" and "Cascade" removed; projects are always tabs.
 
 	// actions de deplacement entre les fenetres
 	windows_menu -> addSeparator();
@@ -2206,13 +2201,13 @@ void QETDiagramEditor::readSettings()
 	QVariant state = settings.value("diagrameditor/state");
 	if (state.isValid()) restoreState(state.toByteArray());
 
-	// gestion des projets (onglets ou fenetres)
-	bool tabbed = settings.value("diagrameditor/viewmode", "tabbed") == "tabbed";
-	if (tabbed) {
-		setTabbedMode();
-	} else {
-		setWindowedMode();
-	}
+	// DPTechDraw: projects always open as tabs (no windowed mode).
+	setTabbedMode();
+
+	// DPTechDraw: the auto-numbering panel is not used. It still exists
+	// (other code talks to it) but stays hidden, even if an old saved
+	// window layout says it was open.
+	m_autonumbering_dock->hide();
 }
 
 /**
